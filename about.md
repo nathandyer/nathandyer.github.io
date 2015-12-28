@@ -21,10 +21,4 @@ A beautiful Twitter client for elementary OS
 
 Visit [Birdie's Website](https://birdieapp.eu)
 
-### Other Projectsojects.eu)
-
-### Other Projectsojectsie's Website](https://birdieapp.eu)
-
-### Other Projectsojects.eu)
-
-### Other Projectsojects
+### Other Projects
