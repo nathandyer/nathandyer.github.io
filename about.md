@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/nathan.jpg"
 ---
 > Software developer. Minimalism fetishist. Drinker of Kool-Aid. Skeptically optimistic. I'm the guy making Vocal and Birdie.
 
@@ -20,5 +19,7 @@ A beautiful Twitter client for elementary OS
 <img align="center" src="https://raw.githubusercontent.com/nathandyer/nathandyer.github.io/master/img/birdie.png" alt="Birdie Screenshot">
 
 Visit [Birdie's Website](https://birdieapp.eu)
+
+### Other Projectsojects.eu)
 
 ### Other Projectsojects
