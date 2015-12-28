@@ -18,36 +18,22 @@ Here's an example of an image, which is included using Markdown:
 
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
 
-{% highlight css %}
-nav a:hover {
-  color: rgba(0,0,0,.72);
+{% highlight js %}
+// count to ten
+for (var i = 1; i <= 10; i++) {
+    console.log(i);
 }
-nav a.current {
-  color: rgba(0, 0, 0, .72)
-}
-.subtitle {
-  margin: 30px 0;
-}
-{% endhighlight %}
 
-You can also add line numbers by setting `linenos`. Like in this example:
-
-{% highlight bash linenos %}
-#!/bin/bash
-
-###### CONFIG
-ACCEPTED_HOSTS="/root/.hag_accepted.conf"
-BE_VERBOSE=false
-
-if [ "$UID" -ne 0 ]
-then
- echo "Superuser rights required"
- exit 2
-fi
-
-genApacheConf(){
- echo -e "# Host ${HOME_DIR}$1/$2 :"
+// count to twenty
+var j = 0;
+while (j < 20) {
+    j++;
+    console.log(j);
 }
 {% endhighlight %}
 
-Note that when you try to copy this code block the line numbers will be copied too.
+Type Theme uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
+
+Alternatively, they can be shown on a new line:
+
+$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
