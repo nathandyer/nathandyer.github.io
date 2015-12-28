@@ -1,6 +1,10 @@
 // pygments-css (https://github.com/richleland/pygments-css)
 
 .hll { background-color: #49483e }
+.lineno {
+  color: rgba(249, 249, 242, 0.44);
+  margin-right: 8px;
+}
 .c { color: #75715e } /* Comment */
 .err { color: #960050; background-color: #1e0010 } /* Error */
 .k { color: #66d9ef } /* Keyword */
