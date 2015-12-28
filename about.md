@@ -16,7 +16,7 @@ Visit [Vocal's Website](https://vocalproject.net)
 
 ### Birdie
 A beautiful Twitter client for elementary OS
-~[](img/birdie.png)
+![](img/birdie.png)
 
 Visit [Birdie's Website](https://birdieapp.eu)
 
