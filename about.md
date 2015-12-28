@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Nathan chatting with friends at System76. Creative Commons photo from System76](https://raw.githubusercontent.com/nathandyer/nathandyer.github.io/master/img/nathan_banner.jpg)
 
-Software developer. Minimalism fetishist. Drinker of Kool-Aid. Skeptically optimistic. I'm the guy making Vocal and Birdie.
+> Software developer. Minimalism fetishist. Drinker of Kool-Aid. Skeptically optimistic. I'm the guy making Vocal and Birdie.
 
 ## Projects
 
