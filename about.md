@@ -4,9 +4,20 @@ title: About
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
+> Software developer. Minimalism fetishist. Drinker of Kool-Aid. Skeptically optimistic. I'm the guy making Vocal and Birdie.
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+## Projects
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+### Vocal
+A simple podcast client for the modern free desktop.
+![](https://raw.githubusercontent.com/vocalapp/vocalapp.github.io/master/images/home/01.png)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Visit [Vocal's Website](https://vocalproject.net)
+
+### Birdie
+A beautiful Twitter client for elementary OS
+~[](img/birdie.png)
+
+Visit [Birdie's Website](https://birdieapp.eu)
+
+### Other Projects this file freely.
