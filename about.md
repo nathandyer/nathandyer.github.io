@@ -10,15 +10,15 @@ feature-img: "img/nathan-about.png"
 
 ### Vocal
 A simple podcast client for the modern free desktop.
-![](https://raw.githubusercontent.com/vocalapp/vocalapp.github.io/master/images/home/01.png)
+<center>![](https://raw.githubusercontent.com/vocalapp/vocalapp.github.io/master/images/home/01.png)</center>
 
 Visit [Vocal's Website](https://vocalproject.net)
 
 ### Birdie
 A beautiful Twitter client for elementary OS
 
-![](https://raw.githubusercontent.com/nathandyer/nathandyer.github.io/master/img/birdie.png)
+<center>![](https://raw.githubusercontent.com/nathandyer/nathandyer.github.io/master/img/birdie.png)</center>
 
 Visit [Birdie's Website](https://birdieapp.eu)
 
-### Other Projects this file freely.
+### Other Projects
