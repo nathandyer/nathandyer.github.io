@@ -13,7 +13,7 @@ Just a quick note here at the beginning to let you know that I posted the Birdie
 
 First, I have modified the reward levels on the page. Previously, I had three levels: $2 would give you insider access to the work going on with my projects (more on that later), $4 would give you access to "Easter Eggs," and $8 would give you access to early in-development builds so you can use the software before anyone else.
 
-After seeing how things panned out over the past few months, and based on your feedback, I decided to simply things a bit. Basically, I decided to completely get rid of the $4 Easter Egg level (this affects only one current Patron), and I also decided to lower the early access level to $5. I'll explain my reasoning for these changes below.
+After seeing how things panned out over the past few months, and based on your feedback, I decided to simplify things a bit. Basically, I decided to completely get rid of the $4 Easter Egg level (this affects only one current Patron), and I also decided to lower the early access level to $5. I'll explain my reasoning for these changes below.
 
 ### No More Easter Eggs
 
