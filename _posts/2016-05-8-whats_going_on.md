@@ -29,6 +29,7 @@ simply elementary, the podcast I co-host with Dane Henson, will be starting back
 
 ## Upcoming Projects
 Throughout the remainder of 2016 I will be working on:
+
 ### Indie Development
 * Starting Vocal 3.0 (with library and episode syncing)
 * Delivering multiple point releases of Birdie (2.x)
