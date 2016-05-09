@@ -15,7 +15,7 @@ This obviously means that a lot of things in my life will be changing, but perha
 
 I'm most looking forward to finally having my own office! This is what it looks like right now (sorry for the blurry pic):
 
-![](img/2016-05-08/office_before.jpg)
+![](http://nathandyer.me/img/2016-05-08/office_before.jpg)
 
 I'll upload photos later to show what it looks list post-reno.
 
