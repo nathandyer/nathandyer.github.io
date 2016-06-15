@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/nathandyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nathandyer.me
+  * I am nathandyer (https://keybase.io/nathandyer) on keybase.
+  * I have a public key with fingerprint BB21 0342 AC64 7145 3876  373E 35D6 530B B8D1 1C23
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200dbc9022db91feebdcdd09fbe07d87ee6da3040f9df1ad23d204c7317d7415b00a",
+            "fingerprint": "bb210342ac6471453876373e35d6530bb8d11c23",
+            "host": "keybase.io",
+            "key_id": "35d6530bb8d11c23",
+            "kid": "0101a3ffe6794f00b2d3b697cbb5dd0997ed9dece2985f8be1efe4ef88d70ec81ecf0a",
+            "uid": "dc645541907815b34039a9f0194f7419",
+            "username": "nathandyer"
+        },
+        "service": {
+            "hostname": "nathandyer.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465997395,
+    "expire_in": 157680000,
+    "prev": "5e265bee55b8b16d827ec62e40d8c3cc8624bf01a01f9e8d8985bad4dd1f6d6e",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUltIFUEYPsfSzLAiigiDaCNKkprZ2cvs6X6RiKILEdr1tDPzj2fTzh53N81u
+ZEZhENmdoqKgoIIgEiPwISIrtV4iqIegpJdQM6IHIZBqVuqp5mX4//m+b77v528p
+HpHIS5pvN4559HrqjOTLXpaocCu379eYLxq01H6tGoYvqBEQRulqT2gpDWEdIcG4
+g3RdMAdLACa4EMiRDJAtqA1gCZcgA0lHSOwKnQgdGdwm2Ba2gU2GkKuVadLLVkGQ
+C7xspGQZ0zEihu5yy7CxYRJqW8QmQExhmQQxRgXGXCeKmPHDmKHMMTeEuZ6veqpI
+D9v7D/6vb4RdIiVYtmNIhJguCLMcmzNmxu4dG4QjgIPuUFNSBhgkGCApFTYCTjFw
+Oex7z7CcUD5N08AOsqmKRAxEHNeRCCtxFdKJgSEEWXc3KHTWjTJuVjRAoB0s01S/
+zuMQjzbO8g9mrqrLtFzgRz73a9RTJopyqZgZNeRiaD2w9B+RNPOyQk1SEeogCD0/
+q6WwQvLIi1WxYZkqGnHMMg325rwA0l6MMG2LInXib6BOSZqgW+ZWBmCajDJsCarb
+wC0dDCQoJ5xTSzeYyuciLB2ggqoxMVcYQmBpCSt2HEJt1lfiWBl1q5Ro6FWpVHsC
+0A4WNSenjkwk8xIF+XnxkiWKRo//u3lXLxYmGutr56ztDjo3l6DU9N6CphFaN9rX
+Vnjpa2Z9e//FG3euzAoXnTr2bFd+60BU+vDecvnj/KZXTYWT3l1emtsWtn471/DZ
+Lk2Wv1mZnt47qvnoyuSBDcXLGjV+/VPzYMWSkvDs4g+Hn3xs7B/6tn4Qrehf1bdw
+o4xaDuzomTOqsmPNzecPut/PjGaX1uXnSFg5bsLuQ8nTH3nR2Mfd09b5Axu6Jm7p
+6Lx5Nk9bMvZV++rbd4/jM0cn7+yqv/Sivrd23q78zr5xPW3lt2oa3z8rWj6Q2jpy
+vBV9+XLiZMXPhR/OTBl6errr1zqZsSi0HJ5f3HTkWMH9lkMLMs8HcxeufR+4865k
+TPlv
+=g037
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nathandyer
+
+==================================================================
