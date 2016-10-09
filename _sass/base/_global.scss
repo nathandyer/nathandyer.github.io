@@ -91,7 +91,7 @@ p, ol, ul, dl, .math-display {
   width: 100%;
 }
 ol, ul {
-  list-style-position: inside;
+  list-style-position: outside;
 }
 hr {
   border: 0;
@@ -117,4 +117,7 @@ img[align=left] {
 }
 img[align=right] {
   margin-left: 3%;
+}
+ul ul li {
+  margin-left: 8%;
 }
