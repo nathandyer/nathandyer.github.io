@@ -23,6 +23,6 @@ Without saying too much, here are some changes you can expect to see:
 
 I'm sure there's a lot more that I've forgotten to mention, but that's the gist. If you have any questions, please send them my way. I hope you are all as excited about this as I am. Lots of great new things are in store.
 
-- Nathan
+-Nathan
 
 [nathan@needleandthread.co](mailto:nathan@needleandthread.co)
