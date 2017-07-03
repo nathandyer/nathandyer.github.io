@@ -2,9 +2,10 @@
 layout: post
 title: Announcing Needle &amp; Thread
 ---
-![Needle &amp; Thread's Logo](http://needleandthread.co/logo.svg)
 
 **Needle &amp; Thread.** For those who are familiar with my projects, Needle &amp; Thread has been an easter egg that you might have seen at some point before now (like on our [Transifex](https://www.transifex.com/needle-and-thread/vocal/) page). It has been like our own little [Dharma Initiative](https://en.wikipedia.org/wiki/Dharma_Initiative)— a shadowy organization with some secret meaning, but no obvious answers.
+
+![Needle &amp; Thread's Logo](http://needleandthread.co/logo.svg)
 
 Tonight, not only am I going to tell you what it is, I'm also going to be outlining several major changes that it will bring for Vocal and Birdie. This is the first (and biggest) of a set of announcements and sneak peeks leading up to the release of Vocal 2.0 here in the next few weeks.
 
