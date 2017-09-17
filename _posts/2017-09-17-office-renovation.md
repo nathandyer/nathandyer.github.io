@@ -10,12 +10,11 @@ You can see that I didn't have any power up here and had to cut a hole in my liv
 ![]({{ site.url }}/img/office/office3.jpg)
 Before renovation began I cleared out my bookcase and emptied out as much furniture as I could.
 ![]({{ site.url }}/img/office/office4.jpg)
-A few last 'before' photos:
+One last 'before' photo:
 ![]({{ site.url }}/img/office/office5.jpg)
-![]({{ site.url }}/img/office/office6.jpg)
 Here's an action shot of Dad laying down plywood. I can't thank Dad enough for giving up a Saturday and lending a hand!
 ![]({{ site.url }}/img/office/office7.jpg)
-Mom and Dad spreading the glue as we roll out the vinyl (thanks also to Mom!).
+Mom and Dad spreading the glue as I roll out the vinyl (thanks also to Mom!).
 ![]({{ site.url }}/img/office/office8.jpg)
 The finished product:
 ![]({{ site.url }}/img/office/office9.jpg)
