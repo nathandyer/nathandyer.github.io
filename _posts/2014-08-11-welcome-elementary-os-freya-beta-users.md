@@ -34,16 +34,16 @@ As for version 2.0 and on, I have lots of exciting new features in the works. I
 
 ![]({{ site.url }}/img/spoilers.gif)
 
-##How Do I Get Involved?
+## How Do I Get Involved?
 
-###Donations
+### Donations
 
 If you enjoy using Vocal I would encourage you to consider a donation. Vocal is entirely open source and 100% free to download, and always will be, but it takes a surprising amount of money to create free software. Any donation, even $1, makes a big difference.
 
-###Translations
+### Translations
 If you are bilingual, translations are fantastic way to get involved. Just [visit the Launchpad Translations page for Vocal](http://translations.launchpad.net/vocal) to get started.
 
-###Bug Reports
+### Bug Reports
 If you run into any bugs, have would like to suggest an improvement or new feature, [please report that here at Vocal's bug tracker on Launchpad.](http://bugs.launchpad.net/vocal)
 
 ## Let Me Know What You Think!

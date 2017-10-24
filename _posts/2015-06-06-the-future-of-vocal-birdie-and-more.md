@@ -8,7 +8,7 @@ I don't want to reflect on the campaign itself quite yet. I'm still too close to
 
 As I mentioned in the developer Q&amp;A from a few weeks ago, not meeting our goal means that we're going to have to make some significant changes. Many of our planned features are going to have to either be dialed back or cut entirely. It's important to be realistic about what is possible and to set expectations accordingly.
 
-##Vocal
+## Vocal
 I've thought long and hard about the changes that will need to take place in terms of our goals for 2.0 and how our project functions as a whole. Before I discuss the features, I want to talk about some changes to the project itself:
 
 * Over the summer I will be moving Vocal from Launchpad over to GitHub. This isn't directly related to the campaign failure, it's just something I have carefully considered and made a decision on. It's in the best interests of the project to make this move for several reasons, one of which being that it makes it much easier for me to have both Birdie and Vocal hosted at the same place. Hosting the code at GitHub brings lots of helpful benefits at present that will improve development and also opens the door to exciting new possibilities in the future. When the code for 2.0 becomes available in the next month or two it will be pushed to GitHub.
@@ -31,13 +31,13 @@ And features that will **NOT** be developed as planned (although they might be a
 * **Better native experiences across multiple Linux distros**
 * **Password protected feeds (unless it's trivially simple to implement)**
 
-##Birdie
+## Birdie
 
 Birdie 2.0 is still on track and is expected to be released by the end of Summer 2015. Specific features have not yet been nailed down completely, but it will feature a refreshed design, better multimedia support, the new Twitter Streaming API, smooth scrolling, and more.
 
-##Other Projects
+## Other Projects
 
-###simply elementary
+### simply elementary
 
 I'm excited to announce that I am launching a new project! One of the stretch goals was to create a new unofficial elementary podcast. Although we fell far short of the goal, I'm going to do it anyway! It's something that I've always wanted to do.
 
@@ -45,10 +45,10 @@ I'm excited to announce that I am launching a new project! One of the stretch go
 
 The show is titled **simply elementary: the unofficial elementary OS podcast**. We have done a practice recording and will be releasing a beta episode once our album art and music is finalized (soon). We plan to release new episodes every other week.
 
-###elementary Dropbox Mods
+### elementary Dropbox Mods
 My script for making Dropbox work well in elementary is not dead, I just haven't had time to work on it lately. I will devote a weekend to it soon.
 
-##What You Can Do to Help
+## What You Can Do to Help
 As I said before, I am extremely appreciative of all the people who have contributed to the IndieGoGo Campaign. Although the campaign has ended and the money has been refunded, our expenses remain the same. As of right now we are around $300 in the red, and several expenses for the upcoming year are arriving soon. **If you would still like to financially support the project we would gladly welcome it.** I'll post links below, and you can always [find them here](http://www.vocalproject.net/donate). I know we've mentioned money a lot over the past month so this is the last time I'll ask for your help financially for a good long while.
 
 * _Archival note: additional donation links removed_

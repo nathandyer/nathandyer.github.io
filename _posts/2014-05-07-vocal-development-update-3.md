@@ -4,7 +4,7 @@ title: 'Vocal Development Update #3'
 ---
 Big features and new improvements have been added to Vocal this past week, including two of the most critical components: the database and the episode updates. While there are plenty of bugs remaining to be squashed, those two parts are now operational.
 
-(Check out the latest screencast](http://www.youtube.com/watch?v=PvPSh8mi1a8)
+[Check out the latest screencast](http://www.youtube.com/watch?v=PvPSh8mi1a8)
 
 Although development this week has been primarily focused on those two features, additional bug fixing and polishing has been underway. The welcome screen text has been reworded to be more clear and concise. A new error message has been added when a feed cannot be parsed (as opposed to simply crashing). Overall, Vocal feels much more stable than it did just a week ago.
 

@@ -6,10 +6,11 @@ I have had the pleasure of reading nearly all of Carl Sagan's books, and while
 
 "For years, near my shaving mirror- so I see it every morning," he writes, "I have kept a framed postcard. On the back is a penciled message to a Mr. James Day in Swansea Valley, Wales." The message reads:
 
-<blockquote>Dear Friend,
-Just a line to show that I am alive &amp; kicking and going grand. It's a treat.
-<p style="text-align:right;">Yours,
-<p style="text-align:right;">WJR
+<blockquote>
+Dear Friend,<br>
+Just a line to show that I am alive &amp; kicking and going grand. It's a treat.<br>
+Yours,<br>
+- WJR
 </blockquote>
 
 On the front of the postcard is a color photograph of the RMS Titanic. It was postmarked a single day before the ship collided with that fateful iceberg, ending over 1,500 lives, including that of the aforementioned WJR. For Sagan and his wife, Ann Druyan, the postcard was a reminder that "going grand" can be "the most temporary and illusory state." This passage left a great mark on me in a number of ways, but in particular it implanted the idea of placing a visual reminder for myself somewhere I would see it daily.

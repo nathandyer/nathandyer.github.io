@@ -6,7 +6,7 @@ Last week I shared a screenshot of the progress that has been made on Birdie 2.
 
 ![]({{ site.url }}/img/screenshot-from-2015-05-06-160658.png" alt="Screenshot from 2015-05-06 16:06:58)
 
-##Why Write Native Desktop Apps, Instead of Creating Web Apps Which Can Run Everywhere?
+## Why Write Native Desktop Apps, Instead of Creating Web Apps Which Can Run Everywhere?
 
 The reason why I write desktop apps is actually fairly simple: I want to create the best user experiences possible. Writing a web app is not, and will never be, the way to do that. Don't get me wrong, you can make some pretty incredible web apps, but at the end of the day the only way to provide a truly remarkable experience is to target a specific platform.
 
@@ -20,7 +20,7 @@ I struggle with that decision from time to time. Sometimes I feel bad when I ge
 
 This is the bottom line: I want to make the best apps for users that I possibly can. In order to do that, it means taking advantage of native technologies and making difficult choices by targeting specific platforms. That probably means having fewer users overall, but I would rather have a smaller number of users that are happier using a more polished app.
 
-##Why elementary OS?
+## Why elementary OS?
 
 I love [elementary OS.](https://elementary.io) I love the spirit of the project and I have great respect for the technical and design decisions that have been and are continuing to be made. I truly believe that elementary is the future of desktop Linux, and speaking as a third-party developer I want to help as much as I can to make it a attractive option.
 

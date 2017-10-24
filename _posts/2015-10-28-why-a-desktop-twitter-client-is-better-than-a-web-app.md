@@ -2,7 +2,7 @@
 layout: post
 title: Why a Desktop Twitter Client is Better than a Web App
 ---
-##[What's the point of Twitter desktop clients? I don't have a problem with a browser tab. — Sam Hewitt (@snwh)](https://twitter.com/snwh/status/659004773136371712)
+## [What's the point of Twitter desktop clients? I don't have a problem with a browser tab. — Sam Hewitt (@snwh)](https://twitter.com/snwh/status/659004773136371712)
 
 I have always been, and shall always continue to be, a huge fan of native desktop apps. While it doesn't make sense to have a native app for everything, some platforms, like Twitter, can be vastly improved by having a native desktop experience. Inspired by a Tweet from [Sam Hewitt](https://twitter.com/snwh), I wanted to jot down a quick list of why they still matter. Please note: I'm partially writing about how it _could_ be, not necessarily how it is. I'm also writing from the point of view of an elementary OS user, although most of these arguments are valid on any system of your choosing. These points should give you a hint at some of the things I'm hoping to achieve with future versions of Birdie.
 
@@ -15,6 +15,6 @@ I have always been, and shall always continue to be, a huge fan of native deskto
 * **Follow saved searches and hashtags.** In addition to your normal timeline, stay up to date with your interests by keeping track of saved searches and followed hashtags.
 * **Keyboard shortcuts. **
 * **Better in-line media support. **Yes, Twitter has added playback for some video sites and added support for inline image viewing from certain sources, but a native app can display media from sites that aren't Twitter-approved for an even more seamless experience. Plus, you can see them all in a way that just feels more native to your platform.
-* **Tweet scheduling. **Are you going to be out of town on Saturday night, but want to remind your follows to watch your YouTube video that comes out at 9:00? Set up a scheduled Tweet.
+* **Tweet scheduling.** Are you going to be out of town on Saturday night, but want to remind your follows to watch your YouTube video that comes out at 9:00? Set up a scheduled Tweet.
 
 What did I miss? Leave a comment below.
