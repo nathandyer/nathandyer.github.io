@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Ode to the Cast Iron Skillet
+title: Ode to the Cast Iron Skillet
 ---
 
 ![“Two cast iron pans and a pot of water over an outdoor fire-lit stove outdoors with a hand mixing the water” by Teddy Kelley on Unsplash]({{ site.url }}/img/2018-03-13/overfire.jpg)
