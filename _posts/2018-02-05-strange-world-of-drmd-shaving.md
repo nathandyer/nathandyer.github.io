@@ -33,7 +33,7 @@ The great thing about wet shaving is that there are many different types of tool
 
 You guys. This is not just shaving. This is an experience. This is a way of life. Working up a nice hot lather, gently massaging it onto your face, making deliberate and effective strokes to trim the hair from your face, and following up with a lovely towel pat and post-shave balm. Holy moly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ps88RU_BXlA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin: 0 auto;" src="https://www.youtube.com/embed/ps88RU_BXlA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 If you’re not familiar with it, [this guy on YouTube is the one to learn from](https://www.youtube.com/embed/ps88RU_BXlA). Ignore the moments where he mentions a particular product he’s selling, and focus only on the information he is giving you. This guy is a master. He’s Scottish, he’s masculine, and he’s no-nonsense. He’s the best.
 
