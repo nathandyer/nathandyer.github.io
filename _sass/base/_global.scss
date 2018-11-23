@@ -39,10 +39,10 @@ h2 {
   font-size: 2em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 h4 {
-  font-size: 1.15em;
+  font-size: .75em;
 }
 blockquote {
     border-left: 2px solid;
@@ -110,7 +110,7 @@ a {
 }
 // Responsive media
 iframe, img, embed, object, video {
-  max-width: 100%;
+  max-width: 80%;
 }
 img {
   margin-top: 5%;
@@ -122,6 +122,26 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
-ul ul li {
+ul, li {
   margin-left: 4%;
+}
+
+.icon {
+    margin-left: 5px;
+}
+
+#day-round {
+    padding: 5px;
+    background: $link-color;
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
+
+.post-ref {
+    margin-bottom: 15px;
 }
