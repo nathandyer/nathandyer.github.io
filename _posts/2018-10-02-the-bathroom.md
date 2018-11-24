@@ -15,8 +15,8 @@ Warning: gross pics ahead.
 
 Here, you can see the bathroom at its starting point. The stains in the toilet were permanent (the filth ate into the porcelin I suppose). No matter how much scrubbing I did, no matter what tools I used, nothing could get the stains out of the bottom, which made it look like it was always filthy. It grossed me out so bad.
 
-![The tub]({{ site.url }}/img/bathroom/5.jpeg)
 ![Shower wall]({{ site.url }}/img/bathroom/3.jpeg)
+![The tub]({{ site.url }}/img/bathroom/5.jpeg)
 
 The tub was shorter than the walls, so a weird makeshift board was shimmied and caulked. Water liked to hide in the crevices and turn everything a really putrid brown color. This grungey photo was taken not too long after I bleached the caulk.
 
@@ -73,7 +73,7 @@ Come to find out, they never properly framed the walls in my shower. Plus, the o
 
 ## Progress
 
-![Forward progress]({{ site.url }}/img/bathroom/12.jpeg)
+![Forward progress]({{ site.url }}/img/bathroom/16.jpeg)
 
 On June 26th things were looking up. He began to finish the drywall for me. June 28th brought a vanity light fixture and my flooring.
 
@@ -82,7 +82,7 @@ I spent the night of July 2nd painting my bathroom.
 ![Shower plumbing]({{ site.url }}/img/bathroom/18.jpeg)
 ![Basic arrangement pre-plumbing]({{ site.url }}/img/bathroom/19.jpeg)
 ![My new toilet]({{ site.url }}/img/bathroom/20.jpeg)
-![My new sink, almost in]({{ site.url }}/img/bathroom/20.jpeg)
+![My new sink, almost in]({{ site.url }}/img/bathroom/21.jpeg)
 
 My plumbers returned to connect my toilet, vanity, and shower on July 5th. Finally, after over two months, I had a fully-functional toilet.
 
@@ -97,7 +97,7 @@ All that remained was getting my shower tile installed, which was easier said th
 
 ![Needs more tile]({{ site.url }}/img/bathroom/25.jpeg)
 ![Almost a shower]({{ site.url }}/img/bathroom/26.jpeg)
-![New faucets]({{ site.url }}/img/bathroom/27.jpeg)
+![New faucets]({{ site.url }}/img/bathroom/27.JPG)
 
 Finally, after nearly five months of bathroom reno hell, I celebrated my first shower.
 
