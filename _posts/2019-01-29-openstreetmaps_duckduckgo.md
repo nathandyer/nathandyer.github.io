@@ -1,0 +1,11 @@
+---
+layout: post
+title: Thoughts on OpenStreetMaps and DuckDuckGo (Winding the Clock)
+---
+
+Although I'm happy to see a competitor to Google and Google Maps emerging in the newly announced collaboartion between [DuckDuckGo and Apple](https://spreadprivacy.com/duckduckgo-apple-mapkit-js/), I must admit to some disappointment to see it supplant the existing OpenStreetMaps integration. I've been contributing to OpenStreetMaps [off-and-on](https://www.openstreetmap.org/user/nathandyer) for a while now. It seems to me like datasets pertaining to something as important as mapping the world ought to belong to everyone, and not one particular company. While I understand that it takes a fair amount of capital and labor to accurately map and maintain updated records of businesses and locations of interest, and such information could be a potential revenue stream for a company, it nevertheless appears to me that such information belongs to the public at large. Giving completely open access, and similarly allowing everyone to pitch in and keep the information accurate and updated, seems like the right way to go.
+
+I am aware, of course, that Google Maps is going to continue being the de facto standard for mapping. I also know that very few people use OpenStreetMaps, particularly here in the United States. Previously, though, the two big users for OSM data were DuckDuckGo and Maps.Me, a GPS app that seems to be relatively popular in many parts of the world. Now, the DuckDuckGo integration is no more. I can't help but worry that OSM usage will decrease, and likewise the number of contributors will go down.
+
+I've been reading a compilation of various letters called [_Letters of Note_](https://www.powells.com/book/-9781452134253), and one of the ones that struck me was [a letter from E.B. White to an acquaintance](http://www.lettersofnote.com/2012/01/wind-clock-for-tomorrow-is-another-day.html) in which he wrote "I shall get up Sunday morning and wind the clock, as a contribution to order and steadfastness." That quote has been rolling around in my head often since then, and I can't help but think of it now. I will continue contributing to OpenStreetMaps, as a contribution to order and steadfastness.
+
