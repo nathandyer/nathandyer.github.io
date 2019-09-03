@@ -15,8 +15,17 @@ article {
     margin-bottom: 6%;
     text-align: center;
   }
-  a:hover {
-    @extend %link-hover;
+  @media (prefers-color-scheme: light) {
+	  a:hover {
+		background-color: $link-color;
+		color: $background-color
+	  }
+  }
+  @media (prefers-color-scheme: dark) {
+	  a:hover {
+		background-color: $link-color-dark;
+		color: $text-color;
+	  }
   }
   .footnotes {
     font-size: 0.9em;
@@ -38,13 +47,26 @@ header {
   h1 {
     margin: 0;
   }
+  
   .meta {
-    color: rgba($text-color, .5);
-    font-size: 0.9em;
-    letter-spacing: 0.1em;
-    margin: 0;
-    text-transform: uppercase;
+		color: rgba($text-color, .5);
+		font-size: 0.9em;
+		letter-spacing: 0.1em;
+		margin: 0;
+		text-transform: uppercase;
   }
+  @media (prefers-color-scheme: light) {
+	  .meta {
+		color: rgba($text-color, .5);
+	  }
+  }
+  
+  @media (prefers-color-scheme: dark) {
+	  .meta {
+		color: rgba($background-color, .5);
+	  }
+  }
+  
 }
 .feature-image {
   padding: 0%;

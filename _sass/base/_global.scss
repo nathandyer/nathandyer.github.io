@@ -11,13 +11,7 @@ html {
   background: $background-color;
 }
 
-// Typography
-::selection {
-  background: $selection-color;
-}
-::-moz-selection {
-  background: $selection-color;
-}
+
 body {
   color: $text-color;
   font-family: $font-family-main;
@@ -144,4 +138,53 @@ ul, li {
 
 .post-ref {
     margin-bottom: 15px;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {}
+	* {
+		background-color: $text-color;
+		color: $background-color
+	}
+	
+	a {
+		color: $link-color-dark;
+  	}
+  	
+  	#day-round {
+		background: $link-color-dark;
+	}
+	
+  	// Typography
+	::selection {
+	  background: darken($selection-color, 30%);
+	}
+	::-moz-selection {
+	  background: darken($selection-color, 30%);
+	}
+	
+}
+
+@media (prefers-color-scheme: light) {
+	:root {}
+	* {
+		background-color: $background-color;
+		color: $text-color
+	}
+	
+	a {
+		color: $link-color;
+  	}
+  	
+  	#day-round {
+		background: $link-color;
+	}
+	
+		  	// Typography
+	::selection {
+	  background: $selection-color;
+	}
+	::-moz-selection {
+	  background: $selection-color;
+	}
 }

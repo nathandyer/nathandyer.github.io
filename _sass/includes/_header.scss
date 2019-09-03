@@ -54,4 +54,14 @@
       }
     }
   }
+  
+	@media (prefers-color-scheme: dark) {
+	
+		background: $text-color;
+		border-bottom: 1px solid white;
+		
+		a {
+			color: white;
+	  	}
+	}
 }
