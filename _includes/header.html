@@ -1,31 +1,8 @@
-<header class="site-header">
-	<div class="branding">
-		{% if site.gravatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.gravatar }}?s=100" alt=""/>
-		</a>
-		{% elsif site.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/img/{{ site.avatar }}" alt=""/>
-		</a>
-		{% endif %}
-		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.title }}</a>
-		</h1>
+<header class="primary-header">
+	<a href="{{ site.url }}/"><img src="{{ site.url }}/img/avatar.png" alt="An illustration of Nathan Dyer"></a>
+	<div style="padding-top: 12px">
+		<a href="{{ site.url }}/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://fosstodon.org/web/accounts/136980"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer"><i class="openwebicons-pixelfed "></i></a>
 	</div>
-	<nav class="site-nav">
-		<ul>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
-			<li>
-				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-					{{ page.title }}
-				</a>
-			</li>
-			{% endif %}
-			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled -->
-			{% include icons.html %}
-		</ul>
-	</nav>
 </header>

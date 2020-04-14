@@ -2,11 +2,19 @@
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="{{ "/css/openwebicons.css" | prepend: site.baseurl }}">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
 
 	<!--Favicon-->
 	<link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.baseurl }}" type="image/x-icon">
@@ -16,18 +24,4 @@
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
-	<!-- Font Awesome -->
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-
-	<!-- Google Fonts -->
-	{% if site.google_fonts %}
-	<link href="//fonts.googleapis.com/css?family={{ site.google_fonts }}" rel="stylesheet" type="text/css">
-	{% endif %}
-
-	<!-- KaTeX -->
-	{% if site.katex %}
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
-	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
-	{% endif %}
 </head>

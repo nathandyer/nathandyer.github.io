@@ -8,21 +8,6 @@ avatar: avatar.png
 gravatar: b914ca7c5324480b1da84eef179b2727
 description: "A website with blog posts and pages" # used by search engines
 
-# Header and footer text
-header_text:
-header_text_feature_image:
-footer_text: >
- Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
-# Icons
-rss: true
-email_address: nathandyer@fastmail.com
-github: nathandyer
-google_plus: +NathanDyerdotMe
-instagram: nathandyer_me
-stack_exchange:  # Full URL
-twitter: nathandyer_
-
 # Localization strings
 str_follow_on: "Follow on"
 str_rss_follow: "Follow RSS feed"
@@ -31,22 +16,5 @@ str_next: "Next"
 str_prev: "Prev"
 str_continue_reading: "Continue reading"
 
-# Colours, typography and padding
-# Open the "_sass > base" folder, and open "_variables.scss"
-google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
-
-# Post navigation
-post_navigation: false
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
 # BUILD SETTINGS
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-gems:
-  - jekyll-paginate

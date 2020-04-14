@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<title>Vocal Development Update #2 | Nathan Dyer</title>
+	<meta name="description" content="The past week has been primarily focused on completing my final projects for courses this semester, but tonight I turned in my last two projects. I can final...">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="/css/openwebicons.css">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://localhost:4000/2014/04/28/vocal-development-update-2.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <header class="primary-header">
+	<a href="http://localhost:4000/"><img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer"></a>
+	<div style="padding-top: 12px">
+		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://fosstodon.org/web/accounts/136980"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer"><i class="openwebicons-pixelfed "></i></a>
+	</div>
+</header>
+
+    <div class="content">
+      <article >
+  <header style="background-image: url('/')">
+    <h1 class="title">Vocal Development Update #2</h1>
+    <p class="meta">
+    	<strong>
+			April 28, 2014
+			
+		</strong>
+    </p>
+  </header>
+  <section class="post-content"><p>The past week has been primarily focused on completing my final projects for courses this semester, but tonight I turned in my last two projects. I can finally start focusing on Vocal 100%.</p>
+
+<p>Despite focusing on school assingments, I still managed to make a fair bit of progress with Vocal. The main improvement is that album art now rearranges itself properly when the window shrinks or grows! <a href="https://www.youtube.com/watch?v=AiKGJaYGuhg">The screencast that I recorded (sorry, no audio)</a> should give you a good idea of how Vocal looks and behaves right now.</p>
+
+<p>I initially started out with my own custom widget in a Grid, and threw in some voodoo on the backend to make it work, but I couldn’t find a good solution to fixing the resize problem. So in the end I decided to try a Gtk.IconView, and in only an hour or two I had it looking and working exactly how I wanted. Awesome!</p>
+
+<p>There was some additional work on the parser to make it be able to detect audio vs. video. I also started working on integrating video, and have had some success. Vocal is actually able to play video right now, but the experience is nowhere near what I want it to be. I’m going to set that aside for now while I implement more critical features.</p>
+
+<p>For the next few days I am going to work on cleaning up some of the code, fixing a few minor issues, and getting Vocal into a relatively stable state with its current minimal functionality.</p>
+
+<p>And then, the library management.</p>
+</section>
+</article>
+
+<!-- Post navigation -->
+<div id="post-nav">
+	<a href="http://localhost:4000/blog/"><i class="fa fa-book"></i> Index</a>
+    <a id="prev-post" href="/2014/04/16/vocal-development-update-1.html">
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> Prev
+      </span>
+    </a>
+    <a id="next-post" href="/2014/05/01/the-search-for-vocals-icon.html">
+       <span class="page-title"></span>
+       <span class="nav-label">
+        Next <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+</div>
+
+    </div>
+    <footer>
+	<p><i style="font-size: 1em;" class="openwebicons-cc"></i>All content, unless otherwise noted, is created by Nathan Dyer and available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA License</a>.</p>
+</footer>
+
+
+  </body>
+</html>

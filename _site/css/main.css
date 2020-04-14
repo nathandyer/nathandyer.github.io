@@ -1,0 +1,117 @@
+/* Global Variables */
+
+:root {
+	--dark-color: #524c4c;
+	--light-color: #fffcf7;
+	
+	--preferred-serif-font: 'Zilla Slab', serif;
+	--preferred-sans-serif-font: 'Inter', sans-serif;
+}
+
+a {
+	color: var(--dark-color);
+	text-decoration: none;
+}
+
+a:hover {
+	filter: brightness(50%);
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+/* Used for the main links on the home page */
+.stitched {
+	border: 2px dashed var(--dark-color);
+	padding: 12px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/* Everything, no matter the layout, uses the .content class which exludes header/footer */
+.content {
+	max-width: 60ch;
+	min-width: 10ch;
+	flex: 1 0 auto;
+	margin: 0 auto;
+	line-height: 1.5;
+	margin-bottom: 12px;
+	font-size: 18px;
+	font-family: var(--preferred-serif-font)
+}
+
+.content img {
+	width: 80%;
+	display: block;
+	margin: 12px auto;
+}
+
+h1, h2, h3, h4 {
+	font-family: var(--preferred-sans-serif-font)
+}
+
+/* The header / navbar appended to the top of each page */
+.primary-header {
+	padding: 12px;
+	background-color: var(--dark-color);
+	color: var(--light-color);
+	vertical-align: center;
+}
+
+.primary-header a, footer a{
+	color: var(--light-color);
+}
+
+header img {
+	width: 60px;
+	height: 60px;
+}
+
+header div {
+	display: inline;
+	float: right;
+}
+
+#post-nav {
+	text-align: center;
+}
+
+i {
+	font-size: 2em;
+}
+
+footer {
+	text-align: center;
+	flex-shrink: 0;
+	background-color: var(--dark-color);
+	color: var(--light-color);
+	font-family: var(--preferred-sans-serif-font);
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: var(--dark-color);
+		color: var(--light-color);
+	}
+	
+	footer, footer a {
+		background-color: var(--light-color);
+		color: var(--dark-color);
+	}
+	
+	a {
+		color: var(--light-color);
+	}
+	
+	.stitched {
+		border: 2px dashed var(--light-color);
+	}
+}

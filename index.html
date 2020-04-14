@@ -1,40 +1,29 @@
 ---
-layout: page
+layout: default
 ---
 
 <div>
-    <h1 style="text-align: center;">About Me</h1>
-    <p>Hi, I'm Nathan. I'm an independent software developer and computer technician. You might know me as the guy making <strong><a href="https://vocalproject.net">Vocal</a></strong>, a powerful podcast app for Linux that provides a one-of-a-kind user experience. I also created a small business to house my work called <strong><a href="https://needleandthread.co">Needle &amp; Thread</a></strong>. In addition to Vocal, Needle &amp; Thread maintains a few open source projects (like the <strong><a href="https://github.com/needle-and-thread/exquisite-templates">Exquisite Templates project</a></strong>), and offers technology services to people in the local community near my home in North Carolina. By day I am a computer technican and AP Computer Science Principles instructor. I'm also one of the hosts of a podcast about the elementary OS Linux distribution, called <strong><a href="https://simplyelementary.net">simply elementary</a></strong>.</p>
-    <h1 style="text-align: center;">Blog Posts</h1>
-    {% for post in site.posts  %}
-        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-        {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-        {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-        {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
-
-        {% if forloop.first %}
-        <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-        <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
-        <ul>
-        {% endif %}
-
-        <div class="post-ref" ><p id="day-round">{{ post.date | date: "%d" }}</p><a href="{{ post.url }}">{{ post.title }}</a></div>
-
-        {% if forloop.last %}
-        </ul>
-        {% else %}
-            {% if this_year != next_year %}
-            </ul>
-            <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-            <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-            <ul>
-            {% else %}    
-                {% if this_month != next_month %}
-                </ul>
-                <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-                <ul>
-                {% endif %}
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-<div>
+    <h1>About Me</h1>
+    <div id="about">
+    	<p>Hi, I'm Nathan. I'm an independent software developer and computer technician. You might know me as the guy who originally created <strong><a href="https://vocalproject.net">Vocal</a></strong>, a powerful podcast app for Linux that provides a one-of-a-kind user experience.</p>
+	</div>
+    
+    <br />
+    <div style="text-align: center" id="primary-links">
+    	<a class="stitched" href="blog/">Read My Blog</a>
+	</div>
+	
+	<br />
+	<br /> 
+	
+	<div style="text-align: center" id="secondary-links">
+		<a class="stitched" href="{{ site.url }}/principles/">Principles</a>
+		<a class="stitched" href="{{ site.url }}/interests/">Interests</a>
+		<a class="stitched" href="{{ site.url }}/endorsements/">Endorsements</a>
+		<a class="stitched" href="{{ site.url }}/anti-endorsements/">Anti-Endorsements</a>
+	</div>
+	<br />
+	
+	<h3>Caveat Lector</h3>
+	<p>Everything on this site is a reflection of my thoughts and opinions, but I consider everything I write to be mutable and indefinitely open to edits or changes.</p>
+</div>

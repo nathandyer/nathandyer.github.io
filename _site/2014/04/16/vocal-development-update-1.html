@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<title>Vocal Development Update #1 | Nathan Dyer</title>
+	<meta name="description" content="The past two weeks of my life have been surreal. I never expected such a positive reaction to Vocal, but I’m thrilled that so many of you are as enthusiastic...">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="/css/openwebicons.css">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://localhost:4000/2014/04/16/vocal-development-update-1.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+</head>
+
+  <body>
+    <header class="primary-header">
+	<a href="http://localhost:4000/"><img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer"></a>
+	<div style="padding-top: 12px">
+		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://fosstodon.org/web/accounts/136980"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer"><i class="openwebicons-pixelfed "></i></a>
+	</div>
+</header>
+
+    <div class="content">
+      <article >
+  <header style="background-image: url('/')">
+    <h1 class="title">Vocal Development Update #1</h1>
+    <p class="meta">
+    	<strong>
+			April 16, 2014
+			
+		</strong>
+    </p>
+  </header>
+  <section class="post-content"><p>The past two weeks of my life have been surreal. I never expected such a positive reaction to Vocal, but I’m thrilled that so many of you are as enthusiastic about this project as I am. Thanks for all the great feedback and kind words!
+Now, to get back to business :)</p>
+
+<p>Last week I was able to tackle many of the problems I was having in turning Vocal into a (marginally) functional podcast client. I spent the entire day Monday fixing the RSS Feed Parser. It seems to be functional now, so importing RSS feeds works like a charm (at least from my testing). As soon as you add a new feed Vocal locates the album art and fills in all the episodes.</p>
+
+<p>Speaking of which, the episode selection window is also working now. Once episodes are populated you can choose to either stream or download an episode, and of course you can view each episode’s description. Streaming is currently functional, downloading is not.</p>
+
+<p>I also polished up the media backend (GStreamer). Before you could only play and pause, and you couldn’t select which episode you wanted, but now you can seek to any point in the track and pick any episode you want. It also keeps track of time elapsed and remaining, but that’s a boring feature.
+What’s Next?</p>
+
+<p>In the short term, fixing Vocal so that the podcast cover art rearranges when the window is expanded is my main priority. That, and further polishing, will be my focus for the next week or so. After that most of the remaining work will be centered around getting the local database in place, as well as the downloading and updating functionality. Unfortunately that will take a considerable amount of time.</p>
+
+<p>As always, to steal the elementary OS team’s motto, Vocal will be ready when it’s ready. That said, I’m still on target for a June-ish release.</p>
+
+<p>Want To Contibute?</p>
+
+<p>Right now I’m not really looking for code contributions (I will certainly be in the future, however), but I could really use a good app icon for Vocal. I am looking for something elegant that visually makes you think of a podcast or RSS feed. If you are interested in contributing an icon, please send it in to <strong>mail@nathandyer.me</strong>, or send it to me through Google+. The more at home the icon feels in elementary OS, the more likely I am to use it. If I end up using your icon I will give you a design credit in Vocal’s about dialog. Please just make sure that the content is original, and that it is freely licensed (Creative Commons Attribution-ShareAlike (CC BY-SA)).</p>
+</section>
+</article>
+
+<!-- Post navigation -->
+<div id="post-nav">
+	<a href="http://localhost:4000/blog/"><i class="fa fa-book"></i> Index</a>
+    <a id="prev-post" href="/2014/04/05/vocal.html">
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> Prev
+      </span>
+    </a>
+    <a id="next-post" href="/2014/04/28/vocal-development-update-2.html">
+       <span class="page-title"></span>
+       <span class="nav-label">
+        Next <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+</div>
+
+    </div>
+    <footer>
+	<p><i style="font-size: 1em;" class="openwebicons-cc"></i>All content, unless otherwise noted, is created by Nathan Dyer and available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA License</a>.</p>
+</footer>
+
+
+  </body>
+</html>

@@ -1,0 +1,27 @@
+I"�	<p>I’ve been listening to podcasts for nearly a decade now. They’ve kept me entertained and informed for half my life. Despite my love for podcasts, until now I’ve always been very disappointed with the podcast managers available for Linux. Many of them are just too darn clunky, bloated, unnecessarily complicated, or feature-lacking to use day-to-day.</p>
+
+<p>For a while now I’ve been working on developing a new podcast app, which I have named Vocal. It’s a project that I am extremely passionate about, but I didn’t want to talk about it too much or make anything official prematurely. I’ve never coded anything this complex before. There are a lot of pieces that have to fit together just right. I didn’t want to announce anything until I was sure that it would be something I could actually deliver on.</p>
+
+<p><img src="http://localhost:4000/img/screenshot-from-2014-04-04-225030.png" alt="" /></p>
+
+<p>I am now confident that I can deliver the experience with Vocal that I have always wanted with a podcast manager on the free desktop. The above screenshot is from the most recent build of Vocal. It’s not a mockup, that’s actual code (although the final look could, and probably will, change in some ways).</p>
+
+<p>Right now I’m targeting it primarily for elementary OS, but once the main features are implemented I am going to explore making it friendlier with other Linux distributions. elementary OS will always be the number one goal, though (at least in the near future).</p>
+
+<p>It’s open source (GPL v3), written in Vala, and makes use of the latest functionality in Gtk 3.12.
+Some features for the first release include:</p>
+
+<ul>
+  <li>Video and audio podcast support</li>
+  <li>Streaming and downloading</li>
+  <li>Automatic checking/downloading new episodes</li>
+  <li>elementary OS system integration (notifcations, launcher badges, sound menu, etc.)</li>
+  <li>Importing/exporting subscriptions (individual podcast feeds, as well as entire libraries).</li>
+</ul>
+
+<p>I also plan on implementing podcast discovery and one-click subscriptions for future releases. Device support may also be something I work on in the far future, but there are no official plans right now.</p>
+
+<p>I’ve not had as much time as I would like to work on it this year while at university, but this summer I hope to devote a good portion of my time to making Vocal as stable and impressive as possible. I’m expecting a first release (at least a beta) by the end of June.</p>
+
+<p>Stay tuned for updates!</p>
+:ET
