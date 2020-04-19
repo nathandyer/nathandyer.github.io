@@ -1,0 +1,27 @@
+Last week I played through _A Hat in Time_... twice.
+
+![Hat Kid blowing a kiss to Snatcher in his tree house](https://gifimage.net/wp-content/uploads/2018/10/a-hat-in-time-snatcher-gif-1.gif)
+
+I didn't set out to do that on purpose. I bought it last summer on Steam when I got a new Intel NUC which could actually handle some games, but I only played it for about an hour (for various reasons). Fast-forward to this period of self isolation and suddenly I found myself with plenty of time for games, so I hooked up my NUC to my TV, grabbed my favorite controller, and found myself getting swept up in an absolutely incredibly experience.
+
+Unfortunately, however, A Hat in Time doesn't have an official Linux build, so instead I had been relying on Proton to make it work. Things appeared to run absolutely beautifully, and generally everything worked perfectly throughout. Without spoiling too much of the game, I was able to play through all the chapters of all the main worlds just fine, with one exception: when fighting the boss at the end of Deadbird Studios the game bugged out, the boss disappeared, and I was completely stuck. The only thing left to do was to exit the level (losing my progress). Luckily, I could get by without doing that particular stage again, so I just kept moving.
+
+But then I came to the final boss fight in the whole game, and ten seconds into the epic battle the disappearing boss bug happened again. I had no way to know how the game ended (other than watching it on YouTube). 
+
+I knew I wanted the DLC for it (which adds two whole new worlds), but it occurred to me that buying it on Steam again didn't make a whole lot of sense since the main game had such game-breaking issues. The alternative option was to just buy the entire bundle at a discount for the Switch (the only problem being I'd have to play through the whole thing again), and voilà, the rest is history.
+
+For pretty much any other game, the thought of having to play through the entire thing again would be an absolute non-starter. I have trouble keeping my attention in games for long periods of times, and usually don't enjoy the experience enough to dedicate another 10+ hours just to get back to where I left off. With _A Hat in Time_ though, I was genuinely looking forward to playing through it again.
+
+The controls are amazing, the levels are fun, and the little touches have so much character and bring on such sheer joy that it's a pleasure to play. Listening to _The Conductor_ say the word _murder_ never fails to make me laugh, the song that _Snatcher_ plays when you visit him in his tree is a bop, and every time I swing my umbrella at the Roomba I can't help but smile. 
+
+There are a million delightful moments in the game, and it never wears itself out. I can't recommend it enough.
+
+And yes, the Switch version is only 720p and the frame rate is capped at 30fps, but it's so nice to have it on the Switch, and it really doesn't impact its playability.
+
+That leads me to the main thought I've had in the back of my mind while playing. It just so happens that Nintendo 64 support just landed in GNOME games, so I've been playing through some of my favorites on that system, including what I would historically call the greatest 3D platformer of all time, _Banjo-Kazooie._ It's also a delightful, highly-polished game, and it also happens to have twenty years of nostalgia behind it with my memories of playing through those games with my Mom as a kid. At one point, I would have said no game could ever top it.
+
+But really, that's the question: when it comes to your favorite stuff that you loved as a kid, _can_ anything ever top it? What would something have to do to unseat the current champion? Can you be objective about such a thing, or does personal experience forever throw off the rankings?
+
+I think it ultimately comes down to an individual, and how willing they are to accept change (something I'm notoriously not good at).
+
+With that in mind, I genuinely think _A Hat in Time_ might be the greatest 3D platformer I've ever played. It's so much fun, the art and music are fantastic, the gameplay is top-notch, and I just keep wanting to dive back in. 
