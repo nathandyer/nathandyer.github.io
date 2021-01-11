@@ -3,7 +3,7 @@ layout: post
 title: I Wish I Was A Mechanical Keyboard Person
 ---
 
-![]({{ site.url }}/img/apple_kb.jpg)
+![]({{ site.url }}/img/apple_kb.jpeg)
 
 I wish I was a mechanical keyboard person.
 
