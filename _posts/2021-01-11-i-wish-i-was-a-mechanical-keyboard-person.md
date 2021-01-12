@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I Wish I Was A Mechanical Keyboard Person
-img: "https://nathandyer.me/img/apple_kb.jpeg"
-summary: Mechnical keyboards are amazing. If only they were for me!
+image: "{{ site.url }}/img/apple_kb.jpeg"
+summary: Mechnical keyboards are amazing. If only they were for me! 
 ---
 
 ![]({{ site.url }}/img/apple_kb.jpeg)
