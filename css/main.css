@@ -43,12 +43,12 @@ body {
 	margin: 0 auto;
 	line-height: 1.5;
 	margin-bottom: 12px;
-	font-size: 18px;
+	font-size: 22px;
 	font-family: var(--preferred-serif-font)
 }
 
 .content img {
-	width: 80%;
+	width: 100%;
 	display: block;
 	margin: 12px auto;
 }
