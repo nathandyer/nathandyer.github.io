@@ -1,8 +1,6 @@
 ---
 layout: post
 title: I Wish I Was A Mechanical Keyboard Person
-image: {{ site.url }}/img/apple_kb.jpeg
-summary: Mechanical keyboards are amazing. If only I were a mechnical keyboard person.
 ---
 
 ![]({{ site.url }}/img/apple_kb.jpeg)
