@@ -11,7 +11,7 @@ I am by no means a professional chef. I’m not even sure I feel comfortable goi
 
 Several years ago, on my first read-through of Kitchen Confidential (a book that has since made it onto the very short list of books I re-read on a regular basis), I came across a section where Anthony Bourdain recommended a particular manufacturer of high-quality, reasonably priced chefs knives:
 
-    “Most of the professionals I know have for years been retiring their Wusthofs and replacing them with the lightweight, easy-to-sharpen and relatively inexpensive canadium steel Global knives, very good Japanese products that have — in addition to their many other fine qualities — the added attraction of looking really cool.”
+“Most of the professionals I know have for years been retiring their Wusthofs and replacing them with the lightweight, easy-to-sharpen and relatively inexpensive canadium steel Global knives, very good Japanese products that have — in addition to their many other fine qualities — the added attraction of looking really cool.”
 
 I happened to be in the market at the time for a good chef’s knife, so I took the recommendation and added one to my birthday wishlist.
 
