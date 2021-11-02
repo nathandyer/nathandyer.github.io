@@ -1,7 +1,6 @@
 ---
 layout: post
 title: November Blogging Challenge
-image: https://images.unsplash.com/photo-1618384887929-16ec33fab9ef
 summary: Just what the world needs — more unsolicited commentary from a random dude on the internet.
 ---
 
