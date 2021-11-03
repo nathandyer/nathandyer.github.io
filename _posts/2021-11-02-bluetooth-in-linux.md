@@ -64,7 +64,7 @@ This one is a bit of a given, but it's worth mentioning, because a good Bluetoot
 
 For best results, I recommend using an Intel-based wireless adapter, with Bluetooth built-in. The performance is great, they're well-tested due to being so prevalent across many different devices, and the drivers are built directly into the kernel.
 
-For devices that you purchase pre-configured, the best advice is to purchase from a company like [System76](https://system76.com/) that specializes in such hardware (disclaimer: I work for System76 on the Happiness Team provided customer support), or use a brand that is used by a large portion of Linux developers (when in doubt, ThinkPads tend to work very well because so many developers use them). 
+For devices that you purchase pre-configured, the best advice is to purchase from a company like [System76](https://system76.com/) that specializes in such hardware (disclaimer: I work for System76 on the Happiness Team providing customer support), or use a brand that is used by a large portion of Linux developers (when in doubt, ThinkPads tend to work very well because so many developers use them). 
 
 # Wrap-Up 
 
