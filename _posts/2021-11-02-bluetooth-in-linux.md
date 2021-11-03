@@ -11,7 +11,7 @@ For quite some time I've [complained](https://twitter.com/nathandyer_/status/140
 
 For a brief background on my set-up and the types of devices I regularly connect to my systems, about a year ago I decided I wanted to go all-in on Bluetooth, so every peripheral that I use on a regular basis is using Bluetooth. My keyboard (Keychron K3) is Bluetooth. My travel mouse is Bluetooth. For audio, I use either AirPods Pro ear buds, Sony WH-1000XM3 headphones, or a JBL Flip 5 portable speaker. I sometimes connect an Xbox controller, as well as an 8BitDo SNES-esque controller. Pretty much across the board, if it connects to my system, it's wireless, and done through Bluetooth.
 
-I want to be sure to mention up front that some of these suggestions apply primarily to distributions running GNOME Shell, as that is the desktop environment that I use most regularly. Other desktop environments have other ways of doing things, and in that case, some of the specifics here will be less useful to those users. Still, I'm hopeful that at least some of this advise is helpful for everyone looking to improve Bluetooth support in Linux.
+I want to be sure to mention up front that some of these suggestions apply primarily to distributions running GNOME Shell, as that is the desktop environment that I use most regularly. Other desktop environments have other ways of doing things, and in that case, some of the specifics here will be less useful to those users. Still, I'm hopeful that at least some of this advice is helpful for everyone looking to improve Bluetooth support in Linux.
 
 So, without further ado, here are my recommendations:
 
