@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ergonomics Life Hack Cheap Better Wrist Rests
+title: Ergonomics Life Hack: Cheaper, Better Wrist Rests
 ---
 
 Most of my day is spent in front of a computer, hammering out emails and sending responses to customer support questions. Last year, I noticed my hands and wrists getting tired and sore from the work each day, so I invested in a few gel wrist rests — one for my keyboard, and one for my mouse/touchpad.
