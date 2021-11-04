@@ -17,6 +17,6 @@ The shelf liner I was using was made out of pillow-like puffs woven together, an
 
 ![Shelf liner crookedly cut, in front of a keyboard and trackpad]({{ site.url }}/img/wristrests/shelf-liner.jpg)
 
-Holy comfort, Batman! They provide just enough comfort to ease the tension, while still being sturdy enough to lean on when needed, and are the absolute perfect height for my keyboards. I've been using them at word for a while now, and they seem to really hold up and do the trick!
+Holy comfort, Batman! They provide just enough comfort to ease the tension, while still being sturdy enough to lean on when needed, and are the absolute perfect height for my keyboards. I've been using them at work for a while now, and they seem to really hold up and do the trick!
 
 So avoid the costly, much-too-thick wrist rests you find online, and pick up a roll of shelf liner from the hardware store. Thank me later!
