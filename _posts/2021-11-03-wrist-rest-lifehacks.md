@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ergonomics Life&#58; Hack Cheaper, Better Wrist Rests
+title: Ergonomics Life Hack&#58; Cheaper, Better Wrist Rests
 image: /img/wristrests/shelf-liner.jpg
 summary: The one weird trick wrist rest makers don't want you to know. Actually, clickbait sucks — it's shelf liner.
 ---
