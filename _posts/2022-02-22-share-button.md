@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Share Button: The New Pipes?
+title: The Share Button&#58; The New Pipes?
 image: /img/sharebutton.jpg
 summary: The share button you see in modern OSes has something in common with a classic computing concept you might not have considered.
 ---
