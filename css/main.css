@@ -44,7 +44,8 @@ body {
 	line-height: 1.5;
 	margin-bottom: 12px;
 	font-size: 22px;
-	font-family: var(--preferred-serif-font)
+	font-family: var(--preferred-serif-font);
+	padding: 12px;
 }
 
 .content img {
