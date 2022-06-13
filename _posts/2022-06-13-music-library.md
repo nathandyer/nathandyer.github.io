@@ -28,7 +28,7 @@ But if you’re starting out (which I assume you are, otherwise you wouldn’t b
 
 So what do I use and recommend? 
 
-- I have my music library stored a lossless FLAC files (mostly) in the ~/Music folder on my laptop. I use [Lollypop]([https://flathub.org/apps/details/org.gnome.Lollypop](https://flathub.org/apps/details/org.gnome.Lollypop)) to play them.
+- I have my music library stored a lossless FLAC files (mostly) in the ~/Music folder on my laptop. I use [Lollypop](https://flathub.org/apps/details/org.gnome.Lollypop]) to play them.
 - I use an app called Doppler on my iPhone. I plug in my iPhone in to my laptop, go to Files → iPhone → Doppler, then copy and paste the music from ~/Music to this location. Once they’re copied, Doppler automatically scans the files and just like that, I have music on my phone, too.
 - Back when I used Android, I just copied everything directly to the storage (no need for a special player). That said, I did always like the Phonograph app for playing the music.
 - I don’t use it much, but to have the music available on my home entertainment center, I use the built-in media sharing tools inside of Fedora / GNOME that I mentioned earlier (Settings → Sharing → Media Sharing)
