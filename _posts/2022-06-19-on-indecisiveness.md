@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Dndecisiveness
+title: On Indecisiveness
 summary: Indecisiveness is one of those things that, on the surface, seems relatively minor, but when left unchecked it can sneak and place and leave you with a burdensome sense of being paralyzed by choice.
 ---
 
