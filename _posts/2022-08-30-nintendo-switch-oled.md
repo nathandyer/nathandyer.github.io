@@ -6,7 +6,7 @@ summary: Why did I buy a console to replace one I never even play anymore?
 
 I bought a new Nintendo Switch OLED over the weekend. 
 
-For anyone that knows me very well, this probably seems like a strange, and perhaps ill-considered, decision. I've had a Nintendo Switch now for almost five years, but I haven't really played it in years. Why would I go out and buy something so similar to what I already have, and don't even use? 
+For anyone that knows me very well, this probably seems like a strange, and perhaps ill-considered, decision. I've had a Nintendo Switch now for almost five years, but I haven't really played it for the last couple. Why would I go out and buy something so similar to what I already have, and don't even use? 
 
 The truth is that, when I sat down and weighed my options, and thought about what I was hoping to achieve, the answer quickly became obvious. Here's a rough outline of that thought process.
 
@@ -16,11 +16,11 @@ Why haven't I been playing games as much lately:
 
 1. I'm almost never in front of a TV
 2. When I am in front of a TV, I don't want to disturb my partner with loud video game sounds
-3. The (2017) Nintendo Switch screen is relatively low-quality (serious backlight bleed, color issues, blacks look gray, hard to see)
+3. The (2017) Nintendo Switch screen is relatively low-quality (serious backlight bleed, color issues, blacks look gray, hard to see) and it's just bad enough to annoy me
 4. The battery on my Switch leaves much to be desired after almost five years of ownership
 5. Lack of time
 
-When first thinking about the goal here, I briefly considered buying an Xbox. To be honest, the main reason I considered that was because I wanted to play Psychonauts 2. I enjoyed the first one tremendously years ago, and am still looking forward to playing through the sequel. But as I looked through the games available, I realized that that was literally the only new game I wanted to play on the Xbox.
+When first thinking about the goal here, I briefly considered buying an Xbox. To be honest, the main reason I considered that was because I wanted to play _Psychonauts 2_. I enjoyed the first one tremendously, and am still looking forward to playing through the sequel. But as I looked through the games available, I realized that that was literally the only new game I wanted to play on the Xbox.
 
 When I began to look at game listings for other consoles, it became clear that the Nintendo Switch was the console that had almost all the titles I wanted to play. I tend to play more platforming and indie games, and they shine there. I've heard it referred to as an "indie darling," and I would agree.
 
@@ -34,13 +34,10 @@ And, with a new OLED display, the colors are absolutely stunning, the display is
 
 And of course, a fresh new battery means I can squeeze several hours out of it on a single charge.
 
-I know that a lot of folks in my circles suggest a Steam Deck, but to be honest, I have almost not interest in that device. I have monkeyed around with Steam on my current and former laptops, but I always run into compatibility issues. I don't want to have to even think about _is this game going to be compatible_, _am I using the right version of Proton_, or _what strange Linux oddity is going to prevent me from playing now?_ I don't want to have to think about any of the "software-y" things when I want to settle down and play games. I just want to buy a game, know that my experience is going to be identical to the experience intended by developers because I'm using an exact match to the hardware they built and tested the game with, and not have to worry that everything is going to just work.
+I know that a lot of folks in my circles suggest a Steam Deck, but to be honest, I have almost no interest in that device. I have monkeyed around with Steam on my current and former laptops, but I always run into compatibility issues. I don't want to have to even think about _is this game going to be compatible_, _am I using the right version of Proton_, or _what strange Linux oddity is going to prevent me from playing now?_ I don't want to have to think about any of the "software-y" things when I settle down for the day and play games. I just want to buy a game, know that my experience is going to be identical to the experience intended by developers because I'm using an exact match to the hardware they built and tested the game with, and not have to worry that everything is going to just work.
 
 I also think they're hilariously chunky and the touchpad is weird, but that's purely subjective on my part.
 
 So in the end, I decided to go with a device that can fit nicely into my current lifestyle, while being able to now deliver on an experience that I can enjoy without being bothered too much by a crappy display, or worrying that I'm disturbing someone else. 
 
 Hopefully, with this new console, I'll be able to really dive in and experience all the amazing titles I've been missing out on for the past few years!
-
-
-
