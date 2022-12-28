@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Competition in Open Source
-summary: Competition in Open Souce is inevitable, but coopoeration should always be the goal.
+summary: Competition in open source is inevitable, but coopoeration should always be the goal.
 ---
 
 It’s difficult to hold opposing views in your mind at the same time, but that’s often where I find myself when I consider the idea of competition in open source software. I suppose I’m hoping this will serve as a way for me to reconcile those thoughts into somewhat of a cohesive view, although I know deep down that there will always be contradictions in my thinking about this.
