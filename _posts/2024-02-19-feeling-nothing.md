@@ -6,7 +6,7 @@ summary: I've been further embracing minimalism
 
 There's a line from the movie 500 Days of Summer that often plays in my head. The clip is here:
 
-<video muted autoplay controls>
+<video muted autoplay controls width="640" height="480">
     <source src="{{ site.url }}/img/hair.webm" type="video/webm">
 </video>
 
