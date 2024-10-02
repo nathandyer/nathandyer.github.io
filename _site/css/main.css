@@ -29,26 +29,29 @@ body {
 
 /* Used for the main links on the home page */
 .stitched {
-	border: 2px dashed var(--dark-color);
+	border: 2px solid var(--dark-color);
 	padding: 12px;
-	margin-left: 5px;
-	margin-right: 5px;
+	display: block;
+	min-width: 4vw;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	text-align: center;
 }
 
-/* Everything, no matter the layout, uses the .content class which exludes header/footer */
+/* Everything, no matter the layout, uses the .content class which excludes header/footer */
 .content {
-	max-width: 60ch;
-	min-width: 10ch;
+	max-width: 80%;
 	flex: 1 0 auto;
 	margin: 0 auto;
 	line-height: 1.5;
 	margin-bottom: 12px;
-	font-size: 18px;
-	font-family: var(--preferred-serif-font)
+	font-size: 22px;
+	font-family: var(--preferred-serif-font);
+	padding: 12px;
 }
 
 .content img {
-	width: 80%;
+	width: 60%;
 	display: block;
 	margin: 12px auto;
 }
@@ -62,7 +65,9 @@ h1, h2, h3, h4 {
 	padding: 12px;
 	background-color: var(--dark-color);
 	color: var(--light-color);
-	vertical-align: center;
+	vertical-align: middle;
+	line-height: 60px;
+	height: 72px;
 }
 
 .primary-header a, footer a{
@@ -72,11 +77,31 @@ h1, h2, h3, h4 {
 header img {
 	width: 60px;
 	height: 60px;
+	float: left;
 }
 
-header div {
+header p {
+  font-family: var(--preferred-sans-serif-font);
+  font-weight: bold;
+  text-align: center;
+  font-size: 22px;
+  padding-left: 12px;
+  display: inline;
+}
+
+header #right {
 	display: inline;
 	float: right;
+}
+
+#right a {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+header #left {
+  display: inline;
+  float: left;
 }
 
 #post-nav {
@@ -88,11 +113,16 @@ i {
 }
 
 footer {
+  width: 100%;
 	text-align: center;
 	flex-shrink: 0;
 	background-color: var(--dark-color);
 	color: var(--light-color);
 	font-family: var(--preferred-sans-serif-font);
+}
+
+footer p {
+  margin: 20px;
 }
 
 /* Dark Mode */
@@ -112,6 +142,6 @@ footer {
 	}
 	
 	.stitched {
-		border: 2px dashed var(--light-color);
+		border: 2px solid var(--light-color);
 	}
 }

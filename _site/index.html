@@ -2,6 +2,7 @@
 <html class="no-js">
   <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title> Nathan Dyer</title>
 	<meta name="description" content="A website with blog posts and pages">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
@@ -26,43 +27,88 @@
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+	
+	<!-- Twitter and OpenGraph cards -->
+	<meta name="twitter:site"    content="@nathandyer_">
+	<meta name="twitter:creator" content="@nathandyer_">
+	<meta name="twitter:title"   content="">
+	<meta name="title"   content="">
+
+	
+	<meta name="twitter:description" content="A website with blog posts and pages">
+	<meta name="description" content="A website with blog posts and pages">
+	
+
+	
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="">
+	<meta name="image" content="http://localhost:4000">
+	
+	
+	<!-- end of Twitter cards -->
+
+
 </head>
 
   <body>
     <header class="primary-header">
-	<a href="http://localhost:4000/"><img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer"></a>
-	<div style="padding-top: 12px">
+  <div id="left">
+	  <a href="http://localhost:4000/">
+	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
+	  </a>
+	  
+	</div>
+	
+	<div id="right">
 		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
-		<a href="https://fosstodon.org/web/accounts/136980"><i class="openwebicons-mastodon-simple"></i></a>
-		<a href="https://pixelfed.social/nathandyer"><i class="openwebicons-pixelfed "></i></a>
+		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
 	</div>
 </header>
 
     <div class="content">
       <div>
+  
+  <div id="about">
     <h1>About Me</h1>
-    <div id="about">
-    	<p>Hi, I'm Nathan. I'm an independent software developer and computer technician. You might know me as the guy who originally created <strong><a href="https://vocalproject.net">Vocal</a></strong>, a powerful podcast app for Linux that provides a one-of-a-kind user experience.</p>
-	</div>
+    <p>Howdy, I'm Nathan 👋🏻</p>
+    <p>In my personal time, I'm an independent software developer making apps for Linux (primarily GNOME, using technologies like GTK and libadwaita). I also tinker with smaller projects meant to improve the lives of folks using Linux and other free desktops.</p>
+    <p>Professionally, I'm a Newsroom Support Engineer for <a href="https://freedom.press">Freedom of the Press Foundation</a>. I work on <a href="https://securedrop.org">SecureDrop</a>, an anonymous whistleblowing platform.</p>
     
-    <br />
-    <div style="text-align: center" id="primary-links">
-    	<a class="stitched" href="blog/">Read My Blog</a>
-	</div>
-	
-	<br />
-	<br /> 
-	
-	<div style="text-align: center" id="secondary-links">
-		<a class="stitched" href="http://localhost:4000/principles/">Principles</a>
-		<a class="stitched" href="http://localhost:4000/interests/">Interests</a>
-		<a class="stitched" href="http://localhost:4000/endorsements/">Endorsements</a>
-		<a class="stitched" href="http://localhost:4000/anti-endorsements/">Anti-Endorsements</a>
-	</div>
-	<br />
-	
-	<h3>Caveat Lector</h3>
-	<p>Everything on this site is a reflection of my thoughts and opinions, but I consider everything I write to be mutable and indefinitely open to edits or changes.</p>
+  	<p style="font-weight: bold">I'm currently in kidney failure and actively seeking a kidney donation.</p>
+  	<a class="stitched" href="http://localhost:4000/kidney/" style="font-weight: bold; color: red;">Please Consider a Life Saving Donation</a>
+  </div>
+	    
+  <div id="secondary-links">
+    <h1>Navigation</h1>
+    <a class="stitched" href="blog/" style="font-weight: bold;">Read My Blog</a>
+	  <a class="stitched" href="http://localhost:4000/principles/">Principles</a>
+	  <a class="stitched" href="http://localhost:4000/interests/">Interests</a>
+	  <a class="stitched" href="http://localhost:4000/endorsements/">Endorsements</a>
+	  <a class="stitched" href="http://localhost:4000/anti-endorsements/">Anti-Endorsements</a>
+  </div>
+
+  <div id="contact" style="line-height: 1">
+    <h1>Contact</h1>
+    <p>Email: <a href="mailto:nathandyer@fastmail.com">nathandyer@fastmail.com</a></p>
+    <p>Signal: @nathandyer.828</p>
+    <p>Matrix: @nathandyer:matrix.org</p>
+  </div>
+  
+  <div id="projects">
+    <h1>Highlighted Projects</h1>
+    <a class="stitched" href="https://codeberg.org/nathandyer/Vocal">Vocal</a>
+	  <a class="stitched" href="https://codeberg.org/nathandyer/Hypatia">Hypatia</a>
+	  <a class="stitched" href="https://codeberg.org/nathandyer/exquisite-linux-templates">Exquisite Linux Templates</a>
+
+  </div>
+
+  <div>
+	  <h2>Caveat Lector</h2>
+	  <p>Everything on this site is a reflection of my thoughts and opinions, but I consider everything I write to be mutable and indefinitely open to edits or changes.</p>
+  </div>
+
 </div>
 
     </div>

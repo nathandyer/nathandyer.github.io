@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Improving the Linux Bluetooth Experience | Nathan Dyer</title>
+	<meta name="description" content="">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="/css/openwebicons.css">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://localhost:4000/2021/11/02/bluetooth-in-linux.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+	
+	<!-- Twitter and OpenGraph cards -->
+	<meta name="twitter:site"    content="@nathandyer_">
+	<meta name="twitter:creator" content="@nathandyer_">
+	<meta name="twitter:title"   content="Improving the Linux Bluetooth Experience">
+	<meta name="title"   content="Improving the Linux Bluetooth Experience">
+
+	
+	<meta name="twitter:description" content="The world has moved to Bluetooth, and the experience on Linux is better than ever — with a few minor changes.">
+	<meta name="description" content="The world has moved to Bluetooth, and the experience on Linux is better than ever — with a few minor changes.">
+	
+
+	
+	<meta name="twitter:card"  content="summary_large_image">
+	<meta name="twitter:image" content="http://localhost:4000/img/bluetooth/banner.png">
+	<meta name="image" content="http://localhost:4000/img/bluetooth/banner.png">
+	
+	
+	<!-- end of Twitter cards -->
+
+
+</head>
+
+  <body>
+    <header class="primary-header">
+  <div id="left">
+	  <a href="http://localhost:4000/">
+	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
+	  </a>
+	  
+	</div>
+	
+	<div id="right">
+		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
+	</div>
+</header>
+
+    <div class="content">
+      <article >
+  <header style="background-image: url('/')">
+    <h1 class="title">Improving the Linux Bluetooth Experience</h1>
+    <p class="meta">
+    	<strong>
+			November 2, 2021
+			
+		</strong>
+    </p>
+  </header>
+  <section class="post-content"><p><img src="http://localhost:4000/img/bluetooth/banner.png" alt="A hand-drawn banner that reads &quot;Bluetooth in Linux&quot;, with the Bluetooth symbol" /></p>
+
+<p>For quite some time I’ve <a href="https://twitter.com/nathandyer_/status/1406374368817655815">complained</a> about the <a href="https://twitter.com/nathandyer_/status/160171088138088449">Bluetooth stack</a> on <a href="https://twitter.com/nathandyer_/status/103618889765752832">Linux-based systems</a> (not including Android), but recently I’ve come across a few methods of improving the overall experience, and I wanted to share some of the tips and tricks I have learned with the wider community.</p>
+
+<p>For a brief background on my set-up and the types of devices I regularly connect to my systems, about a year ago I decided I wanted to go all-in on Bluetooth, so every peripheral that I use on a regular basis is using Bluetooth. My keyboard (Keychron K3) is Bluetooth. My travel mouse is Bluetooth. For audio, I use either AirPods Pro ear buds, Sony WH-1000XM3 headphones, or a JBL Flip 5 portable speaker. I sometimes connect an Xbox controller, as well as an 8BitDo SNES-esque controller. Pretty much across the board, if it connects to my system, it’s wireless, and done through Bluetooth.</p>
+
+<p>I want to be sure to mention up front that some of these suggestions apply primarily to distributions running GNOME Shell, as that is the desktop environment that I use most regularly. Other desktop environments have other ways of doing things, and in that case, some of the specifics here will be less useful to those users. Still, I’m hopeful that at least some of this advice is helpful for everyone looking to improve Bluetooth support in Linux.</p>
+
+<p>So, without further ado, here are my recommendations:</p>
+
+<h2 id="1-install-the-bluetooth-quick-connect-extension-gnome">1. Install the Bluetooth Quick Connect extension (GNOME)</h2>
+
+<p><img src="http://localhost:4000/img/bluetooth/quick-connect.png" alt="A screenshot of the Bluetooth Quick Connect extension, which lists out various paired Bluetooth devices" /></p>
+
+<p>I generally recommend against installing extensions in GNOME Shell, but this one is absolutely critical for my sanity. Rather than clicking the Bluetooth icon in the top right and then having to go to the Settings application to select and connect to a device (which often involves repeatedly clicking or tapping the connect switch, as it times out and goes back to the “off” state without a retry), I can just see a list of my paired devices, and do a single click to connect.</p>
+
+<p>It also has the ability to show the battery levels of connected devices inside the menu, which may be nice to have quick access to (personally, I prefer a more minimal look, and I can always check those levesl from the Power settings).</p>
+
+<p>You can find and install the Bluetooth Quick Connect extension by opening the following link in either Firefox or GNOME Web
+<a href="https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/">https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/</a></p>
+
+<h2 id="2-disable-notifications-for-every-bluetooth-connect-and-disconnect-event">2. Disable notifications for every Bluetooth connect and disconnect event</h2>
+
+<p>Bluetooth event notifications almost did me in. For months, every single time my keyboard reconnected after going into a low-power state, every time my mouse had a brief connection hiccup, every time I placed my AirPods in or out of my case, I would be treated to at least one, if not multiple, notifications letting me know that something had changed.</p>
+
+<p>Perhaps this is just me (although I don’t think so, as most other OSes don’t seem to use this either), but I don’t need notifications to know when a device connects or disconnects.</p>
+
+<p>If I’m listening to music and my headphones disconnect, my music stops playing. It doesn’t pass by without notice.</p>
+
+<p>Likewise, if I go to type on the keyboard and the text isn’t appearing on screen, I don’t need something to tell me that it’s not connected.</p>
+
+<p>I tried disabling these notifications from the system Notifications settings, but nothing I did could stop them from coming.</p>
+
+<p>Finally, I discovered that they can be disabled by installing the Bluetooth Manager application (which you can find in the Software Center / AppCenter / Pop!_Shop, or by installing the <code class="language-plaintext highlighter-rouge">blueman</code> package from the Terminal on most distributions), and then going to View -&gt; Plugins -&gt; ConnectionNotifier, and un-checking the box.</p>
+
+<p><img src="http://localhost:4000/img/bluetooth/blueman-notifications.png" alt="A screenshot of where to disable notifications in the Bluetooth Manager (Blueman) app" /></p>
+
+<h2 id="3-make-the-switch-to-pipewire">3. Make the switch to PipeWire</h2>
+
+<p>This one is specific to audio devices, but I have historically had a fairly miserable experience with audio devices in Linux over Bluetooth.</p>
+
+<p>Ever since Fedora has switched to PipeWire, though, the experience has been so much better.</p>
+
+<p>With few exceptions, when I now connect a Bluetooth device, the audio gets routed to it properly, and I don’t have to go in and configure anything.</p>
+
+<p>When I remove the AirPods from my ears, the sound pauses, and when I click resume, it automatically picks back up with my integrated speakers (in the case of my laptop).</p>
+
+<p>What’s also great is, instead of only using the standard A2DP codec (which is very lossy), on headsets that support other codecs, it automatically chooses higher-quality, less-lossy formats (such as AAC on my AirPod Pros, and aptX HD or LDAC on my Sony headphones).</p>
+
+<p>The experience of using PipeWire instead of PulseAudio is night-and-day, and I cannot recommend it highly enough.</p>
+
+<p>The best way to use PipeWire is to use an OS that has it installed and enabled by default (such as the newly-released <a href="https://getfedora.org/workstation/download/">Fedora 35</a>), but you can find instructions for installing and enabling it on most distributions here: <a href="https://pipewire.org/">https://pipewire.org/</a></p>
+
+<h2 id="4-use-a-well-supported-bluetooth-adapter">4. Use a well-supported Bluetooth adapter</h2>
+
+<p>This one is a bit of a given, but it’s worth mentioning, because a good Bluetooth experience only starts with a well-supported Bluetooth adapter.</p>
+
+<p>For best results, I recommend using an Intel-based wireless adapter, with Bluetooth built-in. The performance is great, they’re well-tested due to being so prevalent across many different devices, and the drivers are built directly into the kernel.</p>
+
+<p>For devices that you purchase pre-configured, the best advice is to purchase from a company like <a href="https://system76.com/">System76</a> that specializes in such hardware (disclaimer: I work for System76 on the Happiness Team providing customer support), or use a brand that is used by a large portion of Linux developers (when in doubt, ThinkPads tend to work very well because so many developers use them).</p>
+
+<h1 id="wrap-up">Wrap-Up</h1>
+
+<p>If you try any of those suggestions, or if you have any other recommendations about using Bluetooth in Linux, I’d love to hear about your experience! Please reach out to me via <a href="https://fosstodon.org/@nathandyer">Mastodon</a>, <a href="https://twitter.com/nathandyer_">Twitter</a>, or <a href="mailto:nathandyer@fastmail.com">Email</a>!</p>
+</section>
+</article>
+
+<!-- Post navigation -->
+<div id="post-nav">
+	<a href="http://localhost:4000/blog/"><i class="fa fa-book"></i> Index</a>
+    <a id="prev-post" href="/2021/11/01/november-blogging-challenge.html">
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> Prev
+      </span>
+    </a>
+    <a id="next-post" href="/2021/11/03/wrist-rest-lifehacks.html">
+       <span class="page-title"></span>
+       <span class="nav-label">
+        Next <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+</div>
+
+<div id="kofi">
+    <a href="https://ko-fi.com/nathandyer"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Like what you read? Support this blog by buying me a coffee." style="width: 50%;"></a>
+</div>
+
+    </div>
+    <footer>
+	<p><i style="font-size: 1em;" class="openwebicons-cc"></i>All content, unless otherwise noted, is created by Nathan Dyer and available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA License</a>.</p>
+</footer>
+
+
+  </body>
+</html>

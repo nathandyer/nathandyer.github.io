@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The Share Button&#58; The New Pipes? | Nathan Dyer</title>
+	<meta name="description" content="I’m a person who uses a wide variety of operating systems on any given day. It’s not out of the question that I would use Fedora, Pop!_OS, elementary OS, mac...">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="/css/openwebicons.css">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://localhost:4000/2022/02/22/share-button.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+	
+	<!-- Twitter and OpenGraph cards -->
+	<meta name="twitter:site"    content="@nathandyer_">
+	<meta name="twitter:creator" content="@nathandyer_">
+	<meta name="twitter:title"   content="The Share Button&#58; The New Pipes?">
+	<meta name="title"   content="The Share Button&#58; The New Pipes?">
+
+	
+	<meta name="twitter:description" content="The share button you see in modern OSes has something in common with a classic computing concept you might not have considered.">
+	<meta name="description" content="The share button you see in modern OSes has something in common with a classic computing concept you might not have considered.">
+	
+
+	
+	<meta name="twitter:card"  content="summary_large_image">
+	<meta name="twitter:image" content="http://localhost:4000/img/sharebutton.jpg">
+	<meta name="image" content="http://localhost:4000/img/sharebutton.jpg">
+	
+	
+	<!-- end of Twitter cards -->
+
+
+</head>
+
+  <body>
+    <header class="primary-header">
+  <div id="left">
+	  <a href="http://localhost:4000/">
+	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
+	  </a>
+	  
+	</div>
+	
+	<div id="right">
+		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
+	</div>
+</header>
+
+    <div class="content">
+      <article >
+  <header style="background-image: url('/')">
+    <h1 class="title">The Share Button&#58; The New Pipes?</h1>
+    <p class="meta">
+    	<strong>
+			February 22, 2022
+			
+		</strong>
+    </p>
+  </header>
+  <section class="post-content"><p>I’m a person who uses a wide variety of operating systems on any given day. It’s not out of the question that I would use Fedora, Pop!_OS, elementary OS, macOS, iPad OS, iOS, and Android all on the same day (it would be a busy day, mind you, but I’m sure that has happened at some point).</p>
+
+<p>While every operating system has its own strengths and weaknesses, and its own approaches to help users achieve certain tasks, there’s one paradigm that I’ve noticed dominating essentially all of the more modern, mainstream choices: the share button.</p>
+
+<p>I find myself using the share button for all kinds of tasks. I admit, my primary use for that feature is sharing photos of dumb things our cats are doing to my partner while I’m working from home. But that’s just scratching the surface. I use it to text sentimental or funny web comics to her an a nearly daily basis, to share interesting articles with friends and family, to save things I want to read later to my Pocket account (it’s nice that anything that uses the share sheet can accept content directly, instead of relying entirely on a browser extension or bookmarklet), to save notes and snippets to Evernote, and to easily post things to my social media feeds.</p>
+
+<p>I’m perfectly capable of using copy-and-paste, but this allows me to pass this data from the current app and the current context into another without having to lose my spot or switch gears mentally. And I’ve noticed in observing some family members and friends that, while the concept of copying and pasting (especially on mobile) is a bit of a foreign concept to them, they use the share button like mad.</p>
+
+<p>It occurred to me recently, while passing data from one app into another via the share button, that the share button is really the concept of UNIX Pipes writ large and made accessible to pretty much everyone across any modern device that they’re using.</p>
+
+<p><img src="http://localhost:4000/img/sharebutton.jpg" alt="The Scooby Doo unmasking meme, where we find out that the share button is really UNIX pipes" /></p>
+
+<p>The beauty of the way that UNIX is architected is that there is a large collection of small programs that each do “one thing well.” The power comes in stringing the various tools together, which is achieved through the use of pipes. With pipes, you can take the output generated by a program, then use that as the input for a subsequent program. With a single line of text, it’s possible to do some really powerful things by using this data-sharing mechanism to get from point A to point N.</p>
+
+<p>The share button isn’t quite as versatile, in the sense that there’s not really a way to string together multiple shares (I’m not sure that it would really make sense for this to exist, except perhaps if you wanted to share to multiple places, but that’s more A -&gt; B, C, D, rather than A -&gt; B -&gt; C -&gt; D). But still, the core concept is the same: I have data in one one place, and I want to take it and put it some place else to perform a new action there (with that as the starting point).</p>
+
+<p>Linux desktops seem to be the one place where I’m not really seeing any widespread use of a share button. It’s not really part of any HIGs that I’m aware of, and is a bit of a foreign concept there. If I had to offer a conjecture as to why that’s the case, I suspect it’s because the designers and developers are so used to copying and pasting, and managing their clipboards, that they don’t see the benefit of having such a button. That’s painting with a fairly broad brush, though, because there are so many designers and developers, and so many different desktops and distributions for that matter.</p>
+
+<p>Regardless of the reason, I do think that adding in a system-wide Share button option (perhaps a library that piggybacks on DBUS?) would be beneficial for users, and even self-proclaimed “power users.” It’s so nice being able to share content from one spot with another person, or another app, and not have to lose your spot or leave the current context.</p>
+
+<p>I’m currently working on an app (I’m hoping to release in just a few weeks) that has a share button built-in, but for now, its functionality is limited. It will let you share via email, or open certain social media websites in a browser with a draft message containing a link to the content pre-populated. But if there were to be a better Share API, it would be so much more powerful. I want to be able to one-click draft a Tweet in <a href="https://flathub.org/apps/details/uk.co.ibboard.cawbird">Cawbird</a> or a Toot (..sigh) in <a href="https://flathub.org/apps/details/com.github.bleakgrey.tootle">Tootle</a>. I want to be able to start a new Markdown note directly within <a href="https://flathub.org/apps/details/org.gnome.gitlab.somas.Apostrophe">Apostrophe</a>. I want to be able to send users looking to read full Wikpedia entries directly over to <a href="https://flathub.org/apps/details/com.github.hugolabe.Wike">Wike</a>, with the right page loaded in.</p>
+
+<p>I’m not sure how to propose this, or ever where (FreeDesktop.org?), but if anyone wants to chat about the possibility of a share API for Linux, I’m all ears!</p>
+
+<p>For Linux users or developers who have never used a share button on another OS, if you have the opportunity, I do recommend trying it.</p>
+
+<p>The share button is a versatile, powerful feature that benefits nearly all users, and is a kindred spirit to the elegantly simple concept of pipes. In my opinion, it doesn’t get the recognition (or the daily usage) it deserves!</p>
+</section>
+</article>
+
+<!-- Post navigation -->
+<div id="post-nav">
+	<a href="http://localhost:4000/blog/"><i class="fa fa-book"></i> Index</a>
+    <a id="prev-post" href="/2021/11/04/libraries.html">
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> Prev
+      </span>
+    </a>
+    <a id="next-post" href="/2022/02/24/love-letter-to-airpods.html">
+       <span class="page-title"></span>
+       <span class="nav-label">
+        Next <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+</div>
+
+<div id="kofi">
+    <a href="https://ko-fi.com/nathandyer"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Like what you read? Support this blog by buying me a coffee." style="width: 50%;"></a>
+</div>
+
+    </div>
+    <footer>
+	<p><i style="font-size: 1em;" class="openwebicons-cc"></i>All content, unless otherwise noted, is created by Nathan Dyer and available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA License</a>.</p>
+</footer>
+
+
+  </body>
+</html>

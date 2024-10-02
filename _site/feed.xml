@@ -5,424 +5,455 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 14 Apr 2020 03:59:02 -0400</pubDate>
+    <pubDate>Tue, 01 Oct 2024 21:05:48 -0400</pubDate>
     
       <item>
-        <title>Books As Physical Objects</title>
-        <link>http://localhost:4000/2019/10/20/books-as-physical-objects.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/20/books-as-physical-objects.html</guid>
-        <description>&lt;p&gt;I just finished moving into a new apartment (more on that later), and as I sit here in my combination office / living room / dining room / kitchen I can’t help but ponder a particular dilemma that I have regarding books.&lt;/p&gt;
+        <title>(Almost) Living the Dream</title>
+        <link>http://localhost:4000/2024/09/04/almost-living-the-dream.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/09/04/almost-living-the-dream.html</guid>
+        <description>&lt;p&gt;I’ve been thinking about mobile computing even more than usual lately. For the past few years, and especially the last six months, I’ve found myself using my computer and all my digital content outside of my home more than ever before. For a period of time I was working partly from coffee shops and a small office at a coworking space I rented. Then, when I had my kidney transplant, I found myself living in the hospital for around four weeks, and then staying in a nearby hotel for two weeks. Then, for about a month or so after that, I was living part-time with my parents so my semi-retired mother could be an around-the-clock caregiver while my wife worked each day. And now, twelve hours per week, I find myself confined to a dialysis chair.&lt;/p&gt;
 
-&lt;p&gt;In my old house I had a dedicated office which was basically an entire attic, and had several bookshelves that I somehow managed to fill over the past several years. Many of the books I have read — others I’ve squirreled away for later (which I have been reliably informed is described by the Japanese word &lt;a href=&quot;https://en.wikipedia.org/wiki/Tsundoku&quot;&gt;‘Tsundoku’&lt;/a&gt;). I’ve always loved bookstores and libraries, and having one in my own house seemed like it would be the greatest thing in the world.&lt;/p&gt;
+&lt;p&gt;All of that is to say, I spend a lot of time behind my laptop.&lt;/p&gt;
 
-&lt;p&gt;That is until I had to hoist the bastards up the side of a mountain, stack them in a U-Haul, and then carry them by the dolly-load into my new abode.&lt;/p&gt;
+&lt;p&gt;The biggest source of frustration is, without question, power. Under typical use of web browsing and watching videos, I can squeak out almost four hours of use before the battery drains down to zero. I am constantly fighting with power. While in the hospital, there were times when I wasn’t near an outlet, or didn’t have anyone in the room with me who could help me connect to a power source. I have a large Anker power bank, but it is heavy, and I don’t always have a way of keeping it near me.&lt;/p&gt;
 
-&lt;p&gt;Even my poor mother, surveying the chaos of the boxes of books, meekly commented “wow you sure do have a lot of books!”&lt;/p&gt;
+&lt;p&gt;Oh, how I yearned for one of the M-series Macs during my hospital stay, with their legendary battery life. I would have been willing to switch to one temporarily, but I’m not willing to switch to one full-time.&lt;/p&gt;
 
-&lt;p&gt;I’ve spent the past week putting everything in its place, but I’ve struggled with the books. The piles are neverending, and I find them strewn all around, occupying corners of rooms or filling cabinets I didn’t even realize existed. I now have room for only a single propeepr bookshelf, so clearly the most meaningful books take precedence. There are books that have changed my life, that have changed the way I think about the world (or at least a particular subject within it), that I have marked up and refer back to often. Those get the top shelf. But then the top shelf gets filled up, so they tend to trickle down to the lower shelves as well. There are books that I want to re-read at some point, so I definitely want to hang onto them. But then there are books that I know in my heart, despite the fact that I enjoyed reading them or appreciated the aesthetics of them on my shelf, that I will never actually read again. Those, with trepidation, go into a pile to turn into my local used bookstore for credit.&lt;/p&gt;
+&lt;p&gt;But now, we’re closer than ever to having all-day battery life as table stakes for laptops. Between the new ARM-based Snapdragon processors that are starting to be the default for Windows laptops, or the new extremely powerful x86 chips that Intel announced this week, it’s just a matter of time before I will be able to buy a Linux-compatible laptop that has more power than I can realistically use, that will get me through an entire day from sun-up to sun-down.&lt;/p&gt;
 
-&lt;p&gt;At least I can delude myself that they &lt;em&gt;want&lt;/em&gt; to go to the used bookstore; to end up on someone else’s shelf, in the hands of another reader, bringing entertainment and knowledge to more people. But the cold reality is I’m tossing them out like yesterday’s trash, to sit abandoned, yellowing and moldering, on a used store bookshelf, waiting for someone to finally come along and free them.&lt;/p&gt;
+&lt;p&gt;It’s not just the power use; I’m now reaching a point where everywhere I go, I can have everything I own with me. In my bag on any given day, I now carry with me every single book that I own, stored both on my laptop’s drive, as well as a Kobo ereader that provides month-long battery life and a tremendous reading experience.&lt;/p&gt;
 
-&lt;p&gt;Okay, maybe it’s really not that bad.&lt;/p&gt;
+&lt;p&gt;Every video game I own, or have ever owned, likewise travels with me and is playable on my laptop. I keep a small 8BitDo controller (in transparent Donkey Kong 64 jungle green) that I can connect wirelessly to play everything when I don’t want to use a keyboard. Some of the larger games take more horsepower than my aging laptop with integrated graphics can handle, but the new chips I mentioned promise to be able to handle those with ease. Even if they struggle today, it’s just a short matter of time before the chips out-pace the games.&lt;/p&gt;
 
-&lt;p&gt;And then comes the awkward third category: books that I haven’t read yet, which therefore haven’t merited the “good bookshelf,” but likewise haven’t been denigrated to the donation pile yet. What do I do with those? Clearly leaving them in boxes isn’t the right answer. So far the solution I’ve come up with is the stack them veritically in piles in the top of my living room coat closet. This way I still have them, and they’re out of the way. As I work through them I’ll inevitably sort them into the “good” piles and the “bad” piles. But that will take time — years, potentially, just given the number of books. And inevtibaly more will be added to the pile as I go.&lt;/p&gt;
+&lt;p&gt;Thanks to the proliferation of large SSDs, I carry every movie and TV show from my library around with me. A tiny 4TB SSD sits in a pocket, and can be connected any time I want to watch anything. With my next laptop, I’ll just get a 4TB (or larger?) drive, and keep everything on the internal storage. And improvements in video codecs, like H.265 and AV1, mean that I can keep Blu-ray and Ultra Blu-ray quality videos with me in a much smaller space footprint than ever before.&lt;/p&gt;
 
-&lt;p&gt;I’ve spent hours trying to track down this one random video I watched like 5 years ago which contains an anecdote relevant to this blog post, but so far I haven’t been able to find the needle in the haystack, so this is a poor repititon of a quote about a third party from a video watched half a decade ago. Take that as you will. But this is what stuck in my brain. As best I remember it, author and vlogger John Green’s assistant Rosianna Halse Rojas had a similar situation going on, and had to implement a rule where she was only ever allowed to keep 50 books. That’s it — 50 single, solitary books. Anytime she added a new one that she wanted to keep, she had to donate an old one. While I don’t want to limit myself to quite that level of specificity, I find myself appreciating the spirit of the rule.&lt;/p&gt;
+&lt;p&gt;All my music and photos also travel everywhere I go, but they have for years, so those aren’t worth writing home about as much. And of course, every document I’ve ever written, every digital project I’ve ever worked on. This might be the norm today, but it’s still worth marveling at what an achievement that is.&lt;/p&gt;
 
-&lt;p&gt;The truth is that books as physical objects take up space. And while you love them, and connect with them, they’re difficult to manage from an inventory perspective (especially when, like me, you downsize from a house to a one bedroom apartment).&lt;/p&gt;
+&lt;p&gt;And as for internet? I carry around an incredibly fast wireless access point, in the form of my cell phone and its built-in hotspot, everywhere I go.&lt;/p&gt;
 
-&lt;p&gt;I’m not sure what the point of all this is, really. Perhaps it’s just for me to come to terms with the idea. It goes along with how I’ve been living from a digital / physical standpoint lately, anyway. I typically read books on my eReader. Only when a book is particularly special or meaningful do I purchase a physical copy (the same goes for music, movies, and other forms of media - digital first, then physical if I particularly cherised the work). This will help me moving forward, but it doesn’t mitigate the issue I have right now (namely, a ton of books and no space). I guess I need to just buckle down and get through them, and decide their fates. But I know that more will sneak in. I’ll be in a used bookstore and stumble across a book I just &lt;em&gt;have&lt;/em&gt; to have, and then slowly but surely I drown under the weight of more and more books.&lt;/p&gt;
+&lt;p&gt;That’s not to even mention my new home internet. In my teenage years, I seriously contemplated moving to Chattanooga, Tennessee. It wasn’t because I had visited before and loved the area (I would later visit in my late 20s, and did end up really enjoying myself), but rather because they were installing gigabit fiber, and I couldn’t imagine what life would be like with an internet connection that fast.&lt;/p&gt;
 
-&lt;p&gt;So I have to be ruthless. I have to let the dream of my home library die. There are only so many hours in a day, so many days in your life, and so many books you can get through. The ones that are especially important can stick around, but each one has a tangible and meaningful cost of both storage and preservation. If it’s not something I will return to again, I have to set it free.&lt;/p&gt;
+&lt;p&gt;Turns out I didn’t have to move after all; gigabit fiber now runs directly to my house, and the speeds are almost life changing.&lt;/p&gt;
 
-&lt;p&gt;In the meantime, I’m sure I can find some more nooks and crannies. Maybe there’s a book out there with advice.&lt;/p&gt;
+&lt;p&gt;I’m amazed by the future. I carry a messenger bag, and in it, nearly every “possession” I own or care about accompanies me. I can’t wait to update this blog post in a year or two, removing the “almost” from the title. I’ll be able to say I have all-day battery life, can play every single game I want, and keep it all on a tiny drive built-in to my computer. But even today, I really am almost there, and it will never not feel like magic to me.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Oct 2019 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 04 Sep 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
-        <title>Fix It Yourself</title>
-        <link>http://localhost:4000/2019/10/16/fix-it-yourself.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/16/fix-it-yourself.html</guid>
-        <description>&lt;p&gt;This is just an anecdote that’s been rattling around in my brain for a couple days. Yesterday at work I met with a couple Apple representatives, including a man I had never met before who as I understand it is employed at a fairly senior level in the company. It’s always interesting to sit down and talk with the people who work at Apple, and especially with somebody at a higher position who has an ever deeper connection to upper management to get a glimpse of the internal direction within the company.&lt;/p&gt;
+        <title>When Kidney Transplants Go Wrong</title>
+        <link>http://localhost:4000/2024/08/28/when-kidney-transplants-go-wrong.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/08/28/when-kidney-transplants-go-wrong.html</guid>
+        <description>&lt;p&gt;I haven’t spoken about this much publicly until now. I’ve posted about it off-and-on on Mastodon, but haven’t taken the time to really piece together the words that I want to share. The truth is, until recently, I don’t think I &lt;em&gt;could&lt;/em&gt; have spoken much about it.&lt;/p&gt;
 
-&lt;p&gt;While I am sure I wasn’t told anything confidential, I’ll spare any specific details because they were primarily just speculation and personal opinion, and also because I’m sure I don’t know anything that other people don’t. But I did have an interesting exchange near the end of our meeting.&lt;/p&gt;
+&lt;p&gt;For those who aren’t aware, I received a kidney transplant on March 4th of this year. My incredible cousin, Cheryl, was fearless and unwavering in her desire to donate a kidney to me. Living donor kidneys are the holy grail for kidney patients: they have the fewest complications, the longest survival rates, and the overall best outcomes. Surgeons and doctors roll out the red carpet for these events. They are meticulous. The utmost care is taken to make sure nothing goes wrong.&lt;/p&gt;
 
-&lt;p&gt;As they were leaving one of them made a comment to me that in the coming weeks, as I further explore iPad OS and macOS Catalina (which I’ve been running for months now), I should keep track of any wishlist items that I might have in terms of software feature requests and pass them along so they could share them with the rest of the team. He gave me an example of one such feature request that he had - something to do with working in Numbers (the Apple spreadsheet program) on iPad OS and being able to generate a PDF in some particular way (I didn’t catch the exact specifics; or if I did, they’ve left my brain by now).&lt;/p&gt;
+&lt;p&gt;Something went wrong. The evening after my transplant, it was already apparent something was wrong. I was &lt;em&gt;too tender&lt;/em&gt;. I had an ultrasound. I had, I think, another ultrasound. Nurses and doctors checked on me frequently. By morning, my surgeon was tired of waiting; she was certain — she knew.&lt;/p&gt;
 
-&lt;p&gt;But what’s funny is, as he was telling me this, I was thinking how interesting it is that I have a foot planted in two different worlds, and how they are so incredibly different. On one hand, here I am in the proprietary software world, where feature requests are recorded by “valued customers” and given to mid-level employees to pass forward to teams in order to push them up the chain to get the attention of product managers and engineers within the company. On the other hand, in the open source software world, that entire experience is different (and largely eliminated). With open source, if I had a feature request I could go directly to the project page and file an issue to have the feature added into the project. I could even write the code to implement the feature, open a pull request, and get that feature added largely by my own effort (in conjunction with maintainers and contributors, naturally).&lt;/p&gt;
+&lt;p&gt;I was rushed back to the OR, where it was confirmed I had a blood clot in my transplanted kidney. They had to take it out, flush it, and put it back in. This process is violent and shocking for the kidney. When it happens, they go to “sleep.” It was thought it would just take some time to wake up. A few days, maybe a week or two.&lt;/p&gt;
 
-&lt;p&gt;I just can’t get over what a different mindset / workflow / paradigm something like that is between the two worlds. I have to say, I’m not a fan of playing the telephone game and hoping you find the right internal people to run something up the flagpole. I’d much rather run the flag up the pole myself - or even, in some cases, roll up my sleeves and sew the damn flag on my own.&lt;/p&gt;
+&lt;p&gt;In the meantime, I couldn’t wait. I had to be put on continuous dialysis for a few days. I received blood transfusions. I had a central venous catheter installed, a set of tubes going into the veins and arteries around the heart, so I could receive ongoing dialysis treatments once I left the hospital.&lt;/p&gt;
 
+&lt;p&gt;The days and weeks of waiting turned into months. I reached the point of no return, where they rule the kidney transplant a failure. &lt;em&gt;Patient graft non-function&lt;/em&gt;, the official designation.&lt;/p&gt;
+
+&lt;p&gt;So why did this happen? What went wrong? I don’t know, and I don’t think I’ll ever truly know. What I do know is there was nothing wrong with the kidney that my cousin donated. It was in perfect health. She is in perfect health. It was the most amazing gift.&lt;/p&gt;
+
+&lt;p&gt;I think part of the problem was the hospital decided to try a somewhat new technique involving a robot, of which I was the 7th or 8th person at Duke to have received this procedure. I’m told I’m still the only one for which this has not been a success. I’m also told that the kidney was larger than they expected when they actually got to it. I find this surprising since they had conducted imaging and knew the length of it precisely, but they had to go back and make our incisions larger than planned to make the switch. Perhaps that had something to do with it. Or maybe, and most probably, it just comes down to bad luck.&lt;/p&gt;
+
+&lt;p&gt;If there is one immutable truth about the universe, it’s that shit happens.&lt;/p&gt;
+
+&lt;p&gt;The odds of this particular complication happening are a fraction of a percent. It’s really a statistical anomaly; and the odds of it happening again, I am reassuringly informed, are astronomical.&lt;/p&gt;
+
+&lt;p&gt;I’m now back on the transplant list. I’m receiving dialysis twelve hours per week, rising in the early morning hours to make a 5:30am chair time. If no new donors come forward, I will have to wait until another kidney becomes available from a deceased donor, something that will likely take a few years.&lt;/p&gt;
+
+&lt;p&gt;There are a few bright spots. One is, despite the anti-rejection meds I’m still taking (we don’t want to build up antibodies for the new kidney, even though it’s not working — it might jeopardize the success of the next one), the hemodialysis I’m on has me feeling much like my old self again. I have more energy, more pizzazz, more mental sharpness.&lt;/p&gt;
+
+&lt;p&gt;The other bright spot is, Duke University Hospital is now part of the national kidney donor registry, which opens up the possibility of a paired exchange. With a paired exchange, I no longer need a donor who is geographically close to me or Duke Hospital. I also don’t have to find someone with an ideal match for my kidney. In both cases, someone wanting to donate to me could donate their kidney, and it would go to someone in need that is a good match for them in their local area; in return, I am moved to the front of the list and will receive a living donor kidney from someone else doing a paired exchange in the same way (who is a good match for me).&lt;/p&gt;
+
+&lt;p&gt;All of that is to say, if you’ve ever considered a life-changing kidney donation but have been put off for any reason (being too far away, being older or younger than me, being larger or smaller than me, different blood types, etc.), almost all of those barriers have been broken.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in exploring possibilities for donation, you can &lt;a href=&quot;https://duke.donorscreen.org/register/now&quot;&gt;register here&lt;/a&gt; to start the screening process to see if you would be a good fit for donation. Of course, there is no expectation, nor obligation. Giving up a kidney is a huge, huge sacrifice, and involves a surgical procedure; it’s not something I take lightly or take for granted.&lt;/p&gt;
+
+&lt;p&gt;In any case, I can’t thank everyone enough for how supportive they were during the first transplant, and the difficult weeks following it. I received so many cards, so many kind gifts and love offerings, and an absolute torrent of well wishes and prayers. Thanks to my family for taking care of me for many, many weeks, thanks to my coworkers for keeping things afloat in my absence, and thanks especially to my cousin for the greatest gift I could ever receive.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 16 Oct 2019 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 28 Aug 2024 00:00:00 -0400</pubDate>
       </item>
     
       <item>
-        <title>The Usual</title>
-        <link>http://localhost:4000/2019/09/09/the_usual.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/09/the_usual.html</guid>
-        <description>&lt;p&gt;I was sitting at a Waffle House counter about a year ago, enjoying a delicious and bountiful breakfast, when an older gentleman walked in and sat down at a very particular chair. He hadn’t made his seating decision haphazardly — no, he knew precisely where he wanted to sit, and made a beeline for it. Pulling the chair out from the counter, the waitress said “morning Frank, you want your ususal?”&lt;/p&gt;
+        <title>Where Are the Open Cricut Alternatives?</title>
+        <link>http://localhost:4000/2024/07/17/open-cricut-alternatives.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/17/open-cricut-alternatives.html</guid>
+        <description>&lt;p&gt;Earlier this week, following the attempted assassination of Donald Trump, &lt;a href=&quot;https://www.themarysue.com/the-sticker-mule-email-explained/&quot;&gt;StickerMule sent out a bizarre email to its customers&lt;/a&gt; calling for everyone to dial the political hatred back, and stating that many in the company (including/especially the CEO) are staunch Trump supporters and have been afraid to be vocal about this support for fear of being ostracized. Anyone with half a brain could predict how this would go, and now I’m seeing lots of suggestions floating by on Mastodon for competing companies who support more progressive causes (or at a minimum, I suppose, don’t &lt;em&gt;openly&lt;/em&gt; support a fascist candidate).&lt;/p&gt;
 
-&lt;p&gt;Just a note: it might not have been Frank. He was probably a Henry or a James, or maybe a Bob. But when I tell the story, he’s Frank.&lt;/p&gt;
+&lt;p&gt;While conducting business with companies that are more aligned with your own values and principles is essential, I must admit that I’m surprised that so many in the do-it-yourself/hacktivist/maker communities don’t want to just roll up their sleeves and make these stickers themselves. The materials and tools for this are out there and readily available. I wouldn’t call them affordable, but they aren’t any more expensive than even the most inexpensive 3D printer, and the sticker paper is far cheaper than even a single spool of 3D filament. So why are so many in the free software/open source communities enthralled with 3D printing, but not with computer-controlled cutting machines?&lt;/p&gt;
 
-&lt;p&gt;The man, older with wrinkles on his forehead, white hair, and a rugged disposition, just smiled and nodded his head. The waitress repeated a very precise order — coffee (black), two eggs over easy, hashbrowns smothered and covered, and couple sausage links. That may or may not have been his order, but again, I’m the one telling the story here.&lt;/p&gt;
+&lt;p&gt;I think it comes down to the market being almost entirely owned by one brand of cutter, namely Cricut. Cricut is a commercial machine, and the software necessary to control it (“Design Space”) is entirely proprietary and only works on Windows, Mac, Android, and iOS. Not only that, but to actually &lt;em&gt;use&lt;/em&gt; the software you are limited to only 20 new designs per month. More than that, and Cricut expects you to open up your wallet.&lt;/p&gt;
 
-&lt;p&gt;And then the two conversed with each other like old friends.&lt;/p&gt;
+&lt;p&gt;It boggles my mind that there isn’t a good alternative to the Cricut machines, let alone ones that work with Linux and are generally more open.&lt;/p&gt;
 
-&lt;p&gt;That’s what I want. I want to be a regular somewhere. Just one of the dependable locals. Preferably at some crappy hole in the wall diner. I want to walk in to my chair, speak with my usual waitperson, and just get “the usual.” I want that kind of intimate relationship where they know precisely the food I want to eat at any given moment, and they can make it happen with just a simple nod of the head.&lt;/p&gt;
+&lt;p&gt;Cricut, in many ways, radiates with the same energy as 3D printing, yet the latter seems to have a more prominent space in the hearts and minds of tech enthusiasts. I might argue, with absolutely no evidence to back up said argument, that there are more useful things that can be made with a Cricut-like device for most day-to-day needs than a 3D printer.&lt;/p&gt;
 
-&lt;p&gt;Man oh man, I want to be a regular someplace.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Sep 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Number of Books in Life</title>
-        <link>http://localhost:4000/2019/09/08/number_of_books_in_life.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/08/number_of_books_in_life.html</guid>
-        <description>&lt;p&gt;I’m a pretty frugal guy. I don’t waste a lot of money on extraneous expenses, least of all fashion. I buy shoes once, maybe twice, a year. Every time I go shopping for shoes I always make the same remark, often to the chagrin of whichever unlucky sucker I convinced to go along with me: “welp, one pair of shoes closer to death.”&lt;/p&gt;
+&lt;p&gt;The most obvious benefit of a Cricut is that you can design and print your own stickers. Pretty much every dyed in the wool geek I know, save for the most hardcore minimalists, adorn their various systems with as many stickers as they can get their hands on. By being able to print your own vinyl stickers, you can rep a plethora of projects, apps, and services. I can also see this being a potential (albeit small) revenue stream for projects. Rather than partnering with another company to make stickers, or getting them produced in bulk, you can do on-demand printing of swag and have a higher profit margin.&lt;/p&gt;
 
-&lt;p&gt;I suppose it’s kind of a morbid thing to think about, but I can’t help if. You figure if you live to be 100, and you buy two new pairs of shoes a year, you only will ever have at most 200 pairs of shoes. Each time I buy more it really drives home that another significant chunk of my life is gone forever, never to be seen again.&lt;/p&gt;
-
-&lt;p&gt;I call that my shoe theory, and I have a probably unhealthy habit of extrapolating that to other areas of my life. Right now I’m particularly fascinated with applying that concept to reading.&lt;/p&gt;
-
-&lt;p&gt;I think it started when I watched a &lt;a href=&quot;https://www.youtube.com/watch?v=lIW5jBrrsS0&quot;&gt;particularly good documentary on YouTube about bookstores&lt;/a&gt;, and how there’s not enough time to read everything you want to. This is similar to what is said in the documentary, but for the sake of argument: if you read one book per week, that’s 52 books in a year. 520 books total over the course of your entire life.&lt;/p&gt;
-
-&lt;p&gt;That number drives me bonkers.&lt;/p&gt;
-
-&lt;p&gt;Surely it has to be possible to read more than that in your lifetime. But even if you read two or three books a week your entire life long, and live to be 100, that’s still only 1500 books.&lt;/p&gt;
-
-&lt;p&gt;How can you possibly decide which books are good enough to make that cut?!? What if you make the wrong choice and pick a real stinker, only to find that time lost forever and one of your allotted books a terrible waste? It’s enough to give anyone heartburn.&lt;/p&gt;
-
-&lt;p&gt;Luckily, I think my system works pretty well for me: the truth is there aren’t that many new books released in a given year that I want to read. I purchase or download anything that strikes my fancy. As I finish one I pick up the next one that looks the most interesting to me. If I do encounter a real stinker I feel no shame in giving it up part of the way through. I let my reading life work out organically, same as I do pretty much all the other parts of my life. As the saying goes, mind the pennies and the dollars will take care of themselves.&lt;/p&gt;
-
-&lt;p&gt;Read what interests you, read what you enjoy, and do it on your own terms. You’ll never read more than 1500 books, but that’s what makes each and every one so damn valuable.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Sep 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Upon the Closing of The Video Rental Store</title>
-        <link>http://localhost:4000/2019/09/07/video_stores.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/07/video_stores.html</guid>
-        <description>&lt;p&gt;Our local video rental store closed down over the summer, I was sad to learn. I’ve been going there since I was a little kid. That’s where I first rented Star Wars on VHS. It’s where I first rented Banjo-Kazooie for the Nintendo 64. Plus, on Mondays everything was always just $1, and I’d often come home with seven or eight movies to binge. I really did love that place.&lt;/p&gt;
-
-&lt;p&gt;I knew it was inevitable. Most people nowadays are streaming everything, and if a movie isn’t available on their streaming platform of choice, they can always give Apple or Google $5 to rent it digitally.&lt;/p&gt;
-
-&lt;p&gt;But that has never been a good option for me. For one, I hate being told where I can and can’t watch movies. I always watch everything on my computer (running Linux), but I can’t watch iTunes rentals there because they are encumbered with DRM and the mechanism that unlocks the content isn’t cross-platform. YouTube also encumbers everything with DRM (widevine), but those modules can now be decoded on Linux. That sounds good, right? Except for whatever arbitrary reason (almost certainly for some purported “anti-piracy” rationale) they only allow SD movie playback and 720p TV playback on Linux because — well screw Linux users, I suppose.&lt;/p&gt;
-
-&lt;p&gt;But even if it weren’t for those limitations, I’d still prefer watching a Blu-ray. A Blu-ray’s quality is unmatched by anything in the streaming world today (except for, perhaps, 4k, but then a UHD Blu-ray will blow that out of the water too — if for nothing else, there are just more bits to throw around on the disc). I want to make sure when I watch something I’m watching it in near-perfect quality. I do rip and re-encode all the Blu-ray discs in my personal library, but I’m incredibly anal about the process (which I should document on this blog one day).&lt;/p&gt;
-
-&lt;p&gt;So when I heard the video rental store finally closed down, I was sad. Sad to see another local business go, sad to see another employment opportunity vanish, but more selfishly than anything, sad to see my go-to source of cheap Blu-ray rentals dry up.&lt;/p&gt;
-
-&lt;p&gt;But then I discovered Redbox.&lt;/p&gt;
-
-&lt;p&gt;An entire store’s contents stored away in a box the side of a vending machine, available outside of every drug store and gas station around. And not only is it a far more efficient use of physical space and storage, the maintenance costs are low, the employment costs are nearly non-existant (other than paying people to stock and maintain the machines), and from the user’s point of view, I find the experience to be awesome. I look online, reserve what I want to watch (Blu-rays are just $2!), show up, take the discs, and when I’m done with them I just shove them back in the slot and it charges my card. I hate to admit it, but it really is a better experience than the old video store.&lt;/p&gt;
-
-&lt;p&gt;So while I mourn the loss of another old institution, I realize that I am not really sad to see it go. It had its time, but there are still better options out there to fit my needs — and I admittedly have peculiar needs compared to a lot of folks.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Sep 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>General Health Update (Originally Posted on Facebook)</title>
-        <link>http://localhost:4000/2019/09/06/health_update.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/06/health_update.html</guid>
-        <description>&lt;p&gt;I hesitate to put anything about this on Facebook, but I feel like I keep giving people different answers when they ask me how I’m doing, and people seem to be genuinely concerned about me, so I want to be straightforward.&lt;/p&gt;
-
-&lt;p&gt;I’m doing okay. Pretty good, actually. For those who don’t know, I was diagnosed with a rare disease (for adults anyway) called IgA vasculitis. I’m not an expert about it, but it’s a disease that affects the capiliaries and causes various issues. Most of the time it can be managed with steroids.&lt;/p&gt;
-
-&lt;p&gt;In some cases, it can cause kidney disease, which it has done for me. Two weeks ago we discovered that I had 3.5 grams of protein in my urine, which is alarming. They sent me for 1000mg IV steroids daily for a few days, and I’m on 60mg prednisone indefinitely now. Unfortunately today I found out that I’m up to 6.9 grams of protein in my urine, so things aren’t improving like they hoped. I see a local nephrologist (kidney doctor) next week, then I see two specialists at Vanderbilt near the end of the month. Right now it’s unclear what will happen but I’ll likely have to have a kidney biopsy done, just to confirm the issues are indeed caused by the IgA vasculitis (they have no reason to suspect cancer however).&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, leaking that much protein causes other problems. I’m severely immunocompromised (I’ve been told my immune system is similar to that of an HIV patient), so I take an antibiotic three times a week. If you’ve noticed me avoiding crowds or staying away from schools more than normal, that’s why. I’m also at an elevated risk for a blood clot, but to be honest I’m not particularly worried about that part.&lt;/p&gt;
-
-&lt;p&gt;But for those that are worried about me, I promise — I’m doing fine. Some days I feel pretty dang good. Some days I feel a little crappy. Some days the prednisone makes me grumpier than normal, but other days it makes me feel like a million bucks. On average, I’m pretty well. I’m optimistic, I’m in good spirits, and I’m trying to go about my normal routine as much as I can running back and forth to doctor’s appointments and whatnot. Heck, I’ve even gone camping this weekend — life is good!&lt;/p&gt;
-
-&lt;p&gt;Thanks so much to everyone who has sent prayers and thoughts my way. Feel free to send more in my direction. But all in all, I’m doing just fine!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Sep 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Full Disk Encryption</title>
-        <link>http://localhost:4000/2019/08/30/full_disk_encryption.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/30/full_disk_encryption.html</guid>
-        <description>&lt;p&gt;I am not a fan of full disk encryption. That’s not to say that I don’t believe there are plenty of use cases where it is prudent or useful — I very much do, in fact — but the current trend of suggesting that everyone everywhere encrypt their disks is one that I can’t get behind. I understand that this is not a popular viewpoint among technologists today, and security experts everywhere shudder when they hear me say that, but over the years that opinion has solidified for me.&lt;/p&gt;
-
-&lt;p&gt;There are people for whom securing all the data on their devices is important. Journalists protecting their sources come to mind. Or employees with very sensitive trade secrets (surely Colonel Sanders’ laptop would be encrypted to protect the 11 herbs and spices). Health care professionals with patient data. There are thousands of examples of people who absolutely &lt;em&gt;should&lt;/em&gt; encrypt their entire disk.&lt;/p&gt;
-
-&lt;p&gt;But for most common, ordinary, everyday people, I find that full disk encryption leads to far more trouble than it’s worth.&lt;/p&gt;
-
-&lt;p&gt;For one, the data they have just isn’t really that important. Almost all financial documents are stored online (and are encryped by the banks and financial services companies). Health records are typically stored in patient portals (and are, again, encrypted). Most of what people have on their hard drives are things like digital photos, home movies, notes, recipes, and things of that nature. While you want to keep those things private, I think the much more important thing (if you have to choose one or the other) is keeping them well preserved and accessible.&lt;/p&gt;
-
-&lt;p&gt;I can’t tell you the number of times, when working as a technician, that encryption has made a data recovery process either more difficult, or completely impossible. When someone’s computer dies it’s more important that I be able to easily grab the data off the old one and make sure it stays safe (because inevitably nobody keeps backups, despite my pleas for them to do so). Sure, there are ways to pull data off encrypted drives, but then you run into issues where people forget their passwords or don’t manage keys properly, and then there’s nothing I can do but say sorry and reformat the disk.&lt;/p&gt;
-
-&lt;p&gt;Or, in another example, in the event of an unexpected death, sometimes the person who needs access to the data never knew the password in the first place. It can be argued whether dying entitles someone else to access your data (hopefully that would already be settled up front in a digital will or advanced directive), but the point stands. If I kicked the bucket tomorrow, I like knowing that my friends and family can have access to the photos I’ve kept safe for them for so long.&lt;/p&gt;
-
-&lt;p&gt;And in general, without being able to provide any useful metrics or statistics, I just fine the errors related to encryption to not be worth it. Speaking specifically as a Mac tehnician, I can’t count on one hand the number of times a Mac has suddenly developed issues booting or developed otherwise unpredictible SSD issues after enabling FileVault.&lt;/p&gt;
-
-&lt;p&gt;So yes, I love that full disk encryption is getting to be a more prevalent option, and there are indeed many people who should use it. But my advice? For most people, the headache isnt worth the protection you get in the end.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Aug 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Wireless Charging</title>
-        <link>http://localhost:4000/2019/08/21/wireless_charging.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/21/wireless_charging.html</guid>
-        <description>&lt;p&gt;I must admit I was wrong about something (among many other things): wireless charging is amazing.&lt;/p&gt;
-
-&lt;p&gt;When I first heard about it I made fun of the idea. Who is so lazy that they can’t be bothered to plug in their phones for a few minutes to let it recharge?&lt;/p&gt;
-
-&lt;p&gt;But then I got a new phone that supported wireless charging, and for the sake of satisfying my curiosity I purchased a wireless charger. It’s such a simple little thing (and inexpensive too), but it has genuinely improved my life in a small but measurable way. I used to let my phone get as close to the brink of death as possible, but now whenever I’m lounging in bed or working at my desk I just naturally set it down on the little cradle. I don’t have to physically think about doing anything (other than making sure it’s in the right spot), and with just that one little change suddenly my phone is always charged. To paraphrase Forest Gump, that’s one less thing I have to think about.&lt;/p&gt;
-
-&lt;p&gt;And sure, I know that it’s slower than wired charging, but the fact is it doesn’t matter because my phone is just always charged and I never have to think about it.&lt;/p&gt;
-
-&lt;p&gt;So I was wrong. Sometimes the little life improvements add up.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Best</title>
-        <link>http://localhost:4000/2019/08/18/the_best.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/18/the_best.html</guid>
-        <description>&lt;p&gt;I’m a sucker for great stuff. Good tools, rugged materials, reliable designs, and objects that are just plain pleasurable to use. My quest to seek out things that meet these criteria has often left me looking for things that could be labeled as “the best.” This has led to me obtaining some really nice stuff, but I’ve come to realize that it has also created a lot of unnecessary heartache in my life.&lt;/p&gt;
-
-&lt;p&gt;I’ve been obsessed with cast iron cookware for a while now. The only two frying pans I owned were cast iron. I regularly seasoned them and made the maintenance of them part of my regular routine. But I noticed eventually that I wasn’t cooking as much as I wanted to because I didn’t really enjoy cleaning them. And often, the food I ended up with wasn’t as good as I hoped it would be because of poor technique on my end. And then, one morning, the day after I spent literal hours seasoning them, I had an incident. At that moment I felt my love for cast iron die, a feeling that I imagine is not too dissimilar to that of discovering infidelity by a partner (okay, maybe not that bad). This is what I like to refer to as the “hash brown incident:”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/skillet_ruined.jpg&quot; alt=&quot;The Hashbrown Incident&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That morning I went out and purchased a few of the fancy ceramic frying pans that are all the rage these days, and after using them a couple times my mind was blown. Everything was so easy! Pretty much nothing sticks to them and clean-up is a cinch! And the food I’ve been making is delicious. I’ve even cooked a few meals after getting home from work, something I’ve never done in years of living on my own now.&lt;/p&gt;
-
-&lt;p&gt;So I’ve applied this logic to other areas of my life, and I’ve discovered that sometimes it’s worth compromising. Sometimes you really don’t need the best. Sometimes you’ll be happier with “good enough.”&lt;/p&gt;
-
-&lt;p&gt;Let’s take a second example now: my Moka pot. I’ve had various Moka pots since the day I moved in. I wanted to learn to make a good latte, which of course requires good espresso. At first I bought the pre-ground stuff in a can. I put it on the stove and, soon, had water shooting out everywhere. Bad O ring. I bought replacement O rings and tried again, eventually producing a pretty good result. I bought fake caramel sauces and flavorings, learned to add the right amount of sugar, and then started learning to heat milk in a sauce pan and froth it using a mason jar. Start to finish, making a latte took 15 solid minutes, and dirtied at least one saucepan, one moka pot, one jar, and a mug. I decided this still wasn’t “the best” so I started buying beans and grinding them myself. Even more effort, all in pursuit of the best.&lt;/p&gt;
-
-&lt;p&gt;But here’s the deal if I’m really being truthful with myself: nothing I’ve made so far is all that magical, and in the end it’s still not going to be as good as going to a real coffee shop with a real espresso machine and people who actually know what they’re doing. No matter how much I want “the best,” I’m never going to get it on my own. And not only that, the pursuit of “the best” coffee actually means I don’t drink it very often because making it and cleaning up afterwards is a royal pain the ass. I’ve only made coffee for myself like three or four times this year.&lt;/p&gt;
-
-&lt;p&gt;But then my parents gave me a Keurig machine, which I’ve avoided for years because I didn’t want “instant crap” (and I also didn’t care for Keurig’s business practices of introducing DRM into coffee pods requiring you purchase certain brands - something I’m still firmly against). I reluctantly put in a “caramel cappuccino” pod, hit the button, and within 30 seconds I had piping hot cappuccino in my cup. No dirty dishes, no unnecessary labor. And what’s even better - it was really good. Like, better than anything I had made with “real” coffee on my own. I added a splash of milk, and viola - instant, delicious coffee heaven. I’ve had two cups a day each day this week.&lt;/p&gt;
-
-&lt;p&gt;Once again, my pursuit for “the best” cup of coffee ended up causing me to experience less of it.&lt;/p&gt;
-
-&lt;p&gt;Years ago I watched an episode of Penn and Teller: Bullshit! about “The Best,” (it’s the last episode of season 3 - click here to watch if you have Amazon Prime), which demonstrated, among other things, that more often than not there’s no such thing as “the best.” I agree that usually there’s no such thing as a quantifiable “best,” but there is no doubt that certain things are better than others. I still seek out the best in a lot of other areas of my life. I still write on an IBM Model-M keyboard - the best keyboard of all time and I’ll fight anyone that says otherwise. I still try to find the “best bang for the buck” for pretty much everything when I go shopping.&lt;/p&gt;
-
-&lt;p&gt;But this all relates to a valuable lesson I learned from my father, which I’ll end with.&lt;/p&gt;
-
-&lt;p&gt;I had promised myself that when I turned 25 I would buy a Dodge Challenger. Specifically, a 6.4L V8 with a manual transmission. I was stupid enough to go out and actually drive one. Holy moly, I’ve never felt more alive. It was amazing. I was obsessed with that car for a solid year. I kept an eye out on all the classifieds, had the dealership websites all bookmarked, and even had a salesman’s business card pinned to my wall. It was pretty much all I thought about.&lt;/p&gt;
-
-&lt;p&gt;But my 25th birthday came around, and there was no way I could afford or justify a Dodge Challenger. I was talking about it with Dad and made some comment to the effect of “I want to have the fastest, coolest car around.”&lt;/p&gt;
-
-&lt;p&gt;To which Dad said, “No matter what car you get, somebody is always going to have a faster one.” He was right. If I bought the 6.4L V8, somebody else would have the Hellcat version. And someone else would have an even faster car. No matter what you’re trying to get, someone is always going to have a nicer, faster, better looking, cooler thing. So the answer isn’t to make decisions based on what other people have or what other people think. Instead, buy what makes you happy and just enjoy it!&lt;/p&gt;
-
-&lt;p&gt;Ultimately, I bought a 6 speed Subaru Crosstrek, which I am in love with. It ain’t a V8 Challenger - but turns out I didn’t need one of those anyway, and I don’t think I would have been nearly as happy with it in the end.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/evangeline.jpg&quot; alt=&quot;A gratuitous shot of Evangeline&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Screw the best. Shoot for what makes you happy.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Aug 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Vasculitis</title>
-        <link>http://localhost:4000/2019/07/30/vasculitis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/30/vasculitis.html</guid>
-        <description>&lt;p&gt;I wanted to explain a little bit about what all I’ve been through the past month, and why I’ve not been as active online recently. Everything started on June 30th. I was feeling &lt;em&gt;off&lt;/em&gt; that day: a loss of appetite, a chest that ached like I had indigestion, and overall general sluggishness. I figured it was something I ate, or a little bug of some sort, and that it would work itself out on its own. Later that night someone was looking at one of the scars from my ankle surgery and noticed that I had three bright red dots around it. I figured they were nothing — tiny little bug bites, or perhaps new freckles or something.&lt;/p&gt;
-
-&lt;p&gt;I kept feeling worse and worse. Something wasn’t quite right. I went to work but getting through my normal day-to-day tasks was harder than it should have been. Then that Tuesday, while eating lunch in my car, I looked down at my leg and noticed that it was absolutely covered in these red dots that looked kind of like someone had drawn all over me with the tip of a red ink pen. I also felt one of my fingers puffing up like I had a spider bite, but it went away on its own after a few hours. I knew something wasn’t right, so I went to the walk-in Medical Care clinic to get checked out by a doctor. He examined me, did blood work, and in the end he told me he had no idea what it was or why it was happening. It could be viral or bacterial, so he gave me antibiotics “just in case,” and said if it was viral it would work itself out.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/1.jpg&quot; alt=&quot;What I thought was a spider bite&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/2.jpg&quot; alt=&quot;Ink pen dots&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The dots didn’t go away, but I thought things were on the mend. Then on July 4th I woke up with my hand swollen to the point where I couldn’t move my fingers. Mom tried to get me to go to the emergency room right away, but I wouldn’t go. I told her if things got any worse, or any other body parts swelled up, then I’d go. Things got worse and worse, then all of a sudden around 3pm that afternoon my foot, knee, and other hand began to swell up. I was, naturally, terrified my throat would swell shut or something, so we went to the Urgent Care, who sent me straight on to the local ER. I had my blood tested again for a whole range of things, had my body examined, saw a couple different doctors, and was ultimately four 50mg Prednisone tablets and sent on my way. I took the tablets over the course of four days and the dots began to disappear. I followed up once again with the doctor I saw at the Medical Care for a follow-up from the ER visit, but he didn’t have any big epiphanies, apart from ordering yet another round of blood work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/3.jpg&quot; alt=&quot;Swollen hand at home&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/4.jpg&quot; alt=&quot;Swollen hand at the ER&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That’s when everything really went sour. A day or so after the Prednisone ran out the dots returned, with vengeance. I first noticed it starting as big splotches on my feet, then things rapidly progressed from there. What were once non-palpable dots were absolutely horrific, burning, palpable rashes (purpura). I looked like Freddy Kruger. These things covered my feet, my sides, and stomach — pretty much everthing from the chest down. I was trying to avoid another ER visit (the first one cost me $650 out of pocket that night alone), but as things got worse I knew I had to go. Mom picked me up and drove me to the “good” hospital in the next city over. After several hours in the waiting room, then several hours in the ER, I was admitted to the hospital.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/5.jpg&quot; alt=&quot;Feet splotches&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/6.jpg&quot; alt=&quot;Getting worse&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/7.jpg&quot; alt=&quot;My belly&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/8.jpg&quot; alt=&quot;My thigh in the ER waiting room&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I had never been hospitalized before (not even when I broke my ankle and had surgery), so that was a new experience. In some ways it was nice (I actually really enjoyed the hospital food), but overall it’s not an experience I can recommend. You can’t sleep well. Someone is coming in every hour or so to wake you up for one reason or another. I had my blood drawn every morning at 5am, pretty much on the dot. I had to have my finger stuck and my blood glucose levels checked before every meal (those pricks hurt more than the blood work!). I couldn’t leave the hospital bed on my own because of all the monitors I was hooked up to. I constantly had IV fluids running into me, which wasn’t bad at first but by the last day the site where my IV was inserted got really sore and swollen. But the worst part was the waiting. Teams of doctors would come in, look me over, share theories and plans for finding new information, and then disappear. What did I have? Would I be released today? Tomorrow? The next day?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/9.jpg&quot; alt=&quot;My foot while laying in my hospital bed&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/10.jpg&quot; alt=&quot;Hospital selfie&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/11.jpg&quot; alt=&quot;My room that first night&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the second day in the hospital they decided they needed to do a biopsy, which for those of you who are unaware, that means taking a tissue sample (read: chunk of flesh) and examining it under the microscope. Just to be on the safe side, they wanted to get two pieces. I’m sure every biopsy is different, but in this case two members of the surgical team came with these tools called “disposable biospy punches.” Basically they’re jumbo sized pens that, when you push down, cut a ring around your skin and pull out a fairly deep hunk of meat. It’s kind of like those ice cores you see scientists drilling in Antarctica, only it’s made of human — specifically, me. They gave me a local anesthetic (really painful shots to numb everything), then did the “operation.” It took about 20 minutes. Overall it wasn’t too bad, but those suckers hurt for weeks after. They stitched me up and I was ready, once again, to wait.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-30-vasculitis/12.jpg&quot; alt=&quot;My thigh post-biopsy&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I ultimately spent three nights in the hospital. The biospy results still hadn’t gotten back, but the team felt confident they could safely send me home after a few days of IV steroids and a twelve-day step-down course of Prednisone. Their initial diagnosis: something called lukocytoclastic vasculitis, but they referred me to see a rheumatologist ASAP to figure out the underlying autoimmune condition.&lt;/p&gt;
-
-&lt;p&gt;The story here gets repetitive so I’ll spare many of the details. I followed up with a doctor a few days after being released. She ordered yet another series of bloodwork. Then I was sent to the rheumatologist, who — surprise — ordered even more blood tests (nine vials in one sitting!).&lt;/p&gt;
-
-&lt;p&gt;Fast-forward to today. Most of the spots have disappeared, or at least faded. I’ve been off of steroids for several days. I went back to the rheutmatologist this afternoon (or really yesterday, since this won’t be posted until tomorrow), who finally had all my results and could officially make a dignosis: IgA Vasculitis (also known as Henoch-Schönlein Purpura or HSP). It’s relatively common in children, but pretty darn rare in adults. My rheumatologist said she’s only ever seen three cases of it in adults (mine included), and that mine is the only one she’s seen with the swelling in the joints. Usually patients present with stomach and colon issues that mimics appendicitis, but once again I show my uniqueness by having a strange presentation. There isn’t a known cause for the disease, but it usually develops following a viral infection of some kind. There’s no “cure” for it (it could flare up again at any time for no reason), but typically it’s treated with either six months of steroids or a year of immunosuppresents, after which people often go into “full remission” and may never experience it again.&lt;/p&gt;
-
-&lt;p&gt;The only problem is, IgA sometimes causes kidney damage, and all my urine tests have shown blood and protein, which is cause for concern. I did one final “spot urine test” today. If the levels come back the same then I’ll be referred to Vanderbilt for a kidney biospy (which I &lt;em&gt;really&lt;/em&gt; would rather avoid all things being equal). So fingers crossed for no blood or protein!&lt;/p&gt;
-
-&lt;p&gt;But that’s where I’ve been. As you can imagine, I’ve felt pretty crappy through all of this. I haven’t had much energy for my usual stuff, so unfortunately work on the Summer of Vocal has stalled for now, and I haven’t been updating my blog as much. I’m hoping things can now start to get back to normal. Pretty much all of July has been filled with doctors appointments, ER visits, and a hospitialization. I’m defintely ready to move on.&lt;/p&gt;
-
-&lt;p&gt;One thing’s for sure though: my 2019 has thoroughly sucked.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Jul 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>YouTube Subscriptions as Video Podcast Feeds (RSS)</title>
-        <link>http://localhost:4000/2019/07/29/youtube_as_rss.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/29/youtube_as_rss.html</guid>
-        <description>&lt;p&gt;For years now I’ve been trying to limit how many Google services I use, but there is one that I just can’t seem to break away from no matter how hard I try: YouTube.&lt;/p&gt;
-
-&lt;p&gt;I watch relatively little video, and am not subscribed to any streaming or cable services, but the small amount of content I do watch all comes from YouTube, and I get too much enjoyment out of it to be able to give it up entirely. I don’t like Google as a company, and I find the way YouTube treats creators and employees to be absolutely terrible, but at the same time I really like all the content that people pour into the service.&lt;/p&gt;
-
-&lt;p&gt;That’s where &lt;a href=&quot;https://podsync.net/&quot;&gt;Podsync&lt;/a&gt; comes in, which effectively turns a YouTube channel into a proper video podcast feed, complete with artwork and descriptions. Doing it this way has really changed how I interact with YouTube. I find that I stay more up-to-date with all my subscriptions, and it’s nice being able to have it integrated with my other podcast feeds. And of course it’s nice being able to load it all right into Vocal.&lt;/p&gt;
-
-&lt;p&gt;I should end with a caveat that this is pretty clearly a violation of YouTube’s terms of service, and it also bypasses any ads, so effectively you’re using Google’s bandwidth without them getting anything back in return from you. Whether this is unethical or not I will leave as a personal decision to the reader. I for one see it as a social good.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Jul 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Backpacks</title>
-        <link>http://localhost:4000/2019/07/08/backpacks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/08/backpacks.html</guid>
-        <description>&lt;p&gt;Last weekend when I went home to visit with my parents they made fun of me for walking through their door with a backpack across my shoulders, like I’ve done ever day since middle school. “We thought you’d outgrow it by now!” they told me. It’s funny that they brought it up, because my relentless habit of lugging a backpack around is something that I have been mulling over in my head on my own for a while. Truth be told, I think they touched on an insecurity.&lt;/p&gt;
-
-&lt;p&gt;And then, as the universe often somehow manages to pull off, the next day at work I kept seeing the same &lt;a href=&quot;https://www.inquirer.com/opinion/commentary/adult-back-packs-fashion-office-etiquette-20190701.html&quot;&gt;opinion piece about adults wearing backpacks published in the Philadelphia Inquirer&lt;/a&gt; float across my social media timelines. Every comment attached to the article was some variation of either mild annoyance or at least a scoffing reference to “old man yells at cloud.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/91sn32Q.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I think there’s something to be said for the amazing idea that, push come to shove, most our lives can fit in a single sack that we can carry around with us at all times. I know for me, I never leave the house without my laptop, headphones, and an ereader. Between those three devices I can access and enjoy literally every piece of media in my life. Every picture I’ve ever taken of my family and friends, my entire bookshelf, my movie library, all my music, all my electronic games — everything is always with me. It’s incredibly convenient to be able to have pretty much all your stuff with you at all times.&lt;/p&gt;
-
-&lt;p&gt;I must admit thinking to myself that carrying a backpack around doesn’t feel particularly adult-y, though. I wonder if deep down the teachers and students whose computers I’m responsible for fixing each day in my “real job” are judging me for it. But what are the alternatives? A brief case? No way— way too serious and stuffy. I can’t pull it off. That really would earn me a one-way ticket to “amateursville.” I mean,, who would I be kidding? I suppose I could graduate to a messenger bag, but I’m not convinced they’re much of an improvement, and I know that ergonomically they put more stress on your shoulders and back.&lt;/p&gt;
-
-&lt;p&gt;Plus, I &lt;a href=&quot;https://www.amazon.com/gp/product/B01MRZC0V3/&quot;&gt;finally found a backpack that I really like&lt;/a&gt;. It is perfect for my needs and I’ve carried it every day for years now.&lt;/p&gt;
-
-&lt;p&gt;So for me, the convenience of a backpack outweighs the fashion faux pas and the perceived immaturity the older generations seem to place on it. I don’t see me giving it up any time soon. I do agree with the author’s point about etiquette — if you’re wearing a backpack in a big crowd, just take the darn thing off and carry it in front of you so it’s in your immediate space. Aside from that, just embrace and love the backpack.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Jul 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Truth About Vinyl</title>
-        <link>http://localhost:4000/2019/07/02/truth-about-vinyl.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/02/truth-about-vinyl.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/2019-07-02/vinyl-expense.jpg&quot; alt=&quot;I can't find the original artist to give credit, but this is a well-known comic in the vinyl community.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I once heard a quote about reading (I believe that it was &lt;a href=&quot;https://twitter.com/Ihnatko&quot;&gt;Andy Ihnatko&lt;/a&gt; who said it, but he may have been quoting someone else) that has stuck with me over the years, and I’ll paraphrase: paperbacks and hardbacks are for people who like books, ereaders are for people who like reading.&lt;/p&gt;
-
-&lt;p&gt;I think there’s a fair bit of truth to that statement, and what’s interesting to note is that the people who prefer physical copies of books aren’t wrong or incorrect, they just approach the activity in a different way. I myself do a mix of both: in terms of pure convenience, my ereader lets me get through books way more quickly. I always have my library with me, so I can read any time, plus it has features like a backlight so I can read in bed at night. That said, whenever I want to support the author more directly, or if I want something I can keep on my shelf to leaf through from time to time, or if I want a physical edition because I find it aesthetically pleasing or it is better suited for a physical format, I go and pick up a physical copy of the book. At the end of the day it’s the same text, but a different way of interacting with and experiencing the content.&lt;/p&gt;
-
-&lt;p&gt;I see vinyl in much the same way.&lt;/p&gt;
-
-&lt;p&gt;I woke up this morning to &lt;a href=&quot;https://twitter.com/CassidyJames/status/1145908562633383936&quot;&gt;a series of Tweets&lt;/a&gt; that my friend Cassidy wrote about his recent experience with vinyl and how he saw it fitting into his life, and I wanted to take the opportunity to jot down some thoughts I’ve had for a while about vinyl. I’ll start off by saying that, generally speaking, everything Cassidy said is 100% correct. Vinyl does take up a lot of space, it’s expensive, it’s not portable, and it doesn’t accomodate playlists at all or individual song playback very well. That said, some of those complaints are actually features, not bugs, and some of them require coming to it from a different angle.&lt;/p&gt;
-
-&lt;p&gt;The simple truth is that vinyl isn’t for everyone, and that’s perfectly okay.&lt;/p&gt;
-
-&lt;p&gt;Right off the bat, let’s get this out of the way — if you say to yourself “I want to listen to {song name here} right now,” a vinyl record is a terrible medium to use to accomplish the goal. Finding the track isn’t too difficult, but if you want to jump around to particular songs, it’s a miserable experience. And forget playlists! That’s just not going to work. There’s a reason why I maintain a (arguably entirely too big) local music library (125GB in size at the time of writing — FLAC files, naturally. I am a format snob after all). There are days when I just want to hear Celine Dion’s &lt;em&gt;My Heart Will Go On&lt;/em&gt; or Britney Spears’ &lt;em&gt;Hit Me Baby One More Time,&lt;/em&gt; and I ain’t buying a record just to listen to those single songs. Even if I owned the record, I’d still probably hit play on my music app and accomplish the goal of hearing the particular song way more quickly and easily.&lt;/p&gt;
-
-&lt;p&gt;The biggest misconception I want to get out of the way is that vinyl does &lt;em&gt;not&lt;/em&gt; more accurately store music than a digital file. I actually have a lesson about this in my AP Computer Science class each semester as a way to teach how computers store sound in the first place. Yes, it’s true that vinyl is an analog format so it “carves out” the analog representation of the original sound wave, but the fact is that a 24-bit 192kHz lossless audio file is a much more “correct” copy of a song than one carved out in plastic which then gets worn down with dust and vibrations and just as a byproduct of listening to the darn thing. It’s something the vinyl community needs to just accept - vinyl does’t automatically sound better, and the audio isn’t necessarily a higher quality than a digital file. Often, it isn’t.&lt;/p&gt;
-
-&lt;p&gt;So we’ve established that vinyl is more expensive, doesn’t necessarily have a higher quality, is cumbersome, is succeptile to wear, requires maintenance, and is a lousy way to find a particular song you want to hear. It also isn’t portable — you can’t take it with you as you go about your daily life, and sometimes you can’t use it at all. When I had my tib/fib fracture at the start of the year I couldn’t live on my own for several months, and even when I could, I couldn’t get up and down to flip a record over when it got done playing a side (oh yeah, I haven’t mentioned that yet — every album is, at best, split between two sides which require flipping half-way through).&lt;/p&gt;
-
-&lt;p&gt;So who in their right mind would purchase and use vinyl records?&lt;/p&gt;
-
-&lt;p&gt;Vinyl’s not about solving the problem of storing music efficiently and playing back music right when you want it — vinyl is a romantic way to interact with music &lt;em&gt;because&lt;/em&gt; it’s so damn stubborn and inefficient.&lt;/p&gt;
-
-&lt;p&gt;A lot of people are disillusioned with the current relationship they have with music. They feel no connection to it. They open an app, type the name of a song, see a 200px-squared thumbnail, tap it, and instantly hear the music. It’s too easy. There’s too much. How do you find the good stuff in a sea of endless options (don’t say algorithms — but that’s a rant for another day)? And the version of the song that you hear is the same that every other person who taps the song in the same app hears — literally, it’s the same copy. You might pull it down from a different server than other people using the same app depending on geographic location and redundancy and things like that, but if you ran a checksum on it the file itself is identical to everybody else’s (I get into arguments with myself on if I think that’s actually awesome or terrible).&lt;/p&gt;
-
-&lt;p&gt;Vinyl is the opposite of that. You have to go out into the physical world, go to a store filled with these things (or at least with a few crates or shelves of them), manually flip through them all, and find what you want to listen to. You have to hand them to a clerk and exchange money for them. You put them in the car and take them home. You have to brush them. &lt;a href=&quot;https://twitter.com/nathandyer_/status/1108513885504585728&quot;&gt;Sometimes you have to give them a bath.&lt;/a&gt; When you want to listen to it, you hold the album in your hands. You appreciate the artwork. You read the liner notes. You slide it out of the sleeve, carefully lay it on your platter, give it one final brush, flip a switch, then gently lay the tonearm down on it&lt;sup&gt;1&lt;/sup&gt;. Is there any more satisfying tangible interaction in the world?&lt;/p&gt;
-
-&lt;p&gt;And there is no such thing as listening to one song. With vinyl, you’re in for the long haul. You start at track one and end at the last track. You go on the entire journey and get the full experience of the album, start to finish. I know that isn’t what you always want to do, but a reason why a lot of people get into collecting and playing vinyl records is because they feel like they don’t listen to full albums anymore. They’re accustomed to just throwing on an algorithmically-generated playlist and letting it run in the background. If you don’t feel like that’s a problem you have, vinyl really might not be the right fit for you — and that’s good!&lt;/p&gt;
-
-&lt;p&gt;I have found that when I listen to a record I focus on the music much more than any other medium. I don’t get distracted with a notification or something else. Nothing is vying for my attention. The entire experience is much more pleasurable and visceral. I put the record on, and for the next 30+ minutes I’m just sitting back and letting the music wash over me. I don’t have to interact with “technology” if I don’t want to. I can kick back, drink a cold one, and prop my feet up. And doing it this way I form strong attachments and memories to the music. I remember buying an Arcade Fire album to celebrate graduating college for example, or listening to a particular Mumford &amp;amp; Sons record over and over again when I started living in my house, or hearing &lt;em&gt;Dark Side of the Moon&lt;/em&gt; on vinyl for the first time one Friday night. These are all great memories I have of the music.&lt;/p&gt;
-
-&lt;p&gt;And what’s cool is that my copy of the record is different from every other one in the world. There might be a particular defect in track 2 on side A where the album skips or pops, but nobody else’s in the universe skips or pops exactly that way in exactly that place. It’s &lt;em&gt;my&lt;/em&gt; copy of the music. And you get to where you look for that particular pop or crack. The imperfections become things you enjoy and appreciate. It becomes a part of the music. When it isn’t there, you miss it.&lt;/p&gt;
-
-&lt;p&gt;I especially like buying used records. I like to think about where they came from. Is the original owner still alive? I wonder what all happened while the record was spinning. How many people listened, and what were their lives like? I bought an old jazz album from the 30s recently (by that I mean two years ago). Very well used. The cover was crinkled and yellowed, the plastic of the vinyl thin with a very distinct smell. Imagine the life this thing had! Oh, the stories it could tell.&lt;/p&gt;
-
-&lt;p&gt;Should I ever tire of a particular album, I can legally sell it or give it away, and more often than not recooperate my original investment.&lt;/p&gt;
-
-&lt;p&gt;And one day, when I’m dead and gone, somebody will be listening to my albums. Maybe it’ll be my kids, or at least my niece or nephews. They’ll hear the music popping and cracking, and think back to listening to it with me, and spare a thought for poor old Uncle/Papa Nathan. Or not. Maybe they’ll sell it and it will live a life with a new owner. That’s a nice thought too.&lt;/p&gt;
-
-&lt;p&gt;So bottom line, vinyl is entirely about the experience and having a more tangible, deliberate interaction with your music.&lt;/p&gt;
-
-&lt;p&gt;That said, I don’t think vinyl should be your only way of listening to music. I actually don’t even think it should be your primary method of listening to music. My rule of thumb is this: I only buy a vinyl album if I like (basically) every song on the album, and I know I’ll listen to it repeatedly. By no means are all my albums on vinyl.&lt;/p&gt;
-
-&lt;p&gt;And yes, it is expensive, but I know that when I purchase an album (especially if I do it directly from an artist’s website) I’m directly supporting the artist financially, which makes me feel good. A band or singer makes way more off of one direct vinyl album sale than they do if they earn a commission because I listen to their song 10 times on Spotify. That’s how I justify enjoying digital copies of music that were obtained using… let’s call them, “unsanctioned methods.” Even if a copy of the album miraculously shows up on my hard drive, I make it a point to purchase the music if it’s a band I want to support, and in the end everyone still ends up making more money &lt;em&gt;and&lt;/em&gt; enjoying the music. It’s a win-win.&lt;/p&gt;
-
-&lt;p&gt;It all comes back to my original statement. Digital music is more convenient. It’s cheaper. It’s for people who like music. Vinyl records are for people who enjoy the physical interactions they have with the music. One way isn’t better than the other, they’re just different. And it’s entirely possible to enjoy both in different ways.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;There are automatic record players that do all the “hard stuff” for you. I recommend against them. The main reason for using vinyl is the experience, so why throw half of it away?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Jul 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>William Blake's Eternity</title>
-        <link>http://localhost:4000/2019/06/19/eternity.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/06/19/eternity.html</guid>
-        <description>&lt;p&gt;I stumbled upon the poem ‘Eternity’ by William Blake earlier this week, and it’s been stuck in my mind ever since:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;He who binds himself to a joy&lt;/p&gt;
-
-  &lt;p&gt;Does the winged life destroy&lt;/p&gt;
-
-  &lt;p&gt;He who kisses the joy as it flies&lt;/p&gt;
-
-  &lt;p&gt;Lives in eternity’s sunrise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I often bind myself to various joys, usually at the cost of overall life enjoyment. I need to try and keep this tucked away in the back of my head and remember to “kiss the joy as it flies.”&lt;/p&gt;
-
-&lt;p&gt;What a lovely little poem.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Jun 2019 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Life Changing Magic of Buying Useful Stuff</title>
-        <link>http://localhost:4000/2019/04/30/buying-useful-stuff.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/04/30/buying-useful-stuff.html</guid>
-        <description>&lt;p&gt;They say that material desires are never-ending. No matter how badly you want something, as soon as you get it you’ll just find something else that you just “have to have,” and you will never fill that void you’re trying so desperately to fill by going out and buying more useless tchotchkes.&lt;/p&gt;
-
-&lt;p&gt;Codswollop! Balderdash!&lt;/p&gt;
-
-&lt;p&gt;In my experience, I’ve found that in almost every case, buying something I want really does noticeably and measurably improve my overall quality of life. In a sense it fills me with a feeling of contentment. I’m sure that’s not the case for everyone, but it really is for me.&lt;/p&gt;
-
-&lt;p&gt;I’m not talking about the big stuff. I don’t mean giant HDTVs, sports cars, and other frivilous junk. I’m talking about about the ordinary, commonplace, inconspicuous, arguably boring types of things. Typically, I am a pretty frugal guy and live relatively inexpenisvely, but here lately I’ve not been shy about going to the store and picking up these little trinkets that I come into contact with on a day-to-day basis. Sure, I want to save money as much as the next guy, but the way I see it, everything could go tits up at any moment, and it’s nice to know that I have a solid life foundation for when those days come and I’m looking for a way to support my livelihood. As they say, you need to make hay while the sun is shining.&lt;/p&gt;
-
-&lt;p&gt;I submit to you a sample list of items I’m talking about:&lt;/p&gt;
+&lt;p&gt;Aside from stickers, I can imagine lots of other uses folks might get out of a cutting machine:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gel wrist rests for my mouse and keyboard&lt;/li&gt;
-  &lt;li&gt;An overhead range hood for my kitchen stove&lt;/li&gt;
-  &lt;li&gt;Wireless chargers for my phone (one for my desk, one for my nightstand)&lt;/li&gt;
-  &lt;li&gt;A large pack of tea towels for the kitchen&lt;/li&gt;
-  &lt;li&gt;A butter dish&lt;/li&gt;
-  &lt;li&gt;A napkin dispenser&lt;/li&gt;
-  &lt;li&gt;Pasta canisters&lt;/li&gt;
-  &lt;li&gt;Wooden ice cream sampling spoons&lt;/li&gt;
-  &lt;li&gt;An egg basket for the fridge&lt;/li&gt;
-  &lt;li&gt;A kitchen vegetable bin for holding potatos and onions&lt;/li&gt;
-  &lt;li&gt;A kosher salt box&lt;/li&gt;
+  &lt;li&gt;Customized labels&lt;/li&gt;
+  &lt;li&gt;T-Shirts (iron-on)&lt;/li&gt;
+  &lt;li&gt;Coffee mugs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;On their own, each of those purchases are arguably “not necessary” and serve only to slightly improve an admittedly small part of my life. But really, when you think about it, all the small stuff adds up to define your overall material quality of life. So really, each time I fix a small problem or improve some aspect I’m slowly chipping away at the rough edges. And once I solve a problem, I don’t long for something else — that particular itch gets scratched. That’s the feeling of contentment I mentioned earlier.&lt;/p&gt;
+&lt;p&gt;Generally, they can be handy for making the sort of swag that you would sell in a merch store or give away at conferences so folks can represent or get the word out for your project.&lt;/p&gt;
 
-&lt;p&gt;So while I appreciate the push for minimalism, and the Marie Kondo-ing of people’s lives, for me it’s about striking a balance between things that don’t improve your life, and things that do. Don’t keep junk around for the sake of keeping it around, but if it improves your life at all, for goodness sakes, don’t toss it out!&lt;/p&gt;
+&lt;p&gt;So how do we get more open cutting machines? I don’t know, I’m doing the thing where you ask the question with no idea how to &lt;em&gt;actually&lt;/em&gt; pull it off. I imagine that the answer lies in some combination of reverse-engineering the protocols that the proprietary applications use to talk with existing machines, and then creating a competing piece of software. That would at least let you control the machines out there on the market. That doesn’t help with the overall marketshare issue. The solution there, I imagine, involves hardware hackers building their own bespoke prototypes and sharing their builds. Maybe it even involves existing hardware makers (I’m thinking 3D printer manufacturers like Prusa or Creality) expanding their offerings to include cutters.&lt;/p&gt;
+
+&lt;p&gt;Whatever it takes, I really hope to see the market expand beyond Cricut. A little competition could only be a good thing.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jul 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>I Love 3D Printing, I Hate 3D Printing</title>
+        <link>http://localhost:4000/2024/07/15/3d-printers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/15/3d-printers.html</guid>
+        <description>&lt;p&gt;I find myself yet again faced with another move, and am naturally contemplating once more the physical things in my life. Every single move results in fewer and fewer things making the journey.  I suspect that after this one I’ll have almost nothing left. I’ve been a minimalist for a long time, and I grow only more resolute in my leanings every time I have to hoist another box and lug it across town.&lt;/p&gt;
+
+&lt;p&gt;The item I’m struggling with most right now is my 3D printer. I purchased a 3D printer back in 2020, right at the beginning of the pandemic. While some people set their attention on sour dough starters (okay, I’ll admit, I dipped my toe in that water as well), I spent more of my free time and energy exploring the world of 3D printing.&lt;/p&gt;
+
+&lt;p&gt;On the tin, 3D printing should be something I love. Conceptually, I find it beautiful: the idea that physical objects, much like their digital counterparts, can be dreamed up by anyone with the right set of tools and personal know-how, transmitted instantaneously and shared with everyone on the planet, free of charge, and that the person on the other end of the screen can will something into existence with the press of just a few buttons.&lt;/p&gt;
+
+&lt;p&gt;It is genuinely magical and liberating.&lt;/p&gt;
+
+&lt;p&gt;But if I put on my curmudgeon hat and view my printing history over the past four years, I must confront a difficult fact: I haven’t really printed anything &lt;em&gt;useful&lt;/em&gt;, nor anything that has really stood the test of time.&lt;/p&gt;
+
+&lt;p&gt;The truth is, at least from where I’m standing, consumer 3D printers aren’t all that useful at spitting out truly helpful, long-lasting things. Most of what they generate is just cheap plastic, something that will break quickly, or be tossed out. They’re great for making trinkets and tchotchkes, but I don’t need any more of those. I really don’t need any &lt;em&gt;all all&lt;/em&gt;, come to think of it.&lt;/p&gt;
+
+&lt;p&gt;And 3D printers can be a massive ballache. Bed leveling issues, filament issues, build plate issues, poor adhesion, wrong temperatures for the given material, stringing, you name it — the list goes on and on. I’m constantly watching, adjusting, tweaking, fiddling, and correcting it seems. But I can’t deny the joy of prying off a really great print from the bed.&lt;/p&gt;
+
+&lt;p&gt;And my wife, very much &lt;em&gt;not&lt;/em&gt; of the minimalist persuasion, adores when I print things for her. That alone makes the decision more difficult, and I suspect may sway the final vote in a different direction than it otherwise might go were I a single man.&lt;/p&gt;
+
+&lt;p&gt;So ultimately, I’m not sure if my 3D printer will make the move with me. Its fate is as of yet undecided.  But every day I look at it, whimpering in the corner, with contempt and derision, plotting how I might offload it onto some unsuspecting budding hobbyist.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jul 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>On the Demise of Physical Media</title>
+        <link>http://localhost:4000/2024/02/24/physical-media.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/24/physical-media.html</guid>
+        <description>&lt;p&gt;A lot of folks in my online circles are lamenting the inevitable decline of physical media. I myself have shared similar sentiments, so I can’t blame anyone for feeling this way. My local Best Buy is in the process of completely clearing out the DVD and Blu-ray section, Target’s DVD isle has been replaced with books, and Walmart is starting to pull physical Xbox games (at Microsoft’s request). My gut reaction is to be sad about this, but the more I think about it, the more I think that our collective sadness about the loss of physical media may be misplaced.&lt;/p&gt;
+
+&lt;p&gt;I am of the strong belief that digital downloads and streaming aren’t the problem; it’s the digital rights management (DRM) that’s the issue.&lt;/p&gt;
+
+&lt;p&gt;When I was a kid, I had only one future ambition: &lt;em&gt;when I grow up&lt;/em&gt;, I told myself, &lt;em&gt;I want to own a copy of every movie and TV show I like!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In retrospect, that goal seems quaint and easily achievable. What you have to understand is that, as a young person, I had very little money and each video I would purchase was a huge investment. The thought of being able to have a copy of everything seemed like such a far-off dream.&lt;/p&gt;
+
+&lt;p&gt;I grew up wearing VHS tapes completely out, constantly keeping them on repeat on my TV (complete with built-in VCR). I would watch my movies time after time after time, until they would barely play in the tape deck any more. When DVDs came out I got a DVD player for Christmas (a bulky, heavy beast of a video player), and would watch movies on repeat until I had memorized every line. I can still quote the majority of &lt;em&gt;Harry Potter and the Sorcerer’s Stone&lt;/em&gt; by heart.&lt;/p&gt;
+
+&lt;p&gt;In adulthood, I don’t watch movies and TV with the same intensity or obsession as my younger self (I’m just too busy and don’t have the attention span that I used to). But I still love building and maintaining a media collection, and still regularly watch content from my library. I have hundreds of discs, ranging from 4K Blu-rays to DVD box sets, and everything in between. When given the option, I still buy a physical copy of everything I want to own.&lt;/p&gt;
+
+&lt;p&gt;I don’t do this because I specifically want a a physical copy of each film or TV show. What I love most about my movie collection isn’t that the majority of it is tangible. Having a digital movie stored on a round disc that I pop into the player isn’t especially important to me. What is important is the ability to watch my content wherever I want. As a Linux user for the past decade and a half, I’ve had to deal with issue after issue of not having content available to me. If I purchase a video from Apple TV (formerly iTunes), it will only play on Apple Devices, or devices that are compatible with the DRM scheme that they use. This rules out my laptop, which is my primary method of viewing content. It also limits me in terms of the types of set-top boxes I can connect directly to my TV. The same goes for other providers as well, such as Google/YouTube (they artificially limit the resolution to 720p for TV shows and 480p for movies), or Amazon (movies are limited to 480p there as well).&lt;/p&gt;
+
+&lt;p&gt;Some people enjoy the experience of physical media. They like organizing it and displaying it on shelves, they like looking through their collection to decide what to watch, and they like the act of physically loading a player with a copy of something. For those people, this sadness is perfectly placed. A purely digital experience, where everything is delivered electronically over the internet, will never replicate that experience.&lt;/p&gt;
+
+&lt;p&gt;But for me at least, it isn’t the physical copy that I’m wanting, it’s the accessibility and freedom that a physical copy affords. It’s being able to watch the video on my laptop, or my phone, or a homemade media center (such as LibreELEC). It’s being able to lend a copy to a family member, and being able to put it into a video editor so I can make short clips, or turn them into GIFs.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, I don’t really need or want a disc; I just want a file. A file that is not encumbered with DRM. A file that I can copy and backup, and generally exercise a modicum of control over. There have been plenty of instances of movie studios going back in and editing releases, and only making the modified versions available. Right now, physical copies are the best way to preserve original versions, but as long as you are able to store and preserve a digital file containing the original versions, there’s no reason why those can’t persist. In just about every scenario, the benefits of owning a physical copy don’t come down to the physicality of the item, but instead what you are able to practically do with it.&lt;/p&gt;
+
+&lt;p&gt;That’s not to say there aren’t benefits to a physical copy, beyond what you get out of just having a file. Being able to sell your unwanted media or purchase used media at a discounted rate is the biggest one I can think of. There are also cases to be made about exclusive bonus features that are only released on physical disc (although there’s no reason why this sort of content can’t be distributed digitally). But there are downsides, too. Physical discs take up a lot of storage space in your home. They are also prone to being lost or damaged, and even suffer from natural degradation over time.&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, if I had my druthers, I’d keep physical media around forever. I must admit, though, that once physical media is gone, I won’t be sad. In most cases, the internet is a much better distribution method. File storage is cheap and getting cheaper. SSDs are getting bigger and bigger (so are hard disks, but I’ve had too many awful experiences with them to trust them any more).&lt;/p&gt;
+
+&lt;p&gt;Times change, technology improves, and people vote with their dollars. There is a clear and obvious preference for digital downloads and streaming, whether we like it or not.&lt;/p&gt;
+
+&lt;p&gt;I don’t think it’s the right fight for us to try and keep physical copies around forever. The right fight, the better fight, is against restrictive DRM.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Feb 2024 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Cutting it Off and Feeling Nothing</title>
+        <link>http://localhost:4000/2024/02/19/feeling-nothing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/19/feeling-nothing.html</guid>
+        <description>&lt;p&gt;There’s a line from the movie 500 Days of Summer that often plays in my head. The clip is here:&lt;/p&gt;
+
+&lt;video muted=&quot;&quot; controls=&quot;&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;
+    &lt;source src=&quot;http://localhost:4000/img/hair.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;but for those not wanting to watch a 20 second video, it involves a narrator telling us a little bit about the personality of a woman named Summer, in which he describes:&lt;/p&gt;
+
+&lt;p&gt;“Since the disintegration of her parents marriage, she’d only loved two things: the first was her long, dark hair; and the second was how easily she could cut it off and feel nothing.”&lt;/p&gt;
+
+&lt;p&gt;As a child, I was incredibly sentimental. Any time I was given a gift by someone, or any time I felt that something I owned was of unique importance, it was nearly impossible for me to get rid of it. It felt like a betrayal of trust, or a denial of love.&lt;/p&gt;
+
+&lt;p&gt;This is something I’ve decidedly grown out of since then. Now, I find that with only the rarest of exceptions, I can mercilessly whittle down my personal collection of things without any hesitation.&lt;/p&gt;
+
+&lt;p&gt;Within recent memory, I moved homes three time within a single year. Each time, fewer things made the trip. After the third move, it became an obsession of mine to remove as much as possible.&lt;/p&gt;
+
+&lt;p&gt;Then, this past year, that drive kicked in harder and more forcefully than ever before. Starting home dialysis meant that I was suddenly inundated with hundreds of boxes of things that I needed to survive. I suppose the drive to remove all other non-essentials was a result of all that being foisted upon me. Don’t get me wrong, I’m not trying to get rid of everything I own, and there are still some things that mean a great deal to me. But by and large, I have trimmed all of my excess possessions, and am enjoying a leaner lifestyle with the handful of things I choose to keep.&lt;/p&gt;
+
+&lt;p&gt;All of this is to say, I’ve been a minimalist for a while, and that feeling has only grown over the past half decade. Much like Summer, I’m proud of how much I can cut things out, and feel nothing.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2024 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Kidney Transplant</title>
+        <link>http://localhost:4000/2024/02/15/kidney-transplant.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/02/15/kidney-transplant.html</guid>
+        <description>&lt;p&gt;Having spent lo these many years being an unabashed proponent of the “right to repair”, I’ve decided the time has come to put my money where my mouth is and apply those principles for myself in the most literal sense by swapping out a major organ. Thankfully, the part is standardized, and the repair guide is widely available for professionals in the field. Although I’m a big believer in getting your hands dirty and not being afraid to attempt a repair on your own, I think it best to leave this one to the experts. Unfortunately, the supply chain isn’t ideal, so acquiring replacement parts is a challenge. Thankfully, an incredibly kind soul has come forward to offer me a compatible part, at no charge.&lt;/p&gt;
+
+&lt;p&gt;In all seriousness, I’m relieved, excited, nervous, and most of all, grateful, to say that I’ll be receiving a kidney transplant in just a couple weeks time. Out of respect to the donor’s privacy I won’t mention who is donating or their connection to me (just in case they want to remain anonymous), but this is such a selfless and enormous gift that I sometimes get choked up just thinking about it. I will never be able to thank them enough.&lt;/p&gt;
+
+&lt;p&gt;The surgery I’ll be having will be done using a relatively new technique, involving robotics. I’ll be just one of a half dozen or so patients to have received this specific procedure. Once I’m out of surgery I’ll stay in the hospital for several days, will remain near the hospital for an additional week, and then will return home for another couple months of recovery (with frequent follow-up trips to make sure things keep working as expected).&lt;/p&gt;
+
+&lt;p&gt;At that point, a new chapter of my life will begin. There will be lots of lifestyle changes as a result, but many of them for the better. I’m excited to have more energy, more personal time, and more freedom to travel, spend time with friends and family, and be more involved in projects that matter to me.&lt;/p&gt;
+
+&lt;p&gt;I’ve made it 29 years on these two kidneys, but they’ve done all they came here to do. I’ll be turning 30 with a new kidney, a new perspective, and in many ways, a fresh start.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Feb 2024 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>The Party</title>
+        <link>http://localhost:4000/2023/08/21/the-party.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/21/the-party.html</guid>
+        <description>&lt;p&gt;Last week, my eGFR number dropped to 13, placing me firmly in the “Stage 5 Kidney Disease” camp. I’m now essentially waiting for kidney failure, while trying to figure out what’s next for me in terms of treatment options (I suspect dialysis in the near future).&lt;/p&gt;
+
+&lt;p&gt;I don’t mean to be morbid or dramatic, but I haven’t been able to stop thinking about this for the past week. Even though I’m going to be fine, I can’t stop thinking about the fact that I’m dying. Without medical intervention, I will be dead in just a short while. It’s &lt;em&gt;weird&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I once heard a quote, which to me perfectly encapsulates everything I’m feeling and thinking. Christopher Hitchens once remarked, “it will happen to all of us, that at some point you get tapped on the shoulder and told, not just that the party’s over, but slightly worse: the party’s going on — but you have to leave. And it’s going on without you.”&lt;/p&gt;
+
+&lt;p&gt;That’s the hardest thought, to me at least. There’s so much more that I want to do in my life. So much more I want to see, to experience, to be a part of, to help shape. The party is going on; and although I know I’ll never see the end of it, I want to catch as much of it as possible. I’m just not ready to leave.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Aug 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Zen and the Art of Actual Maintenance</title>
+        <link>http://localhost:4000/2023/06/25/zen-and-the-art-of-actual-maintenance.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/06/25/zen-and-the-art-of-actual-maintenance.html</guid>
+        <description>&lt;p&gt;A couple weeks ago, I finally crossed a task off my to-do list that goes back half a decade and more failed attempts than I can count on one hand: I finally finished reading all of &lt;em&gt;Zen and the Art of Motorcycle Maintenance.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Zen&lt;/em&gt; is, without a doubt, the most frustrating book I’ve ever read. It’s frustrating because the first couple chapters feel as if the book was written specifically for me. Every word that is written connects with me on some level. I love the travel story, the father and son tale, the technical aspects that are specific to wrenching on a motorcycle, and the deeper ruminations of what it means to maintain something and the role that technology plays in our lives.&lt;/p&gt;
+
+&lt;p&gt;Throughout the multiple attempts at reading this book, I’ve flagged or highlighted the following sentences (which you’ll note, with just one exception, are all within the first 50 pages of the book):&lt;/p&gt;
+
+&lt;p&gt;“You see things vacationing  on a motorcycle in a way that is completely different from any other. In a car you’re always in a compartment, and because you’re used to it you don’t realize that through the car window everything you see is just more TV.” (pg 12)&lt;/p&gt;
+
+&lt;p&gt;“Plans are deliberately indefinite, more to travel than to arrive anywhere.” (pg 12)&lt;/p&gt;
+
+&lt;p&gt;“It seems natural and normal to me to make use of the small tool kits and instruction booklets supplied with each machine, and keep it tuned and adjusted myself. “ (pg 18)&lt;/p&gt;
+
+&lt;p&gt;“When you want to hurry something, that means you no longer care about about it and want to get on to other things.” (pg 35)&lt;/p&gt;
+
+&lt;p&gt;“That is impractical, but practicality isn’t the whole thing with gloves or with anything else.” (pg 49)&lt;/p&gt;
+
+&lt;p&gt;“Each machine has its own unique personality which probably could be defined as the intuitive sum total of everything you know and feel about it.” (pg 50)&lt;/p&gt;
+
+&lt;p&gt;“Sometimes it’s a little better to travel than to arrive.” (pg 119)&lt;/p&gt;
+
+&lt;p&gt;These, I believe, illustrative the kind of book I wanted to read. One with little quips about the nature of keeping things running, of taking care of equipment, of being a custodian. And along the way, collecting pearls of wisdom about seeing the world, living deliberately, and taking the slow path.&lt;/p&gt;
+
+&lt;p&gt;In the real world, I am kind of obsessed with maintenance. I experience the zen of maintenance nearly every day. Nothing brings me more pleasure than fixing something that’s broken, or performing little tasks to make things work better or last longer. I am proud of the things I own and the things I have made, and show that appreciation by tending to their care. I had hoped to find a kindred spirit here with the author. And it started out so strong!&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, at this point in the book, the author manages to crawl up his own ass so far that the text becomes unreadable. It’s a miserable, tedious slog in which the author spends his time talking about how brilliant he is (or at least, an older version of himself before he drove himself to a mental breakdown) for coming up with a grand theory of “quality”, and how everything relates to quality. He tells of how he taught this in school, tirelessly recounts arguments and discussions he’s had about it with former students, and beats you over the head with it without actually saying anything substantive.&lt;/p&gt;
+
+&lt;p&gt;Every sentence he writes is trying to make you think he’s a genius. Nobody will ever be as impressed at his intelligence as much as he is. Each sentence, each chapter, grows more frustrating to read. In between these rambling bursts, you get treated to anecdotes of him being a really grumpy, awful father.&lt;/p&gt;
+
+&lt;p&gt;Then, out of nowhere, Chapter 26 happens. And what a lovely, glorious chapter it is. Here, the author takes a break from talking about quality and focuses on a new word: gumption. Only this time, I think he really does have some interesting things to say about gumption. What it is. Why it’s necessary. Ways to increase it. Things that can cause it to dwindle. Real, practical advice, and often wrapped around various maintenance-related concepts.&lt;/p&gt;
+
+&lt;p&gt;Chapter 26 is frustrating because it’s so good. This is the book I wanted to read! I wanted all 400 pages to be like this! I know this type of content is available, and within the author’s capabilities, and now more than ever I’m convinced the author is deliberating trying to torture me. What a tease!&lt;/p&gt;
+
+&lt;p&gt;As quickly as Chapter 26 arrives, it’s gone. Back to talking about quality. Back to trying to sound smarter than everyone else in the room. Back to referencing the greeks and debating himself over various schools of thought. It’s so tiring.&lt;/p&gt;
+
+&lt;p&gt;In the end, I’m glad I finally finished it. Some might argue it was a waste of time, or that it’s best not to force yourself to continue reading something if you’re not enjoying it. I do generally agree with that; life’s short. But for me, this was a personal struggle that had bested me for the better part of a decade. If nothing else, I proved something about myself. I’m a little older, a little wiser, and more determined than ever.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 30 Apr 2019 00:00:00 -0400</pubDate>
+        <pubDate>Sun, 25 Jun 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Linkbuds Review</title>
+        <link>http://localhost:4000/2023/06/24/linkbuds.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/06/24/linkbuds.html</guid>
+        <description>&lt;p&gt;I’ve been dealing with severe dizziness and nausea episodes for the past few months. Although not a constant issue (most days, anyway), when one of the dizziness spells happens it’s completely debilitating for at least a few hours. I’m still in the process of determining why these issues are happening (I’ve had MRIs, angiograms, and echocardiagrams, and so far everything is checking out okay - waiting for an ENT appointment next month), but in the interim, I’m trying to do all I can to prevent the episodes from happening, and trying to reduce the severity when they do.&lt;/p&gt;
+
+&lt;p&gt;It seems to be related to issues with my ears. For several weeks, I had a significant ear infection that took a while to resolve. They gave me antibiotics, and I’m already on steroids for my kidney disease, but on first glance they didn’t seem to correct the issue. Even after the antibiotics, the infection remained. Thankfully, that at least has cleared up in recent days. I suspect that it cleared up not only as a result of those medications, but also due to some lifestyle changes as well.&lt;/p&gt;
+
+&lt;p&gt;To try and get ahead of the issue, I decided to stop wearing headphones and earbuds as much as possible. Between the pressure inside my ears, and the hot and sweaty feeling of my ears not being able to vent to the outside air while wearing them, I came to the conclusion that the earbud use was negatively affecting my ears and, by extension, my dizziness.&lt;/p&gt;
+
+&lt;p&gt;With the decrease in usage, I’ve noticed a significant improvement not only in terms of the number of episodes I experience, but generally in just how my ears and sinuses feel. My ears feel so much better! The problem is, I really, really missed being able to listen to audio privately. I have a few Bluetooth speakers around my home and office, but I don’t like to disturb my partner or others at my coworking space, so I find that I am only able to use them occasionally.&lt;/p&gt;
+
+&lt;p&gt;Determined to find another solution, I began to search the web for options. The most prevalent option I saw that might avoid the issues cause by headphones and earbuds were bone-conducting headphones. These are headphones that physically make contact with the side of your head, and channel the sound through the bones in your skull (staying outside of your ear canal). I’ve tried them in the past, but never liked them. They never got loud enough for me, and they always made my teeth feel like I was chewing on aluminum foil.&lt;/p&gt;
+
+&lt;p&gt;But then I remembered a design for a set of earbuds I had seen a while ago. This is where the Sony Linkbuds come in. Sony Linkbuds are unique and somewhat strange. They are earbuds, but they don’t fit inside your ear canal. They rest right at the entrance, forming a small ring (almost like a donut) around the ear canal but never going in. They’re also, oddly enough, completely open in the middle. It’s strange to think of an “open back” earbud, but that’s what they are.&lt;/p&gt;
+
+&lt;p&gt;Depending on your point of view, the downside of this is that you don’t get any noise cancellation or sound isolation. The sounds in your environment are still noticeable with them in.&lt;/p&gt;
+
+&lt;p&gt;But, it can also be a plus. Rather than the “transparency modes” of most noise canceling headphones, which essentially “pipe in” the sounds from outside, you’re getting the sounds directly and authentically.&lt;/p&gt;
+
+&lt;p&gt;And, most important of all, there is no feeling of pressure like with the other earbuds. There’s nothing in your canal, and nothing plugging anything up. You get sound, you get airflow, and your ears can breathe.&lt;/p&gt;
+
+&lt;p&gt;They are incredibly comfortable to wear. I could do with them being one notch louder, but they get plenty loud enough. And the sound is pretty good. They’re not as good in the sound department as noise-canceling earbuds, but you can’t expect them to be. And the health and lifestyle benefits you get in return are well worth that trade-off.&lt;/p&gt;
+
+&lt;p&gt;So if you, like me, find yourself having issues with normal earbuds and headphones, it may be worth giving the Linkbuds a try. I’m absolutely loving mine, and am overjoyed to be able to go about my day listening to music and podcasts again.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Jun 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Nalgene Bottles</title>
+        <link>http://localhost:4000/2023/06/11/nalgene.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/06/11/nalgene.html</guid>
+        <description>&lt;p&gt;I have a couple really nice water bottles: stainless steel, dual-walled with a vacuum to act as an insulator, and thick screw-on caps to keep leaks contained and prevent evaporation.&lt;/p&gt;
+
+&lt;p&gt;They’re fine.&lt;/p&gt;
+
+&lt;p&gt;But they don’t hold a candle to my Nalgene.&lt;/p&gt;
+
+&lt;p&gt;I love my Nalgene water bottle for reasons that I’ve had a hard time pinpointing. Some of them are based on concrete facts. Others, I think, purely come down to personal preference and opinion. The truth is that, for whatever reason (I have speculations), when I drink out of a Nalgene, I drink more water throughout the day.&lt;/p&gt;
+
+&lt;p&gt;After stewing on it for a bit, I think I’ve figured out most of the reasons why I find the Nalgene to be the supreme portable water vessel:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It’s easy to keep track of the amount of water you’re drinking. The material is transparent and has markings on the outside to show how much water is left in the bottle. And, best of all, it shows not only U.S. imperial measurements but metric as well.&lt;/li&gt;
+  &lt;li&gt;The wide mouth makes it easier to fill, easier to drink out of, and more easily accommodates ice for times when you want it as cold as possible.&lt;/li&gt;
+  &lt;li&gt;They’re dishwasher safe and can just be chucked into the top rack at the end of the day.&lt;/li&gt;
+  &lt;li&gt;They are inexpensive and understated.&lt;/li&gt;
+  &lt;li&gt;It’s almost impossible to lose the cap, because it’s attached with a strap. If you do, you can always get a replacement strap (&lt;a href=&quot;%5B%3Chttps://www.printables.com/model/263684-nalgene-bottle-strap%3E%5D(%3Chttps://www.printables.com/model/263684-nalgene-bottle-strap%3E)&quot;&gt;or 3D print your own&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;They are ludicrously durable. They are almost impossible to kill. You can drop them from great heights, or onto traditionally unforgiving ground (looking at you, concrete), yet they almost always bounce off. And, over time, the scuffs and scratches just give it a charming patina.&lt;/li&gt;
+  &lt;li&gt;There’s a community of people who make cool stuff for Nalgenes. Because the sizes are consistent (I hesitate to call them “standardized”), it’s easy to find accessories or even 3D print them. My favorites include adapters for car cup holders so they can fit the wider bottles, as well as bicycle water cages.&lt;/li&gt;
+  &lt;li&gt;In that vein, they’re great for customization purposes! They come in a wide variety of colors (including bottles, straps, and lids), so it’s easy to find something that suits your preferences and tells the world a little about you. You can also cover them in stickers (just don’t run it through the dishwasher if you do).&lt;/li&gt;
+  &lt;li&gt;This isn’t something I personally have used, but I know they’re loved for being very versatile. The measurements on the side make them suitable for use in measuring and storing a plethora of ingredients. And, because they’re BPA free and have a melting point above the boiling point of water, it’s safe to store hot water in them if needed.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So here’s to you, Nalgene bottle! Thanks for keeping me hydrated.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jun 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>On The Turning Away</title>
+        <link>http://localhost:4000/2023/06/05/on-the-turning-away.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/06/05/on-the-turning-away.html</guid>
+        <description>&lt;p&gt;For the past couple years, my enjoyment of social media as a concept has really waned.&lt;/p&gt;
+
+&lt;p&gt;When I first joined Twitter a decade and a half ago, I fell in love with it immediately. The vibe in those early days was incredible. There was boundless positivity, incredible potential, and real connections with other human beings (even if it was just to know what someone was eating for lunch on a given day). People spoke about the amazing things they were working on, or the things they had made, or neat things they purchased, or the news items of the day.&lt;/p&gt;
+
+&lt;p&gt;I used to wake up excited to read through my Twitter feed, catching every single Tweet from the overnight timeline, and then keeping a little window with tweets streaming in the background all day long so I wouldn’t miss anything.&lt;/p&gt;
+
+&lt;p&gt;Slowly, as time moved forward, the joy began to diminish. People spent less time posting about interesting and useful things, and spent more time arguing with one another. Good faith discussions turned into bitter disagreements. It felt like everyone was upset all the time, and the only news that surfaced was either negative or misleading.&lt;/p&gt;
+
+&lt;p&gt;Several years ago I joined Mastodon, after also having joined other social networks including Google+ and Indenti.ca. For a while, things on Mastodon moved slowly. There weren’t a lot of folks. But for those who were there, it felt like the old days again. Everyone was friendly. The vibes were good. I began to enjoy social media again.&lt;/p&gt;
+
+&lt;p&gt;Last year, Elon Musk took over Twitter. I decided to delete my account soon after. Most of the folks I followed on Twitter made it over to a Mastodon instance. Some, unfortunately, did not.&lt;/p&gt;
+
+&lt;p&gt;For a while, it was amazing having everyone back on this new service, and interacting in positive ways. But now, I feel again that I’m just sitting back and staring into a bad news machine. It’s almost nothing but negativity and infighting. Or, posts about the bleak state of the world; folks’ rights being taken away, crimes being committed, social systems failing, and business and corporations destroying the planet while making the lives of everyday people worse, just to pad their bottom lines.&lt;/p&gt;
+
+&lt;p&gt;I just feel like I’m enjoying social media less and less. I can envision a future where I don’t have any social apps installed, and I don’t generally interact with folks outside of my work / email. But that also feels bad.&lt;/p&gt;
+
+&lt;p&gt;I once saw a Jon Stewart clip where he was talking about people deciding not to have children because of environmental concerns. Everyone’s decision to have or not have children is their own, and environmental worries are as valid a reason as any not to have them, but he said something that has nevertheless stuck with me: “if you don’t have kids, who are you saving the world &lt;em&gt;for?&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;I think about that in the context of work that I do: the code that I write, the contributions I make, the donations I send, and the causes that I fight for. I want to be reminded of the people that will benefit from these actions and these choices. I want to be reminded of why I even bother getting out of bed in the morning. I don’t want to live isolated, thinking only of myself, excluding everybody else.&lt;/p&gt;
+
+&lt;p&gt;So I don’t think completely leaving social media is the right answer for me. I think, it many ways, it’s an avoidance of the problem, or may even exacerbate it.&lt;/p&gt;
+
+&lt;p&gt;But at the same time, I do not find myself enjoying the current forms of social media, nor what it’s doing for my mental health. Maybe I need to find new folks to follow? Or maybe I need to prune my own following list? But choosing to avoid difficult or challening subjects can sometimes be an expression of privilege, and I don’t want to completely ignore the struggles of others. I want to be a friend and ally for folks.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure what the answers are. There probably aren’t any right answers, just “less bad” ones. I only mention this here to note how I’m feeling, and perhaps to help someone else know they’re not alone if they’re feeling this way too.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Induction Hobs</title>
+        <link>http://localhost:4000/2023/05/28/induction-hobs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/05/28/induction-hobs.html</guid>
+        <description>&lt;p&gt;I used an &lt;a href=&quot;https://en.wikipedia.org/wiki/Induction_cooking&quot;&gt;induction hob&lt;/a&gt; for the first time today, and it was an unexpectedly enchanting experience.&lt;/p&gt;
+
+&lt;p&gt;I have been aware of the idea of cooking with induction for a while. In the debate about cooking with natural gas versus electricity, induction inevitably gets presented as the clear winner. “Yeah, the old electric stoves sucked, but induction is great!” I’ve heard.&lt;/p&gt;
+
+&lt;p&gt;I never quite understood the hype, because I quite literally &lt;em&gt;didn’t understand&lt;/em&gt; what an induction hob is.&lt;/p&gt;
+
+&lt;p&gt;Until now, I had mistakenly thought that I’ve been using induction stoves for most of my recent life. As far as I could tell, any kitchen range that did not include the circular coils on top were using induction. I mean, what else could they be?&lt;/p&gt;
+
+&lt;p&gt;Ceramic glass, it turns out. Those ranges I’ve been using and incorrectly thinking were induction were simply ceramic glass. The heating coils (or lamps, depending on the model) are located underneath the glass surface, and the heat is transferred straight up. They’re easier to clean than the old coil stove eyes, and marginally safer, but they are very much &lt;em&gt;not&lt;/em&gt; induction.&lt;/p&gt;
+
+&lt;p&gt;I’m staying at an AirBNB with an induction hob, and immediately after powering it on the user experience was unfamiliar to me. I swithced it on, but aside from a fan, it just starred at me with a blinking seven-segment display. I pressed the button to crank up the power, but it stubbornly refused to do anything.&lt;/p&gt;
+
+&lt;p&gt;I put my pan on the stove and tried again: E01, it grouchily answered. &lt;em&gt;An error!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Rather than using my own pan, I reached into the cabinet and grabbed a heavier stainless steel frying pan, and sat it on the eye. Immediately, it danced to life. I turned the power up, and it responded quickly.&lt;/p&gt;
+
+&lt;p&gt;Instantaneously, the pan grew hot to the touch. The oil was warm. The food started cooking. It was so pleasant, and efficient, and it cooked evenly in a way that previously I had only experienced with propane.&lt;/p&gt;
+
+&lt;p&gt;Later, I heated up a can of soup with it. Tonight, I’m trying spaghetti.&lt;/p&gt;
+
+&lt;p&gt;I’ve only used it a few times now, but each time I am astounded at how quickly it heats up, how evenly it cooks, and how great the user experience is (once you use a compatible pan). I have a feeling this is going to be become one of those things I swear by!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 May 2023 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>The Beetle</title>
+        <link>http://localhost:4000/2022/12/28/the-beetle.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/12/28/the-beetle.html</guid>
+        <description>&lt;p&gt;When I tell people I want to purchase an old Volkswagen Beetle I typically get a response somewhere on the spectrum between “why the hell would you want one of those old pieces of junk?” to “what are you, nuts?!”&lt;/p&gt;
+
+&lt;p&gt;And I’ll grant you that in the intervening years —  er, decades — er, half-centuries — since they first were introduced to the world, technology has advanced and there are certain modern conveniences and safety features which are generally considered to be “good” that simply aren’t available on these older Beetles.&lt;/p&gt;
+
+&lt;p&gt;But what many people fail to appreciate is how beautifully engineered almost every facet of the classic Beetles was, in relation to both competition back in the day, and when comparing to modern cars.&lt;/p&gt;
+
+&lt;p&gt;I’m a big believer in walkable cities, better biking infrastructure, and eliminating as many cars from the road as possible, so I know it’s a bit of a contradiction to be wanting a vehicle like this. But then again, I find myself holding opposing thoughts in my mind all the time, so we can add one more onto the heap.&lt;/p&gt;
+
+&lt;p&gt;Allow me to share a few examples of the ways in which the Beetle was a triumph (and then, in the following paragraphs, walk it back and share a few ways in which it was not):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Great fuel economy, particularly for its time (&lt;a href=&quot;https://www.youtube.com/watch?v=iMysDLf2l74&quot;&gt;”An Honest 25 mpg”&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Interchangeable parts from one model year to the next&lt;/li&gt;
+  &lt;li&gt;Easy to repair&lt;/li&gt;
+  &lt;li&gt;Parts easily accessible&lt;/li&gt;
+  &lt;li&gt;Highly customizable&lt;/li&gt;
+  &lt;li&gt;Lovely touches and ingenious designs (like the windshield washer fluid being pressurized by the spare tire, which I’ll discuss more below)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s not to say that every design decision is a good one. One wacky thing is that the windshield wiper fluid reservoir does not rely on any kind of electrical pump; instead, the fluid is held in a tank that is pressurized by the spare tire in the frunk, and tugging on the lever opens a valve and allows the pressurized fluid to squirt up on the windshield.&lt;/p&gt;
+
+&lt;p&gt;The problem with this is, of course, that each time you use the wiper fluid it lets out a small amount of air from the tire, and over a relatively short period of time your spare tire will go flat. The corollary issue is that if your spare tire is flat, your fluid won’t squirt, so if your windshield gets obstructed you’re basically out of luck until you stop and refill your spare’s air (granted, you really shouldn’t be driving with a flat spare anyway).&lt;/p&gt;
+
+&lt;p&gt;And then that brings you to the other little modern touches that you might find missing, such as an air conditioner, or power windows, or power &lt;em&gt;anything&lt;/em&gt; really. And the fact that the only heater is a hose coming from the engine bay, which when opened all the way can melt your sneakers (but still not quite keep the rest of your body toasty on a cold day).&lt;/p&gt;
+
+&lt;p&gt;But who cares about air conditioning, when you have a car with such character, that makes such a neat little sound as it putters along. And did I mention the frunk?&lt;/p&gt;
+
+&lt;p&gt;In a perfect world in which I have tons of expendable income, I would absolutely buy an old beat-up Beetle, fix it up, and then add some classy, modern touches. A popular modification is to turn old Beetles into electric cars, but where I live, I’m not sure that’s quite feasible yet. I’d be happy to instead make an “open source” car, where sensors keep track of everything in computers that are all running open source code, and all the modern gadgets like music playback, GPS guidance, etc., are all open source.&lt;/p&gt;
+
+&lt;p&gt;The open source Beetle. A man can dream!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Dec 2022 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Gizmos and the Data They Generate</title>
+        <link>http://localhost:4000/2022/12/27/gizmos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/12/27/gizmos.html</guid>
+        <description>&lt;p&gt;As a fairly privacy-conscious person, some people might be surprised to hear how much I like recording data about myself. I have a few serious medical issues, so keeping on top of stats about my body and overall well-being is a great thing. Of course, I’m also a geek at heart and love data that can tell a story or paint a picture.&lt;/p&gt;
+
+&lt;p&gt;There are a wide variety of devices with sensors on board to record copious amounts of data about what is happening inside and around my body, and software to make sense of the data. That’s all fine and good. The problem I have is with the next step that many of the devices take, which is to sync that data with a cloud service, and then sell that data to third-parties.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that as wearables and digital medical devices continue to proliferate, we need to only support and use ones that meet the following criteria:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You should always have the ability to pause data recording (“incognito mode”). There are times when you really don’t want your gizmo recording your activity or generating any new data, and triggering that should be one or two taps away, max.&lt;/li&gt;
+  &lt;li&gt;The data it captures should be available in a standard format, that you can easily export. Data that only exists inside of a proprietary app with no way of pulling it into another application of your choice is designed to lock you into an ecosystem, and make your data something the company can sell for profit. Interoperability is absolutely critical.&lt;/li&gt;
+  &lt;li&gt;Data should be stored on-device, and only synchronized to severs when you give express permission. And that behavior should be auditable, so you can make sure that the vendors are staying honest about it (which is part of why I also think those devices should be running open source code).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As long as devices follow those rules, then I’m happy to wear them on my body, and the data they provide is invaluable.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Dec 2022 00:00:00 -0500</pubDate>
       </item>
     
   </channel>
