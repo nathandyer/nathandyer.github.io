@@ -5,7 +5,65 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 01 Oct 2024 21:05:48 -0400</pubDate>
+    <pubDate>Fri, 04 Oct 2024 09:19:56 -0400</pubDate>
+    
+      <item>
+        <title>Rallying Behind an Undeserving Browser Will Not Save the Open Web</title>
+        <link>http://localhost:4000/2024/10/04/firefox.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/04/firefox.html</guid>
+        <description>&lt;p&gt;Rallying behind an undeserving browser will not save the open web. If Mozilla is our last hope, we are already doomed.&lt;/p&gt;
+
+&lt;p&gt;I’ve been a Mozilla/Firefox user since I was around five years old, even before I knew what a “web browser”. It was the browser whose icon was saved to the desktop of the Gateway 2000 (running Windows 98 SE) I had access to as a child. Since then, I’ve more or less used it as my daily driver.&lt;/p&gt;
+
+&lt;p&gt;I don’t want it to come across that I hate Mozilla. I mean, I do, but I haven’t always. As a teenager I donated to them regularly. I even printed out the little PDF they gave you that said “I’m a Mozilla supporter!”&lt;/p&gt;
+
+&lt;p&gt;But today’s Mozilla is not the Mozilla that it was twenty years ago. Or maybe it is, and I’m more just more tuned in now, or their actions are more egregious. Either way, they are not going to be the ones to save the open web. Using Firefox is not an act of defiance or a method for maintaining rending engine diversity.&lt;/p&gt;
+
+&lt;p&gt;I could spend time listing out Mozilla’s many sins. I could explain to you how they are a hype-driven advertisement company, who would sell out their users for a free Whopper at Burger King. I could bring up the dozens of instances of selling out their users’ privacy to make a quick buck, even while touting privacy as one of their defining values. I could mention the fact that they are a for-profit company pretending to be a nonprofit, or that they have squandered away half a billion dollars yearly with nothing to show for it exact a CEO making a multi-million dollar salary while Firefox withers on the vine.&lt;/p&gt;
+
+&lt;p&gt;But I won’t do that. You already know what they’ve done. You might not know every slight or offense, but you know enough to make a determination about them.&lt;/p&gt;
+
+&lt;p&gt;This organization is not worth your time.&lt;/p&gt;
+
+&lt;p&gt;The inevitable question that then arises, of course, is “which browser should we use?” Chrome is proprietary, and has eaten most of the browser market. Brave is run by a homophobic, right-wing jackass, not to mention how it pushes a cryptocurrency scam on users every chance it gets. Besides, it’s more or less re-skinned Chrome, as are most other browsers you are thinking of: Microsoft Edge, Vivaldi, take your pick. I know some folks will be screaming “just use a Firefox fork, like Waterfox!” I hate to break it to you all, but those forks mostly &lt;em&gt;remove&lt;/em&gt; features, they don’t add or maintain. If Firefox disappears tomorrow, they’ll disappear the day after.&lt;/p&gt;
+
+&lt;p&gt;So what’s the solution? You’re not thinking big enough: the way we get browser diversity and “save the open web” is to actually diversify browsers! You don’t need one browser that runs on every device you use. It’s wild that folks want to use the same browser on Linux that they do on macOS, Windows, iOS, Android, and everywhere else you can imagine.&lt;/p&gt;
+
+&lt;p&gt;What you want is an open source rendering engine (ideally, several of them), and then platform-specific browsers that take advantage of the technologies of each system and lay those on top of a solid foundation.&lt;/p&gt;
+
+&lt;p&gt;The best browsing experience on GNOME is GNOME Web (occasional stability issues notwithstanding). The best browsing experience on macOS is Safari. Both of those use Webkit under the hood, but build their interfaces using platform-specific technologies like GTK and Adwaita to provide exceptional experiences (if you haven’t used GNOME Web in a while, try it — the trackpad support is incredible, the tab overviews and bookmarks are brilliant, it’s a great experience). I can imagine a future where there is a browser just for Windows, and one just for Android. Maybe they’ll use Webkit. Maybe Servo, once it’s ready. Or maybe another rendering engine will hit the scene that we’ve not even thought of!&lt;/p&gt;
+
+&lt;p&gt;I don’t think the open web is saved by a single browser or company. If it is, we are hopeless. I do believe we can get to a point with more browser diversity, more choices for rendering engines, and a healthier ecosystem overall. &lt;em&gt;That’s&lt;/em&gt; (an aspect of) how you save the open web.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Oct 2024 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Jaded About Books</title>
+        <link>http://localhost:4000/2024/10/02/books.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/02/books.html</guid>
+        <description>&lt;p&gt;Books can be amazing. A spectacular one can be life-changing. It remains the best option we have to getting into someone else’s head and letting their thoughts fill our minds for a while. And thanks to technologies such as e-readers and smart phones, people can now take their entire library with them everywhere they go. I’m certainly not knocking the medium.&lt;/p&gt;
+
+&lt;p&gt;But I have to admit that in recent months and years, I’ve become cynical and jaded about books.&lt;/p&gt;
+
+&lt;p&gt;I think it started because of J.D. Vance. Years ago, all the buzz was about this “incredible” new book called &lt;em&gt;Hillbilly Elegy&lt;/em&gt;. It was being discussed on all the podcasts, and everyone who was everyone was reading it. As someone who actually grew up lower-class-ish in a poor area in the Appalachian mountains, I assumed it would resonate with me.&lt;/p&gt;
+
+&lt;p&gt;I bought a hardcover copy, started reading it, and my god it was horrible. I could not get through the first few chapters. Nothing there resonated with me, and I found that I was having a hard time slogging through it. It wasn’t long until I abandoned the book.&lt;/p&gt;
+
+&lt;p&gt;I honestly felt some measure of guilt over it. Was I broken? Am I stupid? Why wasn’t I getting anything out of it the way that other people were?&lt;/p&gt;
+
+&lt;p&gt;What I didn’t realize at the time was that J.D. Vance, the author, was an alt-right douchebag who was working for a venture capital firm in silicon valley, and whose publishing was being artificially propped up by the system.&lt;/p&gt;
+
+&lt;p&gt;Then I stumbled on the essay &lt;a href=&quot;https://www.elysian.press/p/no-one-buys-books&quot;&gt;“No one buys books”&lt;/a&gt;, and a lot of the picture started to crystallize for me. The book market is a business, and in almost all cases, the only authors whose books make it to the public zeitgeist and on the shelves at your local book shops are the ones who can make money for the publishers. If you start out with a large audience, or your name is well-known, you can probably get your book published. Everyone else can kick rocks. Books don’t sell as much as you think, and if you aren’t able to market your book to your existing audience, you aren’t worth the trouble.&lt;/p&gt;
+
+&lt;p&gt;That means that famous YouTubers, TikTokers, and celebrities (or rather, their ghost-writers) can churn out books and make a reasonable profit, but they almost never have anything worthwhile to say. The authors with novel ideas, original writing, and a purpose? You’ll never even know they or their books exist.&lt;/p&gt;
+
+&lt;p&gt;I’m now more forgiving to myself for not constantly having my nose in a book. I used to try to read x number of books a year, and would feel guilt for not achieving the goal. Now, I try to let things happen more naturally. There will be a handful of books that come onto my radar each year, written by someone thoughtful with something interesting to say. New non-fiction books from Cory Doctorow are always must-reads for me. Non-fiction in general, especially from not-well-known authors, are often worth picking up. And &lt;em&gt;Kitchen Confidential&lt;/em&gt; remains a yearly re-read. But the vast majority of what’s on the shelf? The paper would be better served as kindling.&lt;/p&gt;
+
+&lt;p&gt;That’s not to discount &lt;em&gt;reading.&lt;/em&gt; I read all the time, and find it essential and enlightening. I think that blogs are probably the highest form of the written word, despite what snobs will tell you. Real people, living real lives, with thoughtful things to say, written at lengths long enough to cover the subject but short enough to be interesting. It’s the platonic idea of the written word, and there frankly aren’t enough in existence.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Oct 2024 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>(Almost) Living the Dream</title>
@@ -395,65 +453,6 @@
 &lt;p&gt;I’ve only used it a few times now, but each time I am astounded at how quickly it heats up, how evenly it cooks, and how great the user experience is (once you use a compatible pan). I have a feeling this is going to be become one of those things I swear by!&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 May 2023 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>The Beetle</title>
-        <link>http://localhost:4000/2022/12/28/the-beetle.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/28/the-beetle.html</guid>
-        <description>&lt;p&gt;When I tell people I want to purchase an old Volkswagen Beetle I typically get a response somewhere on the spectrum between “why the hell would you want one of those old pieces of junk?” to “what are you, nuts?!”&lt;/p&gt;
-
-&lt;p&gt;And I’ll grant you that in the intervening years —  er, decades — er, half-centuries — since they first were introduced to the world, technology has advanced and there are certain modern conveniences and safety features which are generally considered to be “good” that simply aren’t available on these older Beetles.&lt;/p&gt;
-
-&lt;p&gt;But what many people fail to appreciate is how beautifully engineered almost every facet of the classic Beetles was, in relation to both competition back in the day, and when comparing to modern cars.&lt;/p&gt;
-
-&lt;p&gt;I’m a big believer in walkable cities, better biking infrastructure, and eliminating as many cars from the road as possible, so I know it’s a bit of a contradiction to be wanting a vehicle like this. But then again, I find myself holding opposing thoughts in my mind all the time, so we can add one more onto the heap.&lt;/p&gt;
-
-&lt;p&gt;Allow me to share a few examples of the ways in which the Beetle was a triumph (and then, in the following paragraphs, walk it back and share a few ways in which it was not):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Great fuel economy, particularly for its time (&lt;a href=&quot;https://www.youtube.com/watch?v=iMysDLf2l74&quot;&gt;”An Honest 25 mpg”&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Interchangeable parts from one model year to the next&lt;/li&gt;
-  &lt;li&gt;Easy to repair&lt;/li&gt;
-  &lt;li&gt;Parts easily accessible&lt;/li&gt;
-  &lt;li&gt;Highly customizable&lt;/li&gt;
-  &lt;li&gt;Lovely touches and ingenious designs (like the windshield washer fluid being pressurized by the spare tire, which I’ll discuss more below)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s not to say that every design decision is a good one. One wacky thing is that the windshield wiper fluid reservoir does not rely on any kind of electrical pump; instead, the fluid is held in a tank that is pressurized by the spare tire in the frunk, and tugging on the lever opens a valve and allows the pressurized fluid to squirt up on the windshield.&lt;/p&gt;
-
-&lt;p&gt;The problem with this is, of course, that each time you use the wiper fluid it lets out a small amount of air from the tire, and over a relatively short period of time your spare tire will go flat. The corollary issue is that if your spare tire is flat, your fluid won’t squirt, so if your windshield gets obstructed you’re basically out of luck until you stop and refill your spare’s air (granted, you really shouldn’t be driving with a flat spare anyway).&lt;/p&gt;
-
-&lt;p&gt;And then that brings you to the other little modern touches that you might find missing, such as an air conditioner, or power windows, or power &lt;em&gt;anything&lt;/em&gt; really. And the fact that the only heater is a hose coming from the engine bay, which when opened all the way can melt your sneakers (but still not quite keep the rest of your body toasty on a cold day).&lt;/p&gt;
-
-&lt;p&gt;But who cares about air conditioning, when you have a car with such character, that makes such a neat little sound as it putters along. And did I mention the frunk?&lt;/p&gt;
-
-&lt;p&gt;In a perfect world in which I have tons of expendable income, I would absolutely buy an old beat-up Beetle, fix it up, and then add some classy, modern touches. A popular modification is to turn old Beetles into electric cars, but where I live, I’m not sure that’s quite feasible yet. I’d be happy to instead make an “open source” car, where sensors keep track of everything in computers that are all running open source code, and all the modern gadgets like music playback, GPS guidance, etc., are all open source.&lt;/p&gt;
-
-&lt;p&gt;The open source Beetle. A man can dream!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Dec 2022 00:00:00 -0500</pubDate>
-      </item>
-    
-      <item>
-        <title>Gizmos and the Data They Generate</title>
-        <link>http://localhost:4000/2022/12/27/gizmos.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/27/gizmos.html</guid>
-        <description>&lt;p&gt;As a fairly privacy-conscious person, some people might be surprised to hear how much I like recording data about myself. I have a few serious medical issues, so keeping on top of stats about my body and overall well-being is a great thing. Of course, I’m also a geek at heart and love data that can tell a story or paint a picture.&lt;/p&gt;
-
-&lt;p&gt;There are a wide variety of devices with sensors on board to record copious amounts of data about what is happening inside and around my body, and software to make sense of the data. That’s all fine and good. The problem I have is with the next step that many of the devices take, which is to sync that data with a cloud service, and then sell that data to third-parties.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that as wearables and digital medical devices continue to proliferate, we need to only support and use ones that meet the following criteria:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You should always have the ability to pause data recording (“incognito mode”). There are times when you really don’t want your gizmo recording your activity or generating any new data, and triggering that should be one or two taps away, max.&lt;/li&gt;
-  &lt;li&gt;The data it captures should be available in a standard format, that you can easily export. Data that only exists inside of a proprietary app with no way of pulling it into another application of your choice is designed to lock you into an ecosystem, and make your data something the company can sell for profit. Interoperability is absolutely critical.&lt;/li&gt;
-  &lt;li&gt;Data should be stored on-device, and only synchronized to severs when you give express permission. And that behavior should be auditable, so you can make sure that the vendors are staying honest about it (which is part of why I also think those devices should be running open source code).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As long as devices follow those rules, then I’m happy to wear them on my body, and the data they provide is invaluable.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Dec 2022 00:00:00 -0500</pubDate>
       </item>
     
   </channel>
