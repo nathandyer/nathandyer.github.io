@@ -5,7 +5,51 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 04 Oct 2024 09:19:56 -0400</pubDate>
+    <pubDate>Tue, 08 Oct 2024 08:50:39 -0400</pubDate>
+    
+      <item>
+        <title>Asahi Linux with GNOME As a Daily Driver in Late 2024</title>
+        <link>http://localhost:4000/2024/10/08/asahi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/08/asahi.html</guid>
+        <description>&lt;p&gt;A couple weeks ago I decided to purchase a MacBook Air M2, with the specific purpose of running Asahi Fedora Remix. I chose this particular model because it’s the newest chipset that is supported by Asahi, and Best Buy was having a $200 off sale on them, presumably before Apple announces a new slate of laptops and stops offering the aging M2-based systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/macbook-air-asahi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There were several things I really loved about the system (battery life was astounding, the trackpad was marvelous, and the display was beautiful), but ultimately I made the decision to return it; the experience just wasn’t what I needed for a daily driver.&lt;/p&gt;
+
+&lt;p&gt;In this post I plan to answer the questions I had before purchasing the system, and either couldn’t find, or had to really work to track down the info. To be clear: I do think that it’s usable enough for some people to use as a daily driver; it was just more than I was willing to put up with, especially for the money.&lt;/p&gt;
+
+&lt;p&gt;I won’t really cover things that are mentioned in the Asahi wiki/knowledgebase. Certain hardware features are not yet supported; covering them here would be redundant.&lt;/p&gt;
+
+&lt;p&gt;Another important note: I am a die-hard GNOME user, so my experience was that of someone using GNOME Shell and almost exclusively libadwaita-based apps. I &lt;em&gt;did&lt;/em&gt; install plasma-desktop for the sake of comparison; some things worked better there (mainly fractional scaling), but overall there wasn’t a ton of difference either way.&lt;/p&gt;
+
+&lt;h1 id=&quot;things-that-were-broken&quot;&gt;Things That Were Broken&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Night Light&lt;/strong&gt;: with the display driver that is used by default in Asahi Fedora Remix, Night Light is completely unsupported. I rely on this feature heavily for visual comfort.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video hardware acceleration&lt;/strong&gt; isn’t working yet. I knew this going in, but the prevailing public opinion seemed to be “the software renderer is so fast you’ll never notice it.” Suffice to say, I &lt;em&gt;did&lt;/em&gt; notice it. 1080p video playback was fine, but it struggled to play 4K content smoothly, and playing 4K content while also trying to tonemap HDR to SDR (something that is necessary with HDR not yet being supported by Linux) slowed the machine down to a crawl, while also making it get worryingly hot to the touch.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;High RAM usage&lt;/strong&gt;. On my other daily driver, I often see RAM hovering at around the ~4GB mark. On this system, it was almost always right at the 8GB threshold, with the swap use continually climbing into the several GB range as well. I think this &lt;em&gt;may&lt;/em&gt; be related to using the experimental fractional scaling (necessary for this display), but the performance overall just was not what I had hoped.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DRM playback&lt;/strong&gt; does not work. I almost didn’t catch this because I almost never watch anything that requires DRM, but one day while trying to watch an episode of &lt;em&gt;The Price is Right&lt;/em&gt; on my lunch break, I realized that it was failing to play the video because DRM wasn’t enabled. When I checked Firefox, the option wasn’t there in the usual spot. I installed Chromium for giggles, and likewise, it was not an option. I suspect it’s an issue with aarch64 not being supported by Widevine on Linux, but I haven’t done any further homework than that.&lt;/li&gt;
+  &lt;li&gt;Apps that use &lt;strong&gt;WebkitGTK&lt;/strong&gt; were terribly sluggish. I’m not sure why, but any app that used WebkitGTK (I noticed this most in GNOME Web/Epiphany and Newsflash) were slow and stuttery, especially when the web view was visible.&lt;/li&gt;
+  &lt;li&gt;Random graphical artifacts. This was hard to track down, but I noticed random black boxes, rendering oddities, and in an especially humorous turn, text that would occasional render in “Mocking Spongebob Mode” (yOu kNoW WhEn tEXt lOOkS lIKE thiS). It was most noticeable with libadwaita-based apps, which is almost every app I use.&lt;/li&gt;
+  &lt;li&gt;Setting up &lt;strong&gt;disk encryption&lt;/strong&gt; is a headache that you probably won’t do. I generally rely on encryption for every digital device I use, but was put off by the headache of trying to set up a LUKS-encrypted boot partition for Asahi. It sounds possible if you monkey around with USB-based install solutions and custom partitioning, but life is too short for me to get that figured out.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-does-linux-handle-the-notch&quot;&gt;How Does Linux Handle the Notch?&lt;/h1&gt;
+
+&lt;p&gt;It handles it by pretending it’s not there! It just crops that portion of the display, giving you a perfect 16:10 aspect ratio, with no notch visible. There is a kernel option you can set to &lt;em&gt;enable&lt;/em&gt; the notch, but I recommend against it if you are a GNOME user, as you would lose the clock/notification area (or at the least, would have to install an extension to relocate its position).&lt;/p&gt;
+
+&lt;h1 id=&quot;how-is-the-battery-life&quot;&gt;How Is The Battery Life?&lt;/h1&gt;
+
+&lt;p&gt;Amazing! Depending on how much I babied it, I would almost always get 8 hours, and would often get as much as 12. The battery life on macOS is better, no question, but it’s not so much lower in Linux that you will be tempted back to macOS for the battery life alone (probably).&lt;/p&gt;
+
+&lt;h1 id=&quot;overall-thoughts&quot;&gt;Overall Thoughts&lt;/h1&gt;
+
+&lt;p&gt;The M-based MacBooks are really spectacular machines. The build quality is exceptional, the battery life is remarkable, and overall I can’t say enough great things about them. They are likely not, however, the best choice for someone whose daily driver is Linux, or who develops for a Linux-based platform such as GNOME.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Oct 2024 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>Rallying Behind an Undeserving Browser Will Not Save the Open Web</title>
@@ -13,7 +57,7 @@
         <guid isPermaLink="true">http://localhost:4000/2024/10/04/firefox.html</guid>
         <description>&lt;p&gt;Rallying behind an undeserving browser will not save the open web. If Mozilla is our last hope, we are already doomed.&lt;/p&gt;
 
-&lt;p&gt;I’ve been a Mozilla/Firefox user since I was around five years old, even before I knew what a “web browser”. It was the browser whose icon was saved to the desktop of the Gateway 2000 (running Windows 98 SE) I had access to as a child. Since then, I’ve more or less used it as my daily driver.&lt;/p&gt;
+&lt;p&gt;I’ve been a Mozilla/Firefox user since I was around five years old, even before I knew what a “web browser” was. It was the browser whose icon was saved to the desktop of the Gateway 2000 (running Windows 98 SE) I had access to as a child. Since then, I’ve more or less used it as my daily driver.&lt;/p&gt;
 
 &lt;p&gt;I don’t want it to come across that I hate Mozilla. I mean, I do, but I haven’t always. As a teenager I donated to them regularly. I even printed out the little PDF they gave you that said “I’m a Mozilla supporter!”&lt;/p&gt;
 
@@ -424,35 +468,6 @@
 &lt;p&gt;I’m not sure what the answers are. There probably aren’t any right answers, just “less bad” ones. I only mention this here to note how I’m feeling, and perhaps to help someone else know they’re not alone if they’re feeling this way too.&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jun 2023 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>Induction Hobs</title>
-        <link>http://localhost:4000/2023/05/28/induction-hobs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/05/28/induction-hobs.html</guid>
-        <description>&lt;p&gt;I used an &lt;a href=&quot;https://en.wikipedia.org/wiki/Induction_cooking&quot;&gt;induction hob&lt;/a&gt; for the first time today, and it was an unexpectedly enchanting experience.&lt;/p&gt;
-
-&lt;p&gt;I have been aware of the idea of cooking with induction for a while. In the debate about cooking with natural gas versus electricity, induction inevitably gets presented as the clear winner. “Yeah, the old electric stoves sucked, but induction is great!” I’ve heard.&lt;/p&gt;
-
-&lt;p&gt;I never quite understood the hype, because I quite literally &lt;em&gt;didn’t understand&lt;/em&gt; what an induction hob is.&lt;/p&gt;
-
-&lt;p&gt;Until now, I had mistakenly thought that I’ve been using induction stoves for most of my recent life. As far as I could tell, any kitchen range that did not include the circular coils on top were using induction. I mean, what else could they be?&lt;/p&gt;
-
-&lt;p&gt;Ceramic glass, it turns out. Those ranges I’ve been using and incorrectly thinking were induction were simply ceramic glass. The heating coils (or lamps, depending on the model) are located underneath the glass surface, and the heat is transferred straight up. They’re easier to clean than the old coil stove eyes, and marginally safer, but they are very much &lt;em&gt;not&lt;/em&gt; induction.&lt;/p&gt;
-
-&lt;p&gt;I’m staying at an AirBNB with an induction hob, and immediately after powering it on the user experience was unfamiliar to me. I swithced it on, but aside from a fan, it just starred at me with a blinking seven-segment display. I pressed the button to crank up the power, but it stubbornly refused to do anything.&lt;/p&gt;
-
-&lt;p&gt;I put my pan on the stove and tried again: E01, it grouchily answered. &lt;em&gt;An error!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Rather than using my own pan, I reached into the cabinet and grabbed a heavier stainless steel frying pan, and sat it on the eye. Immediately, it danced to life. I turned the power up, and it responded quickly.&lt;/p&gt;
-
-&lt;p&gt;Instantaneously, the pan grew hot to the touch. The oil was warm. The food started cooking. It was so pleasant, and efficient, and it cooked evenly in a way that previously I had only experienced with propane.&lt;/p&gt;
-
-&lt;p&gt;Later, I heated up a can of soup with it. Tonight, I’m trying spaghetti.&lt;/p&gt;
-
-&lt;p&gt;I’ve only used it a few times now, but each time I am astounded at how quickly it heats up, how evenly it cooks, and how great the user experience is (once you use a compatible pan). I have a feeling this is going to be become one of those things I swear by!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 May 2023 00:00:00 -0400</pubDate>
       </item>
     
   </channel>

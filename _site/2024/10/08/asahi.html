@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Asahi Linux with GNOME As a Daily Driver in Late 2024 | Nathan Dyer</title>
+	<meta name="description" content="A couple weeks ago I decided to purchase a MacBook Air M2, with the specific purpose of running Asahi Fedora Remix. I chose this particular model because it’...">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+	
+	<!-- OpenWeb Icons -->
+	<link rel="stylesheet" href="/css/openwebicons.css">
+	
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet"> 
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://localhost:4000/2024/10/08/asahi.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Nathan Dyer" href="http://localhost:4000/feed.xml" />
+	
+	<!-- Twitter and OpenGraph cards -->
+	<meta name="twitter:site"    content="@nathandyer_">
+	<meta name="twitter:creator" content="@nathandyer_">
+	<meta name="twitter:title"   content="Asahi Linux with GNOME As a Daily Driver in Late 2024">
+	<meta name="title"   content="Asahi Linux with GNOME As a Daily Driver in Late 2024">
+
+	
+	<meta name="twitter:description" content="What works, what doesn't, and the things you want to know but can't find anywhere else.">
+	<meta name="description" content="What works, what doesn't, and the things you want to know but can't find anywhere else.">
+	
+
+	
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="">
+	<meta name="image" content="http://localhost:4000">
+	
+	
+	<!-- end of Twitter cards -->
+
+
+</head>
+
+  <body>
+    <header class="primary-header">
+  <div id="left">
+	  <a href="http://localhost:4000/">
+	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
+	  </a>
+	  
+	</div>
+	
+	<div id="right">
+		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
+		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
+		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
+	</div>
+</header>
+
+    <div class="content">
+      <article >
+  <header style="background-image: url('/')">
+    <h1 class="title">Asahi Linux with GNOME As a Daily Driver in Late 2024</h1>
+    <p class="meta" style="padding: 0;">
+    	<strong>
+			October 8, 2024
+			
+		</strong>
+    </p>
+  </header>
+  <section class="post-content"><p>A couple weeks ago I decided to purchase a MacBook Air M2, with the specific purpose of running Asahi Fedora Remix. I chose this particular model because it’s the newest chipset that is supported by Asahi, and Best Buy was having a $200 off sale on them, presumably before Apple announces a new slate of laptops and stops offering the aging M2-based systems.</p>
+
+<p><img src="http://localhost:4000/img/macbook-air-asahi.jpg" alt="" /></p>
+
+<p>There were several things I really loved about the system (battery life was astounding, the trackpad was marvelous, and the display was beautiful), but ultimately I made the decision to return it; the experience just wasn’t what I needed for a daily driver.</p>
+
+<p>In this post I plan to answer the questions I had before purchasing the system, and either couldn’t find, or had to really work to track down the info. To be clear: I do think that it’s usable enough for some people to use as a daily driver; it was just more than I was willing to put up with, especially for the money.</p>
+
+<p>I won’t really cover things that are mentioned in the Asahi wiki/knowledgebase. Certain hardware features are not yet supported; covering them here would be redundant.</p>
+
+<p>Another important note: I am a die-hard GNOME user, so my experience was that of someone using GNOME Shell and almost exclusively libadwaita-based apps. I <em>did</em> install plasma-desktop for the sake of comparison; some things worked better there (mainly fractional scaling), but overall there wasn’t a ton of difference either way.</p>
+
+<h1 id="things-that-were-broken">Things That Were Broken</h1>
+
+<ul>
+  <li><strong>Night Light</strong>: with the display driver that is used by default in Asahi Fedora Remix, Night Light is completely unsupported. I rely on this feature heavily for visual comfort.</li>
+  <li><strong>Video hardware acceleration</strong> isn’t working yet. I knew this going in, but the prevailing public opinion seemed to be “the software renderer is so fast you’ll never notice it.” Suffice to say, I <em>did</em> notice it. 1080p video playback was fine, but it struggled to play 4K content smoothly, and playing 4K content while also trying to tonemap HDR to SDR (something that is necessary with HDR not yet being supported by Linux) slowed the machine down to a crawl, while also making it get worryingly hot to the touch.</li>
+  <li><strong>High RAM usage</strong>. On my other daily driver, I often see RAM hovering at around the ~4GB mark. On this system, it was almost always right at the 8GB threshold, with the swap use continually climbing into the several GB range as well. I think this <em>may</em> be related to using the experimental fractional scaling (necessary for this display), but the performance overall just was not what I had hoped.</li>
+  <li><strong>DRM playback</strong> does not work. I almost didn’t catch this because I almost never watch anything that requires DRM, but one day while trying to watch an episode of <em>The Price is Right</em> on my lunch break, I realized that it was failing to play the video because DRM wasn’t enabled. When I checked Firefox, the option wasn’t there in the usual spot. I installed Chromium for giggles, and likewise, it was not an option. I suspect it’s an issue with aarch64 not being supported by Widevine on Linux, but I haven’t done any further homework than that.</li>
+  <li>Apps that use <strong>WebkitGTK</strong> were terribly sluggish. I’m not sure why, but any app that used WebkitGTK (I noticed this most in GNOME Web/Epiphany and Newsflash) were slow and stuttery, especially when the web view was visible.</li>
+  <li>Random graphical artifacts. This was hard to track down, but I noticed random black boxes, rendering oddities, and in an especially humorous turn, text that would occasional render in “Mocking Spongebob Mode” (yOu kNoW WhEn tEXt lOOkS lIKE thiS). It was most noticeable with libadwaita-based apps, which is almost every app I use.</li>
+  <li>Setting up <strong>disk encryption</strong> is a headache that you probably won’t do. I generally rely on encryption for every digital device I use, but was put off by the headache of trying to set up a LUKS-encrypted boot partition for Asahi. It sounds possible if you monkey around with USB-based install solutions and custom partitioning, but life is too short for me to get that figured out.</li>
+</ul>
+
+<h1 id="how-does-linux-handle-the-notch">How Does Linux Handle the Notch?</h1>
+
+<p>It handles it by pretending it’s not there! It just crops that portion of the display, giving you a perfect 16:10 aspect ratio, with no notch visible. There is a kernel option you can set to <em>enable</em> the notch, but I recommend against it if you are a GNOME user, as you would lose the clock/notification area (or at the least, would have to install an extension to relocate its position).</p>
+
+<h1 id="how-is-the-battery-life">How Is The Battery Life?</h1>
+
+<p>Amazing! Depending on how much I babied it, I would almost always get 8 hours, and would often get as much as 12. The battery life on macOS is better, no question, but it’s not so much lower in Linux that you will be tempted back to macOS for the battery life alone (probably).</p>
+
+<h1 id="overall-thoughts">Overall Thoughts</h1>
+
+<p>The M-based MacBooks are really spectacular machines. The build quality is exceptional, the battery life is remarkable, and overall I can’t say enough great things about them. They are likely not, however, the best choice for someone whose daily driver is Linux, or who develops for a Linux-based platform such as GNOME.</p>
+
+</section>
+</article>
+
+<!-- Post navigation -->
+<div id="post-nav">
+	<a href="http://localhost:4000/blog/"><i class="fa fa-book"></i> Index</a>
+    <a id="prev-post" href="/2024/10/04/firefox.html">
+      <span class="nav-label">
+        <i class="fa fa-chevron-left"></i> Prev
+      </span>
+    </a>
+    <a id="next-post" href="">
+       <span class="page-title"></span>
+       <span class="nav-label">
+        Next <i class="fa fa-chevron-right"></i>
+       </span>
+     </a>
+</div>
+
+    </div>
+    <footer>
+	<p><i style="font-size: 1em;" class="openwebicons-cc"></i>All content, unless otherwise noted, is created by Nathan Dyer and available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA License</a>.</p>
+</footer>
+
+
+  </body>
+</html>
