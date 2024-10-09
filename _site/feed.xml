@@ -5,7 +5,28 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Tue, 08 Oct 2024 08:50:39 -0400</pubDate>
+    <pubDate>Wed, 09 Oct 2024 08:30:31 -0400</pubDate>
+    
+      <item>
+        <title>The Secret Trick to Make Water Bottles Stay Clean for Days (It&apos;s Ice)</title>
+        <link>http://localhost:4000/2024/10/09/water-bottles.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/09/water-bottles.html</guid>
+        <description>&lt;p&gt;For ages I’ve wondered how some people seem to carry around the same water bottle with them, day after day, everywhere they go. Any time I’ve attempted the same, my water bottle would inevitably develop a funky smell, usually before the end of the day but always before day #2. More than that, it turned into a veritable petri dish, surely a menace not only to my health but the health of the population at large.&lt;/p&gt;
+
+&lt;p&gt;Obviously, a good wash would fix the issue immediately, but I never really saw that people were washing their bottles throughout the day, or even nightly. How were they pulling off this astonishing feat?&lt;/p&gt;
+
+&lt;p&gt;It’s ice.&lt;/p&gt;
+
+&lt;p&gt;The secret to making a water bottle stretch for days and days on a single wash is to use ice. Having a bottle with good insulation, double-walled if you can spring for it, doesn’t hurt, but without ice even that can only get you so far.&lt;/p&gt;
+
+&lt;p&gt;As soon as you let it run out of ice and the temperature rises from chilly to lukewarm, the gig is up. You have lost. Return the bottle to the nearest dishwasher or sink.&lt;/p&gt;
+
+&lt;p&gt;But if you keep it cold, and replenish the ice daily, you too can achieve these feats of magic.&lt;/p&gt;
+
+&lt;p&gt;But please still give your bottle the ole sniff test on a regular basis, and wash as soon as it’s iffy.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Oct 2024 00:00:00 -0400</pubDate>
+      </item>
     
       <item>
         <title>Asahi Linux with GNOME As a Daily Driver in Late 2024</title>
@@ -435,39 +456,6 @@
 &lt;p&gt;So here’s to you, Nalgene bottle! Thanks for keeping me hydrated.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jun 2023 00:00:00 -0400</pubDate>
-      </item>
-    
-      <item>
-        <title>On The Turning Away</title>
-        <link>http://localhost:4000/2023/06/05/on-the-turning-away.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/06/05/on-the-turning-away.html</guid>
-        <description>&lt;p&gt;For the past couple years, my enjoyment of social media as a concept has really waned.&lt;/p&gt;
-
-&lt;p&gt;When I first joined Twitter a decade and a half ago, I fell in love with it immediately. The vibe in those early days was incredible. There was boundless positivity, incredible potential, and real connections with other human beings (even if it was just to know what someone was eating for lunch on a given day). People spoke about the amazing things they were working on, or the things they had made, or neat things they purchased, or the news items of the day.&lt;/p&gt;
-
-&lt;p&gt;I used to wake up excited to read through my Twitter feed, catching every single Tweet from the overnight timeline, and then keeping a little window with tweets streaming in the background all day long so I wouldn’t miss anything.&lt;/p&gt;
-
-&lt;p&gt;Slowly, as time moved forward, the joy began to diminish. People spent less time posting about interesting and useful things, and spent more time arguing with one another. Good faith discussions turned into bitter disagreements. It felt like everyone was upset all the time, and the only news that surfaced was either negative or misleading.&lt;/p&gt;
-
-&lt;p&gt;Several years ago I joined Mastodon, after also having joined other social networks including Google+ and Indenti.ca. For a while, things on Mastodon moved slowly. There weren’t a lot of folks. But for those who were there, it felt like the old days again. Everyone was friendly. The vibes were good. I began to enjoy social media again.&lt;/p&gt;
-
-&lt;p&gt;Last year, Elon Musk took over Twitter. I decided to delete my account soon after. Most of the folks I followed on Twitter made it over to a Mastodon instance. Some, unfortunately, did not.&lt;/p&gt;
-
-&lt;p&gt;For a while, it was amazing having everyone back on this new service, and interacting in positive ways. But now, I feel again that I’m just sitting back and staring into a bad news machine. It’s almost nothing but negativity and infighting. Or, posts about the bleak state of the world; folks’ rights being taken away, crimes being committed, social systems failing, and business and corporations destroying the planet while making the lives of everyday people worse, just to pad their bottom lines.&lt;/p&gt;
-
-&lt;p&gt;I just feel like I’m enjoying social media less and less. I can envision a future where I don’t have any social apps installed, and I don’t generally interact with folks outside of my work / email. But that also feels bad.&lt;/p&gt;
-
-&lt;p&gt;I once saw a Jon Stewart clip where he was talking about people deciding not to have children because of environmental concerns. Everyone’s decision to have or not have children is their own, and environmental worries are as valid a reason as any not to have them, but he said something that has nevertheless stuck with me: “if you don’t have kids, who are you saving the world &lt;em&gt;for?&lt;/em&gt;”&lt;/p&gt;
-
-&lt;p&gt;I think about that in the context of work that I do: the code that I write, the contributions I make, the donations I send, and the causes that I fight for. I want to be reminded of the people that will benefit from these actions and these choices. I want to be reminded of why I even bother getting out of bed in the morning. I don’t want to live isolated, thinking only of myself, excluding everybody else.&lt;/p&gt;
-
-&lt;p&gt;So I don’t think completely leaving social media is the right answer for me. I think, it many ways, it’s an avoidance of the problem, or may even exacerbate it.&lt;/p&gt;
-
-&lt;p&gt;But at the same time, I do not find myself enjoying the current forms of social media, nor what it’s doing for my mental health. Maybe I need to find new folks to follow? Or maybe I need to prune my own following list? But choosing to avoid difficult or challening subjects can sometimes be an expression of privilege, and I don’t want to completely ignore the struggles of others. I want to be a friend and ally for folks.&lt;/p&gt;
-
-&lt;p&gt;I’m not sure what the answers are. There probably aren’t any right answers, just “less bad” ones. I only mention this here to note how I’m feeling, and perhaps to help someone else know they’re not alone if they’re feeling this way too.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Jun 2023 00:00:00 -0400</pubDate>
       </item>
     
   </channel>
