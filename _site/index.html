@@ -47,24 +47,36 @@
 	
 	<!-- end of Twitter cards -->
 
-
 </head>
 
   <body>
-    <header class="primary-header">
-  <div id="left">
+    <header>
+	<nav class="topnav" id="myTopnav">
 	  <a href="http://localhost:4000/">
 	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
-	  </a>
-	  
-	</div>
-	
-	<div id="right">
-		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
-		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
-		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
-		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
-	</div>
+    </a>
+	  <a href="http://localhost:4000/blog/"">Blog</a>
+		<a href="http://localhost:4000/feed.xml">RSS</a>
+		<a href="https://codeberg.org/nathandyer" rel="me">Codeberg</a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me">Mastodon</a>
+		<a href="https://pixelfed.social/nathandyer" rel="me">Pixelfed</a>
+	  <a href="http://localhost:4000/principles/">Principles</a>
+	  <a href="http://localhost:4000/interests/">Interests</a>
+	  <a href="http://localhost:4000/endorsements/">Endorsements</a>
+	  <a href="javascript:void(0);" class="icon" onclick="handleResponsiveDesign()">
+    <i class="fa fa-bars"></i>
+  </nav>
+  
+  <script>
+  function handleResponsiveDesign() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+  </script>
 </header>
 
     <div class="content">
@@ -75,19 +87,8 @@
     <p>Howdy, I'm Nathan 👋🏻</p>
     <p>In my personal time, I'm an independent software developer making apps for Linux (primarily GNOME, using technologies like GTK and libadwaita). I also tinker with smaller projects meant to improve the lives of folks using Linux and other free desktops.</p>
     <p>Professionally, I'm a Newsroom Support Engineer for <a href="https://freedom.press">Freedom of the Press Foundation</a>. I work on <a href="https://securedrop.org">SecureDrop</a>, an anonymous whistleblowing platform.</p>
-    
-  	<p style="font-weight: bold">I'm currently in kidney failure and actively seeking a kidney donation.</p>
-  	<a class="stitched" href="http://localhost:4000/kidney/" style="font-weight: bold; color: red;">Please Consider a Life Saving Donation</a>
   </div>
 	    
-  <div id="secondary-links">
-    <h1>Navigation</h1>
-    <a class="stitched" href="blog/" style="font-weight: bold;">Read My Blog</a>
-	  <a class="stitched" href="http://localhost:4000/principles/">Principles</a>
-	  <a class="stitched" href="http://localhost:4000/interests/">Interests</a>
-	  <a class="stitched" href="http://localhost:4000/endorsements/">Endorsements</a>
-	  <a class="stitched" href="http://localhost:4000/anti-endorsements/">Anti-Endorsements</a>
-  </div>
 
   <div id="contact" style="line-height: 1">
     <h1>Contact</h1>
@@ -98,7 +99,6 @@
   
   <div id="projects">
     <h1>Highlighted Projects</h1>
-    <a class="stitched" href="https://codeberg.org/nathandyer/Vocal">Vocal</a>
 	  <a class="stitched" href="https://codeberg.org/nathandyer/Hypatia">Hypatia</a>
 	  <a class="stitched" href="https://codeberg.org/nathandyer/exquisite-linux-templates">Exquisite Linux Templates</a>
 

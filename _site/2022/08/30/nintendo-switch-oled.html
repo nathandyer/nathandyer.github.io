@@ -47,24 +47,36 @@
 	
 	<!-- end of Twitter cards -->
 
-
 </head>
 
   <body>
-    <header class="primary-header">
-  <div id="left">
+    <header>
+	<nav class="topnav" id="myTopnav">
 	  <a href="http://localhost:4000/">
 	    <img src="http://localhost:4000/img/avatar.png" alt="An illustration of Nathan Dyer">
-	  </a>
-	  
-	</div>
-	
-	<div id="right">
-		<a href="http://localhost:4000/feed.xml"><i class="openwebicons-feed"></i></a>
-		<a href="https://codeberg.org/nathandyer" rel="me"><i class="openwebicons-git"></i></a>
-		<a href="https://social.nathandyer.me/@nathan" rel="me"><i class="openwebicons-mastodon-simple"></i></a>
-		<a href="https://pixelfed.social/nathandyer" rel="me"><i class="openwebicons-pixelfed "></i></a>
-	</div>
+    </a>
+	  <a href="http://localhost:4000/blog/"">Blog</a>
+		<a href="http://localhost:4000/feed.xml">RSS</a>
+		<a href="https://codeberg.org/nathandyer" rel="me">Codeberg</a>
+		<a href="https://social.nathandyer.me/@nathan" rel="me">Mastodon</a>
+		<a href="https://pixelfed.social/nathandyer" rel="me">Pixelfed</a>
+	  <a href="http://localhost:4000/principles/">Principles</a>
+	  <a href="http://localhost:4000/interests/">Interests</a>
+	  <a href="http://localhost:4000/endorsements/">Endorsements</a>
+	  <a href="javascript:void(0);" class="icon" onclick="handleResponsiveDesign()">
+    <i class="fa fa-bars"></i>
+  </nav>
+  
+  <script>
+  function handleResponsiveDesign() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+  </script>
 </header>
 
     <div class="content">
