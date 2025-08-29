@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh, Bananza (Review)
+title: Oh, Bananza! (Review)
 summary: Donkey Kong is here for you, he's the first member of the DK crew!
 ---
 
