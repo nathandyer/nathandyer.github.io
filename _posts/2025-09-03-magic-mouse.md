@@ -8,7 +8,7 @@ It's pretty nice if you treat it as a basic travel mouse, but don't pick one up 
 
 Okay, even for me, that review was a bit too short. Let's expand:
 
-Although I'm primarily a trackpad user in my day-to-day life, I had been wanting a small, portable mouse that I can keep in my laptop bag for the rare occasion when I'm doing something where a mouse would be handy or even just pleasant to use. Having previously sworn off plastic mice, the Apple Magic Mouse is really one of the few contenders that meet my needs in terms of build materials and durability. I had one a long time ago, back before they had either Lightning or USB-C connectors, and instead required installing two AA batteries. Back then I liked the mouse pretty well, but given that a decade has passed, I thought it might be well worth picking another one up.
+Although I'm primarily a trackpad user in my day-to-day life, I had been wanting a small, portable mouse that I can keep in my laptop bag for the rare occasion when I'm doing something where a mouse would be handy or even just pleasant to use. Having previously sworn off plastic mice, the Apple Magic Mouse is really one of the few contenders that meets my needs in terms of build materials and durability. I had one a long time ago, back before they had either Lightning or USB-C connectors and instead required installing two AA batteries. Back then I liked the mouse pretty well, but given that a decade has passed I thought it might be well worth picking another one up.
 
 I had also recently read that there is expanded gesture support for Magic Mice in the latest Linux distro releases, which I was excited about testing. So, I placed an order for one, picked it up, and tried to connect it to my laptop.
 
