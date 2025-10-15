@@ -8,13 +8,13 @@ As I mentioned in my last blog post, although I'm actively working on moving awa
 
 I mentioned that my uses for a mobile phone are limited, so I thought it might be fun to show how I actually use my phone day-to-day. This is a screenshot of my home screen:
 
-![My iPhone home screen, showing three rows of apps and four apps in the dock]({{ site.url }}/img/iphone_screenshot.jpeg)
+![My iPhone home screen, showing three rows of apps and four apps in the dock]({{ site.url }}/img/iphone_screenshot.jpg)
 
 I only have one page of apps on the home screen, and all the apps I use on a regular basis are featured there. You'll notice (moving from top left to bottom right):
 
-* Wallet: this is where I store my grocery store loyalty cards, trigger tap-to-pay, and manage my Apple Card
+* Wallet: This is where I store my grocery store loyalty cards, trigger tap-to-pay, and manage my Apple Card
 
-* Camera and Photos: these are self-explanatory. The only real "creation" I do on my phone happens in the Camera app. I can use Photos to look at some of the past pictures I've taken, but I almost never do. My primary use for it is simply grabbing the last photo or two to send to someone. When it comes to actually looking through old photos, this is always done on my laptop. When I copy photos from my phone to my laptop I delete them off my phone (once they're safely backed up in a few different places)
+* Camera and Photos: These are self-explanatory. The only real "creation" I do on my phone happens in the Camera app. I can use Photos to look at some of the past pictures I've taken, but I almost never do. My primary use for it is simply grabbing the last photo or two to send to someone. When it comes to actually looking through old photos, this is always done on my laptop. When I copy photos from my phone to my laptop I delete them off my phone (once they're safely backed up in a few different places)
 
 * Reminders: I use this for one purpose only: adding and crossing off items on my grocery list
 
@@ -34,13 +34,13 @@ I only have one page of apps on the home screen, and all the apps I use on a reg
 
 * Bank app (not featured in screenshot) - Mainly used for moving money from savings to checking when I've overspent
 
-* Ice Cubes - an open source Mastodon client. This is really the only app I use for entertainment on my phone, and I only use it when I'm away from home.
+* Ice Cubes - An open source Mastodon client. This is really the only app I use for entertainment on my phone, and I only use it when I'm away from home.
 
-* DuckDuckGo - just a quick ephemeral browser for the random occasional search / lookup
+* DuckDuckGo - Just a quick ephemeral browser for the random occasional search / lookup
 
-* Overcasts - for podcasts
+* Overcasts - For podcasts
 
-* Signal - for messaging
+* Signal - For messaging
 
 
 These are the only apps I use regularly. I don't have many other apps on my phone, apart from a couple convenience apps that I use for order pickup, ordering food, etc.
