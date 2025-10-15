@@ -8,7 +8,7 @@ As I mentioned in my last blog post, although I'm actively working on moving awa
 
 I mentioned that my uses for a mobile phone are limited, so I thought it might be fun to show how I actually use my phone day-to-day. This is a screenshot of my home screen:
 
-![My iPhone home screen, showing three rows of apps and four apps in the dock]({{ site.url }}/img/iphone_screenshot.jpg)
+![My iPhone home screen, showing three rows of apps and four apps in the dock]({{ site.url }}/img/iphone_screenshot.png)
 
 I only have one page of apps on the home screen, and all the apps I use on a regular basis are featured there. You'll notice (moving from top left to bottom right):
 
