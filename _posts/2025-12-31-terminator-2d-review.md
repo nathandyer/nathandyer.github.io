@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Short Review of Terminator 2D: No Fate
+title: A Short Review of Terminator 2D
 summary: A quick, fun Terminator game
 ---
 
