@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nathandyer.me" # the base hostname & protocol for your site
+timezone: "America/New_York"
 
 # Meta
 title: Nathan Dyer
