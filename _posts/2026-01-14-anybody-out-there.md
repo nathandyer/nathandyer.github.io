@@ -2,6 +2,7 @@
 layout: post
 title: Is There Anybody Out There?
 summary: I'm curious if anyone is actually reading these posts
+date: 2026-01-14 21:00:00 -0500
 ---
 
 I don't have any analytics on this site, but I _do_ use Cloudflare (I know, I know), and while I was in the admin panel recently I noticed that there are some traffic stats that I haven't really paid attention to before. I was surprised to see hundreds of unique visitors in the span of just a day or two, although I know that the vast majority of those unique visitors are probably just various AI bots scraping everything I write to assimilate into some giant corpus.
