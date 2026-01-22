@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why the "Purple Salad" is a Big Deal"
+title: Why the Purple Salad is a Big Deal
 date: 2012-04-02
 ---
 
