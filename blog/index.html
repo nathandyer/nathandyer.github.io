@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div>
-  <h1 style="text-align: center;">Blog Posts</h1>
+<div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+  <h1 style="text-align: center; margin-bottom: 2rem;">Blog Posts</h1>
 
   {% assign current_year = "" %}
   {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
@@ -16,15 +16,19 @@ layout: default
         </ul>
       {% endif %}
 
-      <h2 id="{{ post_year }}">{{ post_year }}</h2>
-      <ul>
+      <h2 style="margin-top: 2rem; border-bottom: 2px solid #ddd; padding-bottom: 0.3rem;" id="{{ post_year }}">
+        {{ post_year }}
+      </h2>
+      <ul style="list-style: none; padding-left: 0; margin-top: 1rem;">
       {% assign current_year = post_year %}
     {% endif %}
 
-    <li>
-      <a href="{{ post.url }}">
-        <span style="font-weight: bold; color: #555;">{{ post.date | date: "%b %d" }}</span>
-        — {{ post.title }}
+    <li style="margin-bottom: 0.75rem;">
+      <a href="{{ post.url }}" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.75rem; transition: color 0.2s;">
+        <span style="background-color: #f0f0f0; color: #555; font-size: 0.85rem; font-weight: bold; padding: 0.2rem 0.5rem; border-radius: 4px;">
+          {{ post.date | date: "%b %d" }}
+        </span>
+        <span>{{ post.title }}</span>
       </a>
     </li>
 
@@ -33,3 +37,9 @@ layout: default
     {% endif %}
   {% endfor %}
 </div>
+
+<style>
+  a:hover {
+    color: #007acc; /* subtle highlight on hover */
+  }
+</style>
