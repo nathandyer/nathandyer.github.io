@@ -1,10 +1,16 @@
 ---
 layout: post
-title: 'Vocal Development Update #2'
+title: "Vocal Development Update #2"
+date: 2014-04-28
+categories:
+  - Uncategorized
 ---
+
 The past week has been primarily focused on completing my final projects for courses this semester, but tonight I turned in my last two projects. I can finally start focusing on Vocal 100%.
 
-Despite focusing on school assingments, I still managed to make a fair bit of progress with Vocal. The main improvement is that album art now rearranges itself properly when the window shrinks or grows! [The screencast that I recorded (sorry, no audio)](https://www.youtube.com/watch?v=AiKGJaYGuhg) should give you a good idea of how Vocal looks and behaves right now.
+Despite focusing on school assingments, I still managed to make a fair bit of progress with Vocal. The main improvement is that album art now rearranges itself properly when the window shrinks or grows! The screencast that I recorded (sorry, no audio) should give you a good idea of how Vocal looks and behaves right now.
+
+[youtube=https://www.youtube.com/watch?v=AiKGJaYGuhg]
 
 I initially started out with my own custom widget in a Grid, and threw in some voodoo on the backend to make it work, but I couldn't find a good solution to fixing the resize problem. So in the end I decided to try a Gtk.IconView, and in only an hour or two I had it looking and working exactly how I wanted. Awesome!
 

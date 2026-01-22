@@ -1,21 +1,23 @@
 ---
 layout: post
-title: 'Vocal Development Update #4'
+title: "Vocal Development Update #4"
+date: 2014-05-28
+tags:
+  - vocal
+categories:
+  - Linux and Open Source Software
 ---
+
 We are getting close to the first beta for Vocal! Despite a few minor setbacks that caused me to miss three or four days of planned coding, everything is still right on schedule and it looks like my initial goal of having a beta out by the end of June will be possible. At this point all the core features that I want implemented before the first development release have been added, which means the next few weeks will be focused on fixing a handful of remaining bugs and then additional polish before I release it into the wild for the first time.
 
 Please keep in mind any screenshots you see may very well change between now and the final release. This is still a look at a work in progress.
 
-![]({{ site.url }}/img/screenshot-from-2014-05-22-220228.png)
+<img class="aligncenter wp-image-1551 size-full" src="http://nathandyer.wordpress.com/wp-content/uploads/2014/05/screenshot-from-2014-05-22-220228.png" alt="Screenshot from 2014-05-22 22:02:28" width="368" height="303" />
 
-![]({{ site.url }}/img/screenshot-from-2014-05-26-153506.png)
-
-Vocal feels a lot more functional as of late. For one thing, the downloads system has been added (although there are some small problems I need to fix). Active download information is presented in a new popup available from the toolbar. Files are downloaded to the local library, and Vocal knows whether to play the local or remote version automatically. Users are able to tell whether or not a file has been downloaded by looking in the episode view. Not only that, but now unplayed episodes are marked with a star so you can always tell what you have and haven't listened to yet.
+<a href="http://nathandyer.wordpress.com/wp-content/uploads/2014/05/screenshot-from-2014-05-26-153506.png"><img class="alignright wp-image-1552 size-full" src="http://nathandyer.wordpress.com/wp-content/uploads/2014/05/screenshot-from-2014-05-26-153506.png" alt="Screenshot from 2014-05-26 15:35:06" width="213" height="253" /></a>Vocal feels a lot more functional as of late. For one thing, the downloads system has been added (although there are some small problems I need to fix). Active download information is presented in a new popup available from the toolbar. Files are downloaded to the local library, and Vocal knows whether to play the local or remote version automatically. Users are able to tell whether or not a file has been downloaded by looking in the episode view. Not only that, but now unplayed episodes are marked with a star so you can always tell what you have and haven't listened to yet.
 
 It has also received further integration with the desktop. Once episodes have been downloaded, or if it discovers that new episodes are available, a system notification gets sent. The dock icon also displays information about the number of unplayed episodes and total download progress.
 
-![]({{ site.url }}/img/screenshot-from-2014-05-23-184054.png)
-
-Lots of other fixes have been implemented, including a critical fix for a bug in the the feed parser that prevented certain podcasts from being added. I also fixed an issue where only certain episodes were added to the library.
+<a href="http://nathandyer.wordpress.com/wp-content/uploads/2014/05/screenshot-from-2014-05-23-184054.png"><img class="aligncenter size-full wp-image-1554" src="http://nathandyer.wordpress.com/wp-content/uploads/2014/05/screenshot-from-2014-05-23-184054.png" alt="Screenshot from 2014-05-23 18:40:54" width="299" height="77" /></a>Lots of other fixes have been implemented, including a critical fix for a bug in the the feed parser that prevented certain podcasts from being added. I also fixed an issue where only certain episodes were added to the library.
 
 The beta is still a few weeks away, but the most challenging parts for this pre-release are behind me. That being said, I want to make the app feel as solid as possible before I let others kick the tires.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "What's in a Name?"
+date: 2013-05-05
+tags:
+  - elementary os
+  - Linux
+  - names
+  - user experience
+categories:
+  - Linux and Open Source Software
+---
+
+<p><!--StartFragment-->Names give things a personality. They helps convey the meanings behind objects. A good name should always give you an idea of what the thing is about. Specifically with software, a name can either help make your product sound interesting and intuitive, or it can make it sound generic and boring.</p><p>I’ll be honest, I really don’t like the idea of renaming some of the default apps in elementary OS to a more generic name. For one thing, generic names don't have that little hint of character and charm that is key for users to really cling to an app. I don’t mind it as much for the elementary-specific applications (I’m talking about Noise/Music, Maya/Calendar, etc.), but for the applications from third parties, I think the name in elementary OS should be the same as elsewhere the application is used.</p><p>For example, what if I use Geary for the first time, and I want to look for help online or perhaps find the project’s website to donate money? Searching for ‘E-mail’ won’t yield the results I’m looking for. Searching for Geary, however, will take me right to where I’m looking to go. In the long run it could end up causing more frustration for users, not to mention potential frustrations for developers. For the best user experience, and to get the best of both worlds, I like putting the project name and its general purpose together: 'Geary E-mail,' or 'Noise Music Player.'</p><p>Allow me to further make my case by examining what is, arguably, the commercial desktop operating system that is the most UX-focused with the largest user base: Mac OS X. While certain apps do have the name of their function in the title (for example, Calendar (formerly iCal) and iMovie), most of them are unique and catchy. Safari&nbsp;isn't&nbsp;named ‘Web Browser;’ calling it that&nbsp;wouldn't&nbsp;be memorable or creative. When you think of Safari, you think of navigating and exploring a wild, untamed jungle. What better mental picture of surfing the web than that? Or consider iTunes, which gives the idea of being music-related without being&nbsp;explicitly&nbsp;called ‘Music.’ Pages is in a similar boat, where the idea is conveyed without being named ‘Word Processor.’ And, lastly, what about some of the other popular third-party Mac apps, like Pocket or Evernote? Their names aren't exactly descriptive, but they have millions of users.</p><p>I understand the idea of wanting to give users the simplest experience, and that certainly includes providing applications with meaningful names. That said, in many instances it would be a disservice to the users and developers. After all, Audience, Noise, and Shotwell are a lot more imaginative and memorable names than ‘Video Player,’ ‘Music,’ and ‘Photo Library.’</p><p></p>

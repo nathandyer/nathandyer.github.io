@@ -1,0 +1,35 @@
+---
+layout: post
+title: "The iPad: A Review"
+date: 2012-02-19
+tags:
+  - Apple
+  - iPad
+  - review
+categories:
+  - All Things Apple
+  - Computers
+---
+
+<p style="text-align:justify;">This weekend I had the unique opportunity to spend several (read: 20+) hours putting the iPad through its paces. Of course, I'd briefly messed around with ones at <em>Best Buy</em> and such, but I never really had the chance to try it out for what it's designed for.</p>
+<p style="text-align:justify;"><em> </em>Those who refuse to touch anything if it's not running FOSS may stop reading here. I know it's proprietary software, and I hate that as much as you- but that's not going to deter me from at least giving it a try.<!--more--></p>
+<p style="text-align:justify;">I'm going to talk about the good, the bad, and the areas where the open source community has a chance to not only match but far surpass the iPad.</p>
+
+<h2 style="text-align:justify;">The Good</h2>
+<p style="text-align:justify;">This device does extremely well at many of the things that it's designed for. The number one killer feature is how much better it is to consume some of the short-form reading material, i.e. blogs, news articles, and other content like that. <em>Flipboard</em> is hands-down the app that would sell an iPad to me if I weren't both broke and stubbornly determined to have an open tablet. Not only does it come out-of-the-box with great content from across the web, but the Google Reader integration is fantastic. I love getting all the blogs that I follow in one beautiful, consistent interface that makes it feel more like a magazine. I love it.</p>
+<p style="text-align:justify;"><img class="alignleft" title="iPad 2, image from the Wikimedia foundation" src="http://upload.wikimedia.org/wikipedia/en/7/7c/1stGen-iPad-HomeScreen.jpg" alt="" width="226" height="288" />On the same note, I love the magazine/graphic novel possibilities of this thing. The <em>Comixology </em>app is superb. If I actually owned this iPad I would never have to buy <em>The Walking Dead</em> in hardcover form again. It not only mirrors the classic experience, it improves on it by having panel-by-panel auto-focusing. It makes a graphic novel feel much like a big-screen film, and I love it. <em>Distro</em>, the app from Engadget, is also wonderful. It's like a free, weekly magazine that is visually gripping and has fresh, well-written content.</p>
+<p style="text-align:justify;">I've said it before, and I'll say it again: the iTunes Store is the one thing that is really missing in the GNU/Linux world. I love going to one place to buy books, movies, music, TV shows, games, and other apps. Not only that, but the browsing experience is great. It's clean, the content is easy to find, and if there's something I want I can be consuming it in a few short seconds. I love being able to have access to iTunes' unmatched podcast selection (I'm looking at you, <em>Miro</em>). From a strictly content-consumption device, the iPad is superb.</p>
+<p style="text-align:justify;">And, for what it's worth, the device kept up with the tasks I threw at it nicely. I didn't notice any latency or sluggishness, and I never found myself waiting on it to get it's junk together.</p>
+
+<h2 style="text-align:justify;">The Bad</h2>
+<p style="text-align:justify;">I have mixed feelings about internet browsing on this device. The one thing that it does atrociously at is tabbed browsing. I don't want to have a separate tab selection window manager thing, I want a bar with tabs like on a normal web browser. There were a few browsers in the app store with this functionality, but I found that most of them flat-out sucked. The rest of the browsing experience is hit-and-miss: some websites are better than ever, some (<em>Google+</em>, I'm calling you out!) are just terrible- ugly mobile interfaces, no zoom capibilities. I can definitely see the appeal of web browsing lie this, I just think it could be better.</p>
+<p style="text-align:justify;">"Multitasking" on this is an absolute joke. Not only is it difficult and more time consuming to switch apps, but it leaves them half-running/half-frozen in the background, and you don't realize how many things you still have open. This is where Ubuntu would work very well, but I'll wait until after the jump to ramble on about that.</p>
+<p style="text-align:justify;">The number of quality, free apps is also abysmal. It's been a long time since I've paid for an application, aside from the Humble Indie Bundle games, so it's not even really a practice that makes much sense to me any more. I'd do it if an app is superior to any of the free ones, but most of the time there could be a free app that's just as good. The free apps on here are typically mediocre, and many of them have very annoying adds. Don't get me wrong, ads aren't bad on definition, but can be on execution. If you integrate it to make it feel like a part of the app experience it's fine, but having a banner add that covers up part of the UI makes me frustrated.</p>
+<p style="text-align:justify;">And just a point of nit-picking here, but why does it have to say iPad in the upper left corner? I know what it is, I'm holding it in my bloody hands!</p>
+
+<h2 style="text-align:justify;">What We Can Do Better</h2>
+<p style="text-align:justify;">I think that Unity, especially versions 5.4+ that have the new HUD built in, would be just beautiful on a tablet. If we could somehow make it so that the background apps have the same semi-pausing technique that it has now with the Unity dash and launcher, it would be a joy to use. <a href="http://www.omgubuntu.co.uk/2012/02/unity-5-4-lands-in-precise-brings-hud-video-lens-minor-ui-changes/"><img class="alignright" title="Unity's Dash, image from OMG! Ubuntu!" src="http://cdn.omgubuntu.co.uk/wp-content/uploads/2012/02/new-dash-buttons.png" alt="" width="262" height="184" /></a></p>
+<p style="text-align:justify;">If we could get a single place to purchase all of our content that had both the selection and ease of discovery and browsing it would be great, and if we offered it all in open formats that would be a major victory.</p>
+
+<h2 style="text-align:justify;">Verdict: Buy, Pass, or Wait?</h2>
+<p style="text-align:justify;">Wait if you're patient. The idea of a tablet as a media consumption device is great (as a guy who surfs from his bed most of the time, this thing is ideal), and while the iPad does it very well, I think an free software tablet could not only equal the iPad, but surpass it. I'm simply unimpressed with every Android tablet I've used so far, but I have high hopes for WebOS (It was under-powered, but I really liked the Touchpad), and now that it is going to be open sourced, I know it has the potential to be that tablet we need. And, if it comes down to it, Ubuntu is shooting for PCs, TVs, and Tablets, so I'm sure that will be cool. But, if you don't really care that much about free software and want a great tablet experience, the iPad is a fantastic choice. I'm looking forward to getting to play with it a little more, and I'm sure you will too.</p>

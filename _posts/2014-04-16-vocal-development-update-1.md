@@ -1,8 +1,13 @@
 ---
 layout: post
-title: 'Vocal Development Update #1'
+title: "Vocal Development Update #1"
+date: 2014-04-16
+categories:
+  - Uncategorized
 ---
+
 The past two weeks of my life have been surreal. I never expected such a positive reaction to Vocal, but I'm thrilled that so many of you are as enthusiastic about this project as I am. Thanks for all the great feedback and kind words!
+
 Now, to get back to business :)
 
 Last week I was able to tackle many of the problems I was having in turning Vocal into a (marginally) functional podcast client. I spent the entire day Monday fixing the RSS Feed Parser. It seems to be functional now, so importing RSS feeds works like a charm (at least from my testing). As soon as you add a new feed Vocal locates the album art and fills in all the episodes.
@@ -10,12 +15,13 @@ Last week I was able to tackle many of the problems I was having in turning Voc
 Speaking of which, the episode selection window is also working now. Once episodes are populated you can choose to either stream or download an episode, and of course you can view each episode's description. Streaming is currently functional, downloading is not.
 
 I also polished up the media backend (GStreamer). Before you could only play and pause, and you couldn't select which episode you wanted, but now you can seek to any point in the track and pick any episode you want. It also keeps track of time elapsed and remaining, but that's a boring feature.
-What's Next?
-
+<h2>What's Next?</h2>
 In the short term, fixing Vocal so that the podcast cover art rearranges when the window is expanded is my main priority. That, and further polishing, will be my focus for the next week or so. After that most of the remaining work will be centered around getting the local database in place, as well as the downloading and updating functionality. Unfortunately that will take a considerable amount of time.
 
 As always, to steal the elementary OS team's motto, Vocal will be ready when it's ready. That said, I'm still on target for a June-ish release.
+<h2>Want To Contibute?</h2>
+Right now I'm not really looking for code contributions (I will certainly be in the future, however), but I could really use a good app icon for Vocal. I am looking for something elegant that visually makes you think of a podcast or RSS feed. If you are interested in contributing an icon, please send it in to <em>mail@nathandyer.me</em>, or send it to me through Google+. The more at home the icon feels in elementary OS, the more likely I am to use it. If I end up using your icon I will give you a design credit in Vocal's about dialog. Please just make sure that the content is original, and that it is freely licensed (Creative Commons Attribution-ShareAlike (CC BY-SA)).
 
-Want To Contibute?
+&nbsp;
 
-Right now I'm not really looking for code contributions (I will certainly be in the future, however), but I could really use a good app icon for Vocal. I am looking for something elegant that visually makes you think of a podcast or RSS feed. If you are interested in contributing an icon, please send it in to **mail@nathandyer.me**, or send it to me through Google+. The more at home the icon feels in elementary OS, the more likely I am to use it. If I end up using your icon I will give you a design credit in Vocal's about dialog. Please just make sure that the content is original, and that it is freely licensed (Creative Commons Attribution-ShareAlike (CC BY-SA)).
+&nbsp;
