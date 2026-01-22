@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Open Video: Streaming in Linux, Open Rentals, and Local Playback"
+date: 2010-11-12
+categories:
+  - Uncategorized
+---
+
+<p><img src="http://images.amazon.com/images/G/01/digital/video/email/Amazon-video-watch-now-400x200b.jpg" /></p>
+<p>Netflix seems to be a crowd favorite (although my experience has been <em>meh</em>), but if you try to play it in Linux, you&#8217;ll find yourself in a pickle. It is based around a DRM&#8217;d Silverlight stream, and while Moonlight has made leaps and strides in porting Silverlight to *<em>nix, </em>the DRM support simply doesn&#8217;t exist. There are ways around that, of course, the main being to run Windows in a virtual machine (although performance is junky at best). </p>
+<p>But how does video fit into an open-source world?</p>
+<p>In terms of downloading, there are no fully open-source (or otherwise, for that matter) options. The only way that movie studios would sell or rent movies (at this point in time) is under lock and key, and copy protection has never gone with open-source; that would be too darn ironic and impossible to implement. I love the idea of being able to download VP8 (I&#8217;ll talk about codecs next paragraph) videos and have forever and ever. Sadly, I don&#8217;t think that we&#8217;re anywhere near that point in time at all.</p>
+<p>A quick rant on codecs: you know we have Ogg Theora, but I absolutely hate that codec for more reasons than I can address in a blog post, the main being that it&#8217;s very lossy and extremely inefficient. Recently, Google open-sourced the VP8 codec, and I&#8217;ve heard great things, but I can&#8217;t verify quality. I&#8217;ve tried to encode and play it back, but there were too many problems that early in the ballgame and I haven&#8217;t been back since. I did notice that VP8 libraries were recently included in Ubuntu, because I noticed it in an update. Perhaps it&#8217;s time to give it a try. The fact of the matter is, I&#8217;ve very happy with H.264, even if it isn&#8217;t open-source. In terms of quality, I&#8217;ve yet to find a better choice than H.264 and AAC in a MP4 wrapper.</p>
+<p>My very best experience, that I can&#8217;t recommend highly enough, has been renting/buying through Amazon Video on Demand. The only downside, other than being a little expensive, is that fact that it&#8217;s built on top of flash. But the quality is fantastic, the performance is the best I&#8217;ve seen for flash video, and it plays <em>extremely </em>well with Linux. Not to mention that much of the content is now available in 720p HD. Sure, it&#8217;s not Blu-ray, but it&#8217;s convenient. I find this service to be the best option for me.</p>
+<p>TL;DR There are no open-source choices for video downloading. I&#8217;ve found ripping/encoding H.264 and AAC to be the best choice for local content, and renting/buying content from Amazon Video on Demand to give me the best experience and overall bang for my buck.</p>

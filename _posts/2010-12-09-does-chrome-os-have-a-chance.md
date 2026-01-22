@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Does Chrome OS Have a Chance?"
+date: 2010-12-09
+categories:
+  - Uncategorized
+---
+
+<p><img height="295" width="531" alt="Google Chrome OS" src="http://upload.wikimedia.org/wikipedia/commons/9/9a/Chrome_OS_screenshot_sdres_0001_App-Menu.png" /></p>
+<p>Google Chrome OS has been all over the news since the press conference Google held Tuesday. Opinions about the operating system have ranged from &#8216;spectacular&#8217; to &#8216;just plain stupid&#8217;, but I wanted to shed some light on the whole ordeal.</p>
+<p>I&#8217;m naturally biased against the OS, but that&#8217;s simply because it wasn&#8217;t designed for someone like me in mind. Most veteran computer users bah-humbug it because of its overly-simplified user experience, while other tech nerds nay-say it because they prefer systems where they can hack, tinker, and fiddle. These users typically have the loudest voice, and for that reason most of the comments I&#8217;ve heard have been negative.</p>
+<p>But the truth is, Google isn&#8217;t stupid. While the &#8220;computer elite&#8221; might not understand it, they&#8217;re only a sliver of the audience. The truth is, the Google Chrome OS experience is appealing to many users. Most typical users don&#8217;t want to have to crack open a terminal, partition their hard disk, run a virus scan, or, heaven forbid, defrag. They don&#8217;t want to sit around and wait for their computers to boot up, or deal with annoying updates. They want to hit a button, check their e-mail, and go about their day. While I&#8217;m not convinced that you want to spend your entire computing experience behind a web browser, with web-based applications, it certainly is a fantastic idea to many users. It is especially poignant for people that have an iPad-like state of mind about computing. People just want to surf and use their computers, not look at it like a machine.</p>
+<p>Whether or not you&#8217;re for this overly-simplistic, internet-based computing experience, you have to look at it from an open-source enthusiast&#8217;s perspective: this will, more than likely, be the most popular, mainstream Linux distro. It can do nothing but raise awareness. With it being built on top of Ubuntu, which itself is built upon Debian, this could be a fantastic &#8220;gateway drug&#8221; for computer users that will open up their sights to the open-source world. Perhaps this is just the beginning for the Linux community.</p>

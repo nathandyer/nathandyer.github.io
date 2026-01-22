@@ -1,0 +1,17 @@
+---
+layout: post
+title: "How We Bilked the Zune HD (And How It Bilked Itself)"
+date: 2010-12-30
+categories:
+  - Uncategorized
+---
+
+<p><img alt="Zune HD" src="http://www.mobilewhack.com/wp-content/images/2009/04/zune-hd.jpg" width="397" height="224" /></p>
+<p>After a trip to the thesaurus to avoid suggestive language, I decided to talk about the many bilkings of Microsoft regarding the Zune HD.</p>
+<p>Now I know what you&#8217;re saying: &#8220;But the Zune HD is a proprietary device running proprietary software and Microsoft is evil and Android is great and so on and so forth.&#8221; Yeah, I know that the Zune HD is proprietary and closed-off. And yes, I&#8217;m aware of the fact that this is a blog dedicated to open-source. Just let me explain:</p>
+<p>Today I took a nice drive to Best Buy and killed about an hour or so. I spent a good long while looking over all the media players: iPods, Android Tablets (the ones I used were sooo sucky), the Sansa Fuze (meh), and the Zune HD. The hardware on the Zune HD is actually quite Apple-like. Good build quality, nice design, lite as a feather. I fired it up, and lo and behold, I was instantly impressed with the interface. I&#8217;d seen it before, but I&#8217;d never taken the time to give it a stroll in person. It was snappy and elegant, and, to be quite honest, very non-Microsoft. I wouldn&#8217;t mind taking that bad boy home for myself. They really outdid themselves with that model. But their sales are less than impressive, and the device is considered a great big flop. Why?</p>
+<p>I&#8217;ve been an iPod user for the past four or five years. When the iPod Touch first came out I saved up my money and ran out to buy it. The iPod Touch was completely proprietary, and could only be synced with iTunes. For the longest time I couldn&#8217;t even think about using it with Linux. Fast forward, now we have <em>libimobiledevice</em> and <em>libipod</em>, created by many hackers who were dedicated and reverse engineered the iPod protocols. People were excited and diligent, and solved that problem.</p>
+<p>That didn&#8217;t happen with the Zune HD. Instead of reverse engineering and finding a solution, people just kind of sat on their hands and said &#8220;phooey on it!&#8221; </p>
+<p>I&#8217;m not saying it&#8217;s the open-source community&#8217;s fault that the Zune HD was a dud. In fact, I&#8217;m pointing most of the blame over at Microsoft for not using standards like MTP and for making their software PC only (I could even let them slide if they had a Mac version). <strong>They locked unenthused users into a sandbox, and people decided that they would just rather go elsewhere.</strong></p>
+<p><strong>But here&#8217;s the bottom line: if this were an Apple product, that wouldn&#8217;t have happened.</strong> Developers would have banded together and found some type of workaround by now. I think that the community needs to get this problem fixed, if only for the benefit of Zune/Ubuntu users. Who knows, I&#8217;m sure that are many people who only stay on Windows for that specific use case. Not to mention that the new Windows Phone 7 phones use the same protocols.</p>
+<p>Heck, I&#8217;ll even put my money where my mouth is: if we get Zune HD/Windows Phone 7 libraries implemented in some major media player (Banshee would be perfect) this year (2011) I will fork out the money for a Zune HD.</p>
