@@ -36,9 +36,10 @@ body {
 
 /* Everything, no matter the layout, uses the .content class which excludes header/footer */
 .content {
-	max-width: 80%;
-	flex: 1 0 auto;
+	max-width: 800px;
 	margin: 0 auto;
+	padding: 2rem;
+	flex: 1 0 auto;
 	line-height: 1.5;
 	margin-bottom: 12px;
 	font-size: 22px;
