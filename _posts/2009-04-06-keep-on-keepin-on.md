@@ -1,9 +1,0 @@
----
-layout: post
-title: "Keep On Keepin' On"
-date: 2009-04-06
-categories:
-  - Uncategorized
----
-
-I have nothing to say tonight, but due to my absence from the blogosphere, I have a huge desire to blog about something.<br /><br />It's both good and bad that I have nothing to blog about. It's good because nothing bad has happened, really, but it's also bad because this thing is sure to be very boring.<br /><br />My relationship with iTunes is no more. I officially broke up with her a few nights ago. I sat her down, looked her in her her GUI, and had a heart-to-code. I told her that it wasn't her, it was me, but that was a lie- it was all her. The fact is that I've found someone else. Someone who is nice, and warm, and offers music for a lot cheaper in a format playable on anything AND has software for Linux Ubuntu. She's not as pretty, but it's going better. The good news is that I'm going to stay friends with iTunes. I figure I could still use her for her video.<br /><br />I can tell that summer at my new house is going to be magical. Last night, we rode into town and enjoyed an evening at the car show, then grabbed some sundaes at Sonic's. Tonight, we just relaxed and walked around outside in our bare feet. Everything was perfect; hard to believe it's going to snow tomorrow!<br /><br />School is going well, I suppose. Overall, it is. I flunked a test last week- didn't see that one coming. I studied, but the force just wasn't with me. I guess that just happens :). I'm chugging along assignment by assignment, and I know it won't be long until summer is here. At least I can say that things in my life have finally begun to feel normal.<br /><br />And on a quick follow-up note, I did it: I bought Lost Season 4...<br /><br />and I am watching 1 episode a week like the good lord intended.<br /><br />Who says you can't have your cake and eat it too?<br /><br />As always,<br />Nathan
