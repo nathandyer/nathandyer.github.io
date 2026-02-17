@@ -22,7 +22,7 @@ Another MPV-based app, Celluloid, has also come fairly close over the years. Rec
 
 All these apps have been tested, but none have been able to replace VLC for me in my day-to-day usage. That is, until now. Cine is finally the video player that I've been longing for.
 
-![A screenshot of the Cine app with a 4K copy of The Emperor's New Groove playing, highlighting features like chapters and floating controls]({{ site.url }}/img/cine-screenshot.png)
+![A screenshot of the Cine app with a 4K copy of The Emperor's New Groove playing, highlighting features like chapters and floating controls]({{ site.url }}/img/cine_screenshot.png)
 
 Cine manages to achieve the really difficult combination of being a deceptively simple looking application, while still providing an absolute ton of options and features. It is rock-solid when it comes to stability. I've thrown a lot of different videos and codecs at it, and it has not crashed once. The interface is intuitive, and gets out of your way when it's not needed so as to block parts of the video.
 
