@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cine: The First Video Player That Can Replace VLC for Me
+title: Cine is the First Video Player That Can Replace VLC for Me
 summary: Cine is a fantastic video player
 date: 2026-02-18 20:00:00 -0500
 ---
