@@ -2,7 +2,7 @@
 layout: post
 title: 10 Random Things I Hate
 summary: Following a new blogging trend, let's chat about 10 things I hate in particular
-date: 2026-02-10 20:00:00 -0500
+date: 2026-02-16 21:00:00 -0500
 ---
 
 Following a recent trend I've seen of people listing 10 things they hate, I thought it would be fun (and a bit of a break from the more serious posts I've written recently) to come up with my own list. 
