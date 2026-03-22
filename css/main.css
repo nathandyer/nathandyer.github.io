@@ -59,6 +59,9 @@ h1, h2, h3, h4 {
 
 post-nav {
 	text-align: center;
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .topnav {
