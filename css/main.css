@@ -57,7 +57,7 @@ h1, h2, h3, h4 {
 	font-family: var(--preferred-sans-serif-font)
 }
 
-post-nav {
+#post-nav {
 	text-align: center;
 	width: fit-content;
 	margin-left: auto;
