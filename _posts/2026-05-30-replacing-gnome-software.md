@@ -2,7 +2,7 @@
 layout: post
 title: Replacing GNOME Software
 summary: Removing GNOME Software and replacing it with Bazaar is an instant upgrade
-date: 2026-05-30 16:00:00 -0400
+date: 2026-05-30 15:00:00 -0400
 ---
 
 I try to be charitable when it comes to free (libre) software. Most of the tools that I use are made by people who are developing and maintaining them in their free time, with no financial compensation in return. What they do is a gift to the open source community, to the public commons, to the world.
