@@ -37,7 +37,7 @@ In another life, when I created the Vocal podcast app as a college sophomore, I 
 
 So now, all these years later, what would it look like if I were to create a project using everything I've learned from a decade of software development, and after years of being a professional maintainer through my work on SecureDrop for Freedom of the Press Foundation?
 
-In short, it looks like this: https://codeberg.org/nathandyer/Kepublicity 
+In short, it looks like this: [https://codeberg.org/nathandyer/Kepublicity](https://codeberg.org/nathandyer/Kepublicity)
 
 Within the repo, I hope technical users and developers will notice:
 * A clean git history
@@ -53,9 +53,9 @@ The truth is that with the ever-expanding use of LLMs, I sometimes feel a measur
 
 ## Download and feedback
 
-If you have a Kobo and you're using Linux, I really hope you'll take Kepublicity for a spin! It's available to download from Flathub here: https://flathub.org/en/apps/me.nathandyer.Kepublicity 
+If you have a Kobo and you're using Linux, I really hope you'll take Kepublicity for a spin! It's available to download from Flathub here: [https://flathub.org/en/apps/me.nathandyer.Kepublicity](https://flathub.org/en/apps/me.nathandyer.Kepublicity)
 
-If you have a feature request, run into an issue, or can think of a way to improve, I would really appreciate an issue report: https://codeberg.org/nathandyer/Kepublicity/issues
+If you have a feature request, run into an issue, or can think of a way to improve, I would really appreciate an issue report: [https://codeberg.org/nathandyer/Kepublicity/issues](https://codeberg.org/nathandyer/Kepublicity/issues)
 
 Or if you want to share any feedback at all, you can contact me on Matrix, [Signal](https://signal.me/#eu/DnT1tyWhAif7gcoi0hzVc97Q1y2HXrqRJ5PbgRVukB7ES57CiFFIwJwmSWOF3poj), [Mastodon](https://hachyderm.io/@nathandyer), or [email](mailto:nathandyer@fastmail.com). I would really love to hear from you!
 
